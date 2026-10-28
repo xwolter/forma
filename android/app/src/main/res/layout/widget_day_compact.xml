@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/widget_root" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="@drawable/widget_background" android:padding="14dp">
+  <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center_vertical" android:orientation="horizontal">
+    <ImageView android:layout_width="18dp" android:layout_height="18dp" android:padding="3dp" android:background="@drawable/widget_badge" android:src="@drawable/ic_widget_barbell" android:tint="@color/widget_on_accent" android:importantForAccessibility="no"/>
+    <TextView android:id="@+id/widget_title" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:layout_marginStart="8dp" android:text="FORMA · Dziś" android:textColor="@color/widget_day_muted" android:textStyle="bold" android:textSize="12sp" android:maxLines="1"/>
+    <ImageView android:id="@+id/widget_food" android:layout_width="32dp" android:layout_height="32dp" android:padding="7dp" android:background="@drawable/widget_button" android:src="@drawable/ic_widget_plus" android:tint="@color/widget_day_accent" android:contentDescription="Dodaj jedzenie"/>
+    <ImageView android:id="@+id/widget_training" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginStart="4dp" android:padding="7dp" android:background="@drawable/widget_button" android:src="@drawable/ic_widget_chart" android:tint="@color/widget_day_accent" android:contentDescription="Postępy"/>
+  </LinearLayout>
+  <LinearLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:gravity="center_vertical" android:orientation="horizontal">
+    <ImageView android:id="@+id/widget_ring" android:layout_width="60dp" android:layout_height="60dp" android:importantForAccessibility="no"/>
+    <LinearLayout android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:layout_marginStart="10dp" android:orientation="vertical">
+      <TextView android:id="@+id/widget_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" android:textColor="@color/widget_day_ink" android:textStyle="bold" android:textSize="26sp" android:maxLines="1" android:autoSizeTextType="uniform" android:autoSizeMinTextSize="18sp" android:autoSizeMaxTextSize="26sp" android:autoSizeStepGranularity="1sp"/>
+      <TextView android:id="@+id/widget_goal" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/widget_day_muted" android:textSize="11sp" android:maxLines="2" android:ellipsize="end"/>
+    </LinearLayout>
+  </LinearLayout>
+  <LinearLayout android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="6dp" android:orientation="horizontal" android:gravity="center_vertical" android:background="@drawable/widget_button" android:paddingStart="16dp" android:paddingEnd="6dp">
+    <TextView android:id="@+id/widget_status" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:text="Twój trening" android:textColor="@color/widget_day_ink" android:textStyle="bold" android:textSize="12sp" android:maxLines="2" android:ellipsize="end"/>
+
+    <ImageView android:id="@+id/widget_toggle" android:layout_width="36dp" android:layout_height="36dp" android:padding="9dp" android:background="@drawable/widget_pill_accent" android:src="@drawable/ic_widget_play" android:tint="@color/widget_on_accent" android:contentDescription="Trening"/>
+  </LinearLayout>
+</LinearLayout>

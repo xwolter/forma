@@ -1,0 +1,49 @@
+{
+  "name": "forma-mobile",
+  "version": "0.8.9",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "vitest run",
+    "android": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor-community/keep-awake": "^7.1.0",
+    "@capacitor-mlkit/barcode-scanning": "^7.5.0",
+    "@capacitor/app": "^7.1.2",
+    "@capacitor/camera": "^7.0.5",
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/filesystem": "^7.1.9",
+    "@capacitor/haptics": "^7.0.5",
+    "@capacitor/local-notifications": "^7.0.7",
+    "@capacitor/share": "^7.0.4",
+    "@fontsource/manrope": "^5.2.8",
+    "@fontsource/outfit": "^5.2.8",
+    "@fontsource/plus-jakarta-sans": "^5.2.8",
+    "@phosphor-icons/react": "2.1.10",
+    "@zxing/library": "^0.23.0",
+    "firebase": "^13.1.0",
+    "idb": "^8.0.3",
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/cli": "^7.4.3",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "fake-indexeddb": "^6.2.6",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.1",
+    "vite-plugin-pwa": "^1.1.0",
+    "vitest": "^5.0.5"
+  },
+  "overrides": {
+    "@grpc/grpc-js": "1.13.6"
+  }
+}

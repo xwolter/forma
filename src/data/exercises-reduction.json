@@ -1,0 +1,4837 @@
+[
+  {
+    "id": "fit-bicycling",
+    "name": "Jazda na rowerze",
+    "muscle": "Całe ciało",
+    "equipment": "Rower",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Dopasuj siodełko i załóż kask, wybierz bezpieczną trasę.",
+      "Pedałuj płynnie, utrzymując lekko ugięte łokcie i stabilny tułów.",
+      "Dobierz przełożenie do terenu; zakończ spokojnym odcinkiem."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Bicycling",
+    "searchTerms": "Bicycling redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · bez dodatkowego ciężaru"
+  },
+  {
+    "id": "fit-bicycling-stationary",
+    "name": "Rower stacjonarny",
+    "muscle": "Całe ciało",
+    "equipment": "Rower stacjonarny",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Ustaw siodełko tak, by kolano pozostawało lekko ugięte na dole obrotu.",
+      "Pedałuj równomiernie, nie kołysząc biodrami.",
+      "Zmieniaj opór stopniowo i zwolnij przed zejściem z roweru."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Bicycling_Stationary",
+    "searchTerms": "Bicycling, Stationary redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-elliptical-trainer",
+    "name": "Orbitrek",
+    "muscle": "Całe ciało",
+    "equipment": "Orbitrek",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Wejdź na nieruchome platformy i chwyć uchwyty.",
+      "Prowadź stopy po eliptycznym torze, utrzymując wyprostowany tułów.",
+      "Zwiększaj opór stopniowo; zatrzymaj urządzenie przed zejściem."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Elliptical_Trainer",
+    "searchTerms": "Elliptical Trainer redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-jogging-treadmill",
+    "name": "Trucht na bieżni",
+    "muscle": "Całe ciało",
+    "equipment": "Bieżnia",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Przypnij klips bezpieczeństwa i rozpocznij od marszu.",
+      "Przejdź do lekkiego truchtu, stawiając krótkie, swobodne kroki.",
+      "Zmniejsz prędkość do marszu przed zatrzymaniem bieżni."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Jogging_Treadmill",
+    "searchTerms": "Jogging, Treadmill redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-running-treadmill",
+    "name": "Bieg na bieżni",
+    "muscle": "Całe ciało",
+    "equipment": "Bieżnia",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Przypnij klips bezpieczeństwa i stopniowo rozpędź bieżnię.",
+      "Biegnij w jej środkowej części bez trzymania poręczy.",
+      "Zwalniaj stopniowo i zejdź dopiero po zatrzymaniu pasa."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Running_Treadmill",
+    "searchTerms": "Running, Treadmill redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-recumbent-bike",
+    "name": "Rower poziomy",
+    "muscle": "Całe ciało",
+    "equipment": "Rower stacjonarny",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Ustaw odległość siedziska, aby nie prostować kolana do zablokowania.",
+      "Oprzyj plecy i pedałuj bez odrywania bioder od siedziska.",
+      "Dobierz opór pozwalający utrzymać równy rytm."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Recumbent_Bike",
+    "searchTerms": "Recumbent Bike redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-rope-jumping",
+    "name": "Skakanie na skakance",
+    "muscle": "Całe ciało",
+    "equipment": "Skakanka",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Dopasuj długość skakanki i wybierz wolną, równą przestrzeń.",
+      "Obracaj linkę nadgarstkami, wykonując niewysokie podskoki.",
+      "Ląduj miękko z lekko ugiętymi kolanami; rób krótkie przerwy."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Rope_Jumping",
+    "searchTerms": "Rope Jumping redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "intermediate",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 30,
+      "max": 60,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · bez dodatkowego ciężaru"
+  },
+  {
+    "id": "fit-skating",
+    "name": "Jazda na rolkach",
+    "muscle": "Całe ciało",
+    "equipment": "Rolki",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Załóż kask i ochraniacze, wybierz równy odcinek bez ruchu ulicznego.",
+      "Ugnij lekko kolana i odpychaj się naprzemiennie na boki.",
+      "Hamuj wyuczoną techniką i dostosuj prędkość do umiejętności."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Skating",
+    "searchTerms": "Skating redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "intermediate",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · bez dodatkowego ciężaru"
+  },
+  {
+    "id": "fit-stairmaster",
+    "name": "Stepper schodowy",
+    "muscle": "Całe ciało",
+    "equipment": "Stepper",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Wejdź na stopnie i uruchom najniższe tempo.",
+      "Stawiaj stopy stabilnie, prostując nogę bez podciągania się na poręczy.",
+      "Zwalniaj przed zatrzymaniem i ostrożnie zejdź z urządzenia."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Stairmaster",
+    "searchTerms": "Stairmaster redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-step-mill",
+    "name": "Schody ruchome do cardio",
+    "muscle": "Całe ciało",
+    "equipment": "Schody treningowe",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Wejdź na zatrzymane schody i wybierz spokojną prędkość.",
+      "Wchodź kolejno na stopnie, nie opierając ciężaru ciała na uchwytach.",
+      "Zatrzymaj schody przed zejściem; nie zeskakuj z ruchomych stopni."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Step_Mill",
+    "searchTerms": "Step Mill redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-trail-running-walking",
+    "name": "Marsz lub trucht w terenie",
+    "muscle": "Całe ciało",
+    "equipment": "Na zewnątrz",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Wybierz trasę dopasowaną do kondycji i obuwie z przyczepną podeszwą.",
+      "Utrzymuj swobodny rytm, skracając krok na nierównym podłożu.",
+      "Zwolnij na zbiegach i zakończ spokojnym marszem."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Trail_Running_Walking",
+    "searchTerms": "Trail Running/Walking redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": true,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · bez dodatkowego ciężaru"
+  },
+  {
+    "id": "fit-walking-treadmill",
+    "name": "Marsz na bieżni",
+    "muscle": "Całe ciało",
+    "equipment": "Bieżnia",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Przypnij klips bezpieczeństwa i włącz małą prędkość.",
+      "Maszeruj naturalnym krokiem, patrząc przed siebie.",
+      "Zwiększaj tempo lub nachylenie stopniowo, następnie spokojnie zwolnij."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Walking_Treadmill",
+    "searchTerms": "Walking, Treadmill redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 600,
+      "max": 1200,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · opór ustaw na urządzeniu"
+  },
+  {
+    "id": "fit-prowler-sprint",
+    "name": "Pchanie sań treningowych",
+    "muscle": "Całe ciało",
+    "equipment": "Sanie",
+    "loadType": "bodyweight",
+    "pattern": "Trening tlenowy",
+    "instructions": [
+      "Ustaw lekkie obciążenie sań na przeznaczonym, wolnym torze.",
+      "Chwyć uchwyty, pochyl ciało w jednej linii i odpychaj podłoże nogami.",
+      "Pokonaj krótki odcinek bez zapadania lędźwi; odpocznij przed kolejnym."
+    ],
+    "mistakes": [
+      "Zbyt szybkie zwiększanie tempa i pomijanie spokojnego początku oraz zakończenia."
+    ],
+    "alternatives": [
+      "rowing-ergometer"
+    ],
+    "sourceId": "Prowler_Sprint",
+    "searchTerms": "Prowler Sprint redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds",
+    "demoViews": true,
+    "defaultTarget": {
+      "sets": 1,
+      "min": 30,
+      "max": 60,
+      "rest": 0
+    },
+    "loadHint": "czas pracy · bez dodatkowego ciężaru"
+  },
+  {
+    "id": "fit-battling-ropes",
+    "name": "Liny treningowe — fale naprzemienne",
+    "muscle": "Barki",
+    "equipment": "Liny treningowe",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Chwyć końce zabezpieczonych lin, stań na lekko ugiętych nogach.",
+      "Unoś i opuszczaj ręce naprzemiennie, tworząc równe fale.",
+      "Oddychaj swobodnie i utrzymuj stabilny tułów przez cały odcinek."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Battling_Ropes",
+    "searchTerms": "Battling Ropes redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds"
+  },
+  {
+    "id": "fit-overhead-slam",
+    "name": "Rzut piłką slam ball o podłoże",
+    "muscle": "Plecy",
+    "equipment": "Piłka lekarska",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Użyj piłki przeznaczonej do rzutów o ziemię i zostaw wolną przestrzeń.",
+      "Unieś piłkę nad głowę, następnie skieruj ją w podłoże pracą ramion i tułowia.",
+      "Podnieś ją ze zgięciem bioder i kolan; uważaj na ewentualne odbicie."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Overhead_Slam",
+    "searchTerms": "Overhead Slam redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-medicine-ball-chest-pass",
+    "name": "Podanie piłki lekarskiej sprzed klatki",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Piłka lekarska",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Stań przed odpowiednią ścianą lub partnerem, trzymaj piłkę przy klatce.",
+      "Wypchnij piłkę oburącz w przód, prostując łokcie.",
+      "Odbierz ją na lekko ugięte ramiona, nie tracąc równowagi."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Medicine_Ball_Chest_Pass",
+    "searchTerms": "Medicine Ball Chest Pass redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-two-arm-overhead-throw",
+    "name": "Rzut piłką oburącz znad głowy",
+    "muscle": "Barki",
+    "equipment": "Piłka lekarska",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Sprawdź wolną strefę rzutu i chwyć lekką piłkę oburącz.",
+      "Przenieś piłkę nad głowę i rzuć w przód, prostując ramiona.",
+      "Utrzymaj stabilną pozycję i podejdź po piłkę po jej zatrzymaniu."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Two-Arm_Overhead_Throw",
+    "searchTerms": "Standing Two-Arm Overhead Throw redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-side-to-side-box-shuffle",
+    "name": "Przejścia bokiem przez niski podest",
+    "muscle": "Przód uda",
+    "equipment": "Podest",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Stań bokiem do stabilnego, niskiego podestu z jedną stopą na nim.",
+      "Przenieś ciężar przez podest, zamieniając nogę stojącą na górze.",
+      "Ląduj miękko i utrzymuj kolana w kierunku stóp."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Side_to_Side_Box_Shuffle",
+    "searchTerms": "Side to Side Box Shuffle redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-bench-sprint",
+    "name": "Szybkie naprzemienne wejścia na podest",
+    "muscle": "Przód uda",
+    "equipment": "Podest",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Wybierz niski podest i postaw na nim całą stopę.",
+      "Zmieniaj nogi w rytmicznych wejściach, pracując ramionami.",
+      "Zacznij wolno; zwiększaj tempo dopiero przy pewnym ustawianiu stóp."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Bench_Sprint",
+    "searchTerms": "Bench Sprint redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-carioca-quick-step",
+    "name": "Przeplatanka bokiem",
+    "muscle": "Przywodziciele uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Stań bokiem do wolnego odcinka i lekko ugnij kolana.",
+      "Przemieszczaj się bokiem, przekładając jedną nogę na zmianę przed i za drugą.",
+      "Wykonaj powrót w drugim kierunku bez splatania stóp."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Carioca_Quick_Step",
+    "searchTerms": "Carioca Quick Step redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds"
+  },
+  {
+    "id": "fit-fast-skipping",
+    "name": "Skip naprzemienny",
+    "muscle": "Przód uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Stań na równym, nieśliskim podłożu.",
+      "Wykonuj krótkie naprzemienne podskoki z unoszeniem kolan i pracą ramion.",
+      "Ląduj miękko, utrzymując tułów nad stopami."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Fast_Skipping",
+    "searchTerms": "Fast Skipping redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false,
+    "metric": "seconds"
+  },
+  {
+    "id": "fit-lateral-bound",
+    "name": "Przeskoki łyżwiarskie",
+    "muscle": "Przywodziciele uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Stań na jednej nodze z lekko ugiętym kolanem.",
+      "Odepchnij się w bok i wyląduj na przeciwnej nodze.",
+      "Ustabilizuj biodro i kolano przed następnym przeskokiem."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Lateral_Bound",
+    "searchTerms": "Lateral Bound redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-front-box-jump",
+    "name": "Wskok na podest",
+    "muscle": "Tył uda",
+    "equipment": "Podest",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Ustaw niski, stabilny podest z dużą powierzchnią lądowania.",
+      "Z półprzysiadu wyskocz obunóż i wyląduj miękko całą stopą na podeście.",
+      "Wyprostuj się i zejdź krokiem zamiast zeskakiwać."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Front_Box_Jump",
+    "searchTerms": "Front Box Jump redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-star-jump",
+    "name": "Pajacyk z wyskokiem",
+    "muscle": "Przód uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Stań stabilnie i lekko ugnij biodra oraz kolana.",
+      "Wyskocz, otwierając nogi i ramiona na boki.",
+      "Złącz je przed miękkim lądowaniem; zachowaj przerwę na odzyskanie równowagi."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Star_Jump",
+    "searchTerms": "Star Jump redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-freehand-jump-squat",
+    "name": "Przysiad z wyskokiem",
+    "muscle": "Przód uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Ustaw stopy na szerokość bioder lub nieco szerzej.",
+      "Zejdź do wygodnego przysiadu, następnie wyskocz przez wyprost nóg.",
+      "Ląduj miękko i przyjmij stabilną pozycję przed powtórzeniem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Freehand_Jump_Squat",
+    "searchTerms": "Freehand Jump Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-split-jump",
+    "name": "Wyskok z pozycji wykrocznej",
+    "muscle": "Przód uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Przyjmij pozycję wykroczną z ugiętymi nogami.",
+      "Wyskocz przez wyprost obu nóg, utrzymując ustawienie nogi prowadzącej.",
+      "Wyląduj miękko w pozycji wyjściowej i po serii zmień nogę z przodu."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Split_Jump",
+    "searchTerms": "Split Jump redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-lateral-cone-hops",
+    "name": "Przeskoki bokiem nad niską przeszkodą",
+    "muscle": "Przywodziciele uda",
+    "equipment": "Znaczniki",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Ustaw niski znacznik na równym podłożu i stań obok.",
+      "Przeskocz obunóż w bok, utrzymując stopy blisko siebie.",
+      "Ląduj miękko i zmień kierunek dopiero po ustabilizowaniu nóg."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Lateral_Cone_Hops",
+    "searchTerms": "Lateral Cone Hops redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-side-hop-sprint",
+    "name": "Przeskok bokiem i przyspieszenie",
+    "muscle": "Przód uda",
+    "equipment": "Znaczniki",
+    "loadType": "bodyweight",
+    "pattern": "Kondycja",
+    "instructions": [
+      "Stań bokiem do niskiego znacznika, zostaw wolny tor biegu.",
+      "Wykonaj kontrolowany przeskok bokiem i ustabilizuj lądowanie.",
+      "Przejdź do krótkiego przyspieszenia, potem spokojnie wyhamuj."
+    ],
+    "mistakes": [
+      "Lądowanie na sztywnych kolanach i tempo przekraczające kontrolę ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Side_Hop-Sprint",
+    "searchTerms": "Side Hop-Sprint redukcja kondycja",
+    "trainingType": "cardio",
+    "level": "beginner",
+    "lowImpact": false,
+    "recommended": false
+  },
+  {
+    "id": "fit-bodyweight-squat",
+    "name": "Przysiad bez obciążenia",
+    "muscle": "Przód uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Stań ze stopami nieco szerzej niż biodra.",
+      "Cofnij biodra i zegnij kolana, utrzymując całe stopy na podłodze.",
+      "Wstań płynnie, kierując kolana zgodnie z ustawieniem stóp."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Bodyweight_Squat",
+    "searchTerms": "Bodyweight Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-butt-lift-bridge",
+    "name": "Most biodrowy bez obciążenia",
+    "muscle": "Pośladki",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Połóż się na plecach, ugnij kolana i oprzyj stopy.",
+      "Unieś biodra do linii ud i tułowia przez nacisk pięt.",
+      "Opuść biodra spokojnie bez wyginania odcinka lędźwiowego."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Butt_Lift_Bridge",
+    "searchTerms": "Butt Lift (Bridge) redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-single-leg-glute-bridge",
+    "name": "Most biodrowy na jednej nodze",
+    "muscle": "Pośladki",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Połóż się na plecach, jedną stopę oprzyj, drugą nogę unieś.",
+      "Unieś biodra, utrzymując miednicę poziomo.",
+      "Opuść powoli i wykonaj serię na drugą nogę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Single_Leg_Glute_Bridge",
+    "searchTerms": "Single Leg Glute Bridge redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-glute-kickback",
+    "name": "Wyprost nogi w klęku podpartym",
+    "muscle": "Pośladki",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Ustaw dłonie pod barkami, kolana pod biodrami.",
+      "Unieś ugiętą nogę do tyłu przez wyprost biodra.",
+      "Wróć bez skręcania miednicy i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Glute_Kickback",
+    "searchTerms": "Glute Kickback redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-dead-bug",
+    "name": "Martwy robak — dead bug",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach z ramionami w górze oraz biodrami i kolanami ugiętymi.",
+      "Powoli oddal jedną nogę, utrzymując stabilne lędźwie i ramiona nad barkami.",
+      "Wróć do środka i wykonaj drugą nogę bez odrywania lędźwi."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Dead_Bug",
+    "searchTerms": "Dead Bug redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-alternate-heel-touchers",
+    "name": "Naprzemienne dotykanie pięt",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach, ugnij kolana i lekko unieś łopatki.",
+      "Zbliż jedną dłoń do pięty po tej samej stronie przez boczne zgięcie tułowia.",
+      "Zmieniaj strony bez ciągnięcia głową w przód."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Alternate_Heel_Touchers",
+    "searchTerms": "Alternate Heel Touchers redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cross-body-crunch",
+    "name": "Spięcie brzucha z rotacją",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach z ugiętymi kolanami i dłońmi przy głowie.",
+      "Unieś bark w stronę przeciwnego kolana bez pociągania szyi.",
+      "Opuść łopatki powoli i powtórz na drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Cross-Body_Crunch",
+    "searchTerms": "Cross-Body Crunch redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-crunch-hands-overhead",
+    "name": "Spięcia brzucha z ramionami nad głową",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach z kolanami ugiętymi i ramionami wydłużonymi za głową.",
+      "Zbliż żebra do miednicy, odrywając łopatki od podłoża.",
+      "Opuść powoli bez rozpędzania ramion."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Crunch_-_Hands_Overhead",
+    "searchTerms": "Crunch - Hands Overhead redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-flat-bench-lying-leg-raise",
+    "name": "Unoszenie nóg leżąc na ławce",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na stabilnej ławce i przytrzymaj jej brzegi.",
+      "Unieś nogi do góry bez rozpędu, utrzymując kontrolę miednicy.",
+      "Opuść do zakresu, w którym lędźwie pozostają stabilne."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Flat_Bench_Lying_Leg_Raise",
+    "searchTerms": "Flat Bench Lying Leg Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-flutter-kicks",
+    "name": "Naprzemienne unoszenie nóg w leżeniu na brzuchu",
+    "muscle": "Pośladki",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Połóż się przodem na ławce, pozostawiając nogi poza jej końcem.",
+      "Wykonuj niewielkie naprzemienne uniesienia nóg z bioder.",
+      "Utrzymuj spokojny tułów i nie zwiększaj zakresu przez przeprost lędźwi."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Flutter_Kicks",
+    "searchTerms": "Flutter Kicks redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-jackknife-sit-up",
+    "name": "Scyzoryki w leżeniu",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach z ramionami nad głową.",
+      "Unieś równocześnie tułów i nogi, zbliżając dłonie do stóp.",
+      "Opuść ciało spokojnie; skróć zakres, jeśli tracisz kontrolę pleców."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Jackknife_Sit-Up",
+    "searchTerms": "Jackknife Sit-Up redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cocoons",
+    "name": "Zwijanie tułowia i kolan — kokon",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach z nogami i ramionami wydłużonymi.",
+      "Zbliż kolana i klatkę do siebie, obejmując kierunek ruchu ramionami.",
+      "Powoli wróć do wydłużenia bez uderzania plecami o podłoże."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Cocoons",
+    "searchTerms": "Cocoons redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-tuck-crunch",
+    "name": "Spięcia brzucha z uniesionymi kolanami",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach z uniesionymi, ugiętymi nogami.",
+      "Unieś łopatki, kierując żebra w stronę miednicy.",
+      "Opuść powoli, utrzymując kolana w podobnym położeniu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Tuck_Crunch",
+    "searchTerms": "Tuck Crunch redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-oblique-crunches-on-the-floor",
+    "name": "Spięcia skośne w leżeniu bokiem",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na boku z ugiętymi nogami i dłonią przy głowie.",
+      "Zbliż górny bark w stronę biodra bez ciągnięcia szyi.",
+      "Opuść tułów i po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Oblique_Crunches_-_On_The_Floor",
+    "searchTerms": "Oblique Crunches - On The Floor redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-sit-up",
+    "name": "Siady z leżenia",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach z ugiętymi kolanami i stopami opartymi o podłoże.",
+      "Unieś tułów kontrolowanym ruchem bez zamachu rękami.",
+      "Wróć spokojnie, nie rzucając plecami na podłogę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Sit-Up",
+    "searchTerms": "Sit-Up redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-inverted-row",
+    "name": "Wiosłowanie pod sztangą",
+    "muscle": "Plecy",
+    "equipment": "Drążek",
+    "loadType": "bodyweight",
+    "pattern": "Plecy",
+    "instructions": [
+      "Zabezpiecz sztangę na stojaku i ustaw pod nią ciało w podporze na piętach.",
+      "Przyciągnij klatkę do sztangi, utrzymując linię tułowia i nóg.",
+      "Powoli wyprostuj ramiona bez opadania bioder."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Inverted_Row",
+    "searchTerms": "Inverted Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-suspended-row",
+    "name": "Wiosłowanie na taśmach podwieszanych",
+    "muscle": "Plecy",
+    "equipment": "Taśmy podwieszane",
+    "loadType": "bodyweight",
+    "pattern": "Plecy",
+    "instructions": [
+      "Sprawdź punkt mocowania taśm, chwyć uchwyty i odchyl ciało.",
+      "Przyciągnij klatkę do dłoni, prowadząc łokcie w tył.",
+      "Wyprostuj ramiona z kontrolą; ustawienie stóp reguluje trudność."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Suspended_Row",
+    "searchTerms": "Suspended Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-suspended-push-up",
+    "name": "Pompki na taśmach podwieszanych",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Taśmy podwieszane",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Sprawdź mocowanie taśm i ustaw podpór na uchwytach.",
+      "Zegnij łokcie, utrzymując stabilne uchwyty i tułów.",
+      "Odepchnij się do podporu; wybierz łatwiejszy kąt przy chwianiu rąk."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Suspended_Push-Up",
+    "searchTerms": "Suspended Push-Up redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-suspended-split-squat",
+    "name": "Przysiad wykroczny z nogą na taśmie",
+    "muscle": "Przód uda",
+    "equipment": "Taśmy podwieszane",
+    "loadType": "bodyweight",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Oprzyj tylną stopę w zabezpieczonym uchwycie taśmy.",
+      "Ugnij przednią nogę i cofnij biodra, zachowując równowagę.",
+      "Wstań przez nacisk przedniej stopy i po serii zmień nogę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Suspended_Split_Squat",
+    "searchTerms": "Suspended Split Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-suspended-reverse-crunch",
+    "name": "Przyciąganie kolan w podporze na taśmach",
+    "muscle": "Brzuch",
+    "equipment": "Taśmy podwieszane",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Umieść stopy w zabezpieczonych uchwytach i oprzyj dłonie pod barkami.",
+      "Przyciągnij kolana pod tułów bez zapadania lędźwi.",
+      "Wyprostuj nogi powoli i odzyskaj stabilną pozycję."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Suspended_Reverse_Crunch",
+    "searchTerms": "Suspended Reverse Crunch redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-suspended-fallout",
+    "name": "Wychylenie tułowia na taśmach",
+    "muscle": "Brzuch",
+    "equipment": "Taśmy podwieszane",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Stań z uchwytami taśm przed sobą i sprawdź ich mocowanie.",
+      "Wychyl proste ciało w przód, unosząc ramiona tylko do kontrolowanego zakresu.",
+      "Wróć przez pracę brzucha i ramion, bez załamywania bioder."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Suspended_Fallout",
+    "searchTerms": "Suspended Fallout redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-push-up-wide",
+    "name": "Pompki z szerokim ustawieniem dłoni",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw dłonie nieco szerzej niż barki i napnij tułów.",
+      "Zegnij łokcie, kierując klatkę między dłonie.",
+      "Odepchnij podłoże bez wysuwania głowy i opadania bioder."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Push-Up_Wide",
+    "searchTerms": "Push-Up Wide redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-push-ups-close-triceps-position",
+    "name": "Pompki wąskie na triceps",
+    "muscle": "Triceps",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Triceps",
+    "instructions": [
+      "Ustaw dłonie bliżej siebie pod klatką, utrzymując stabilny podpór.",
+      "Opuść ciało, prowadząc łokcie blisko boków.",
+      "Wyprostuj ramiona bez utraty linii tułowia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Push-Ups_-_Close_Triceps_Position",
+    "searchTerms": "Push-Ups - Close Triceps Position redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-push-ups-with-feet-elevated",
+    "name": "Pompki z nogami na podwyższeniu",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Oprzyj stopy na niskim, stabilnym podeście i dłonie na podłodze.",
+      "Opuść klatkę przez zgięcie łokci, nie zapadając lędźwi.",
+      "Wróć do podporu; obniż podest, jeśli tracisz stabilność."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Push-Ups_With_Feet_Elevated",
+    "searchTerms": "Push-Ups With Feet Elevated redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-push-up-to-side-plank",
+    "name": "Pompka z przejściem do podporu bokiem",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Wykonaj kontrolowaną pompkę w stabilnym podporze.",
+      "Przenieś ciężar na jedną dłoń i obróć ciało do podporu bokiem.",
+      "Wróć do środka i po kolejnej pompce zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Push_Up_to_Side_Plank",
+    "searchTerms": "Push Up to Side Plank redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-incline-push-up-close-grip",
+    "name": "Wąskie pompki na podwyższeniu",
+    "muscle": "Triceps",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Triceps",
+    "instructions": [
+      "Oprzyj dłonie blisko siebie o stabilną ławkę lub poręcz.",
+      "Zegnij łokcie blisko tułowia, zbliżając klatkę do podparcia.",
+      "Odepchnij się bez wyginania bioder."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Incline_Push-Up_Close-Grip",
+    "searchTerms": "Incline Push-Up Close-Grip redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-band-assisted-pull-up",
+    "name": "Podciąganie z gumą",
+    "muscle": "Plecy",
+    "equipment": "Drążek i guma",
+    "loadType": "bodyweight",
+    "pattern": "Plecy",
+    "instructions": [
+      "Zamocuj nieuszkodzoną gumę na stabilnym drążku i ostrożnie oprzyj w niej stopę lub kolano.",
+      "Przyciągnij tułów w stronę drążka bez zamachu.",
+      "Opuść się wolno i zdejmij gumę bez gwałtownego puszczania napięcia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Band_Assisted_Pull-Up",
+    "searchTerms": "Band Assisted Pull-Up redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-scapular-pull-up",
+    "name": "Podciąganie łopatkami w zwisie",
+    "muscle": "Górna część pleców",
+    "equipment": "Drążek",
+    "loadType": "bodyweight",
+    "pattern": "Górna część pleców",
+    "instructions": [
+      "Zawiśnij na stabilnym drążku z wyprostowanymi łokciami.",
+      "Obniż barki i unieś ciało niewielkim ruchem łopatek.",
+      "Wróć powoli do zwisu, nie kołysząc tułowiem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Scapular_Pull-Up",
+    "searchTerms": "Scapular Pull-Up redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-body-up",
+    "name": "Prostowanie ramion z podporu na przedramionach",
+    "muscle": "Triceps",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Triceps",
+    "instructions": [
+      "Ustaw podpór na przedramionach i stopach z łokciami pod barkami.",
+      "Odepchnij podłoże, prostując ramiona i przechodząc na dłonie.",
+      "Wróć powoli na przedramiona, utrzymując napięty tułów."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Body-Up",
+    "searchTerms": "Body-Up redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-body-tricep-press",
+    "name": "Prostowanie ramion z masą ciała przy poręczy",
+    "muscle": "Triceps",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Triceps",
+    "instructions": [
+      "Chwyć stabilną poręcz i odsuń stopy, ustawiając ciało w linii.",
+      "Zegnij łokcie, zbliżając czoło do dłoni bez zginania bioder.",
+      "Wyprostuj ramiona i wróć do pozycji początkowej."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Body_Tricep_Press",
+    "searchTerms": "Body Tricep Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-ball-leg-curl",
+    "name": "Uginanie nóg na piłce gimnastycznej",
+    "muscle": "Tył uda",
+    "equipment": "Piłka gimnastyczna",
+    "loadType": "bodyweight",
+    "pattern": "Tył uda",
+    "instructions": [
+      "Połóż się na plecach z piętami na piłce i unieś biodra.",
+      "Przyciągnij piłkę piętami, zginając kolana bez opadania bioder.",
+      "Powoli oddal piłkę, utrzymując równowagę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Ball_Leg_Curl",
+    "searchTerms": "Ball Leg Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-physioball-hip-bridge",
+    "name": "Most biodrowy z plecami na piłce",
+    "muscle": "Pośladki",
+    "equipment": "Piłka gimnastyczna",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Oprzyj górną część pleców na piłce, obie stopy ustaw stabilnie na podłodze.",
+      "Unieś biodra do linii ud i tułowia bez wyginania lędźwi.",
+      "Opuść je powoli, utrzymując piłkę nieruchomo pod plecami."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Physioball_Hip_Bridge",
+    "searchTerms": "Physioball Hip Bridge redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-platform-hamstring-slides",
+    "name": "Przyciąganie pięty na ślizgaczu leżąc",
+    "muscle": "Tył uda",
+    "equipment": "Ślizgacze",
+    "loadType": "bodyweight",
+    "pattern": "Tył uda",
+    "instructions": [
+      "Połóż się na plecach z jedną piętą na ślizgaczu i nogami wydłużonymi.",
+      "Przyciągnij piętę w stronę biodra przez zgięcie kolana, drugą nogę pozostaw prostą.",
+      "Oddal piętę powoli i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Platform_Hamstring_Slides",
+    "searchTerms": "Platform Hamstring Slides redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-step-up-with-knee-raise",
+    "name": "Wejście na podest z uniesieniem kolana",
+    "muscle": "Pośladki",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Postaw całą stopę na stabilnym, niskim podeście.",
+      "Wejdź przez nacisk tej nogi, unosząc przeciwne kolano.",
+      "Zejdź powoli i po serii zmień nogę prowadzącą."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Step-up_with_Knee_Raise",
+    "searchTerms": "Step-up with Knee Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-dumbbell-squat",
+    "name": "Przysiad z hantlami przy bokach",
+    "muscle": "Przód uda",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Stań z hantlami przy bokach i stopami w wygodnym rozstawie.",
+      "Zegnij biodra i kolana, utrzymując stopy na podłożu.",
+      "Wstań płynnie bez kołysania hantlami."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Dumbbell_Squat",
+    "searchTerms": "Dumbbell Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-plie-dumbbell-squat",
+    "name": "Przysiad sumo z jednym hantlem",
+    "muscle": "Przód uda",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Stań szerzej, skieruj palce lekko na zewnątrz i trzymaj hantel oburącz.",
+      "Opuść biodra między nogi z kolanami w kierunku stóp.",
+      "Wstań przez nacisk całych stóp, utrzymując ciężar pod tułowiem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Plie_Dumbbell_Squat",
+    "searchTerms": "Plie Dumbbell Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-barbell-lunge",
+    "name": "Wykroki ze sztangą",
+    "muscle": "Przód uda",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Ułóż sztangę stabilnie na górnej części pleców i ustaw wolną przestrzeń.",
+      "Zrób krok w przód, zegnij obie nogi i utrzymuj równowagę.",
+      "Odepchnij się przednią nogą, wróć do stania i zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Barbell_Lunge",
+    "searchTerms": "Barbell Lunge redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-barbell-walking-lunge",
+    "name": "Wykroki chodzone ze sztangą",
+    "muscle": "Przód uda",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Zabezpiecz sztangę na plecach i wybierz wolny tor.",
+      "Wykonuj kolejne wykroki z kontrolowanym obniżeniem bioder.",
+      "Utrzymuj szerokość kroków pozwalającą zachować równowagę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Barbell_Walking_Lunge",
+    "searchTerms": "Barbell Walking Lunge redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-barbell-step-ups",
+    "name": "Wejścia na podest ze sztangą",
+    "muscle": "Przód uda",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Ustaw niski, stabilny podest i lekko obciążoną sztangę na plecach.",
+      "Postaw całą stopę na podeście i wejdź przez nacisk górnej nogi.",
+      "Zejdź powoli, nie zeskakując z ciężarem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Barbell_Step_Ups",
+    "searchTerms": "Barbell Step Ups redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-barbell-side-split-squat",
+    "name": "Przysiad boczny ze sztangą",
+    "muscle": "Przód uda",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Stań szeroko ze stabilnie ułożoną sztangą na plecach.",
+      "Przenieś biodra w bok, zginając jedną nogę i zostawiając drugą wydłużoną.",
+      "Wróć do środka bez odrywania pięty i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Barbell_Side_Split_Squat",
+    "searchTerms": "Barbell Side Split Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-single-leg-leg-extension",
+    "name": "Prostowanie jednej nogi na maszynie",
+    "muscle": "Przód uda",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Dopasuj oś maszyny do kolana i oprzyj wałek nad kostką.",
+      "Wyprostuj jedną nogę bez unoszenia bioder z siedziska.",
+      "Opuść ciężar powoli i po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Single-Leg_Leg_Extension",
+    "searchTerms": "Single-Leg Leg Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-single-leg-high-box-squat",
+    "name": "Wejście na podest na jednej nodze z podparciem",
+    "muscle": "Przód uda",
+    "equipment": "Podest",
+    "loadType": "bodyweight",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Ustaw stabilny podest i pewny uchwyt lub taśmę do utrzymania równowagi.",
+      "Wejdź jedną nogą na podest, pozostawiając drugą bez obciążenia.",
+      "Zejdź powoli z pomocą uchwytu i po serii zmień nogę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Single-Leg_High_Box_Squat",
+    "searchTerms": "Single-Leg High Box Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-smith-machine-squat",
+    "name": "Przysiad na suwnicy Smitha",
+    "muscle": "Przód uda",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Ustaw gryf na barkach, pozycję stóp i ograniczniki bezpieczeństwa.",
+      "Opuść biodra w wygodny przysiad bez odrywania pięt.",
+      "Wstań i po zakończeniu pewnie odłóż gryf na haki."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Squat",
+    "searchTerms": "Smith Machine Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-smith-single-leg-split-squat",
+    "name": "Przysiad bułgarski na suwnicy Smitha",
+    "muscle": "Przód uda",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Ustaw sztangę, ograniczniki i stabilną ławkę pod tylną stopę.",
+      "Ugnij przednią nogę, utrzymując kolano w kierunku palców.",
+      "Wstań przez nacisk przedniej stopy; po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Single-Leg_Split_Squat",
+    "searchTerms": "Smith Single-Leg Split Squat redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-smith-machine-stiff-legged-deadlift",
+    "name": "Martwy ciąg na suwnicy Smitha z lekko ugiętymi kolanami",
+    "muscle": "Tył uda",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Tył uda",
+    "instructions": [
+      "Chwyć gryf przed udami i ustaw ograniczniki.",
+      "Cofnij biodra, opuszczając gryf blisko nóg przy miękkich kolanach.",
+      "Wróć przez wyprost bioder bez odchylania tułowia w tył."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Stiff-Legged_Deadlift",
+    "searchTerms": "Smith Machine Stiff-Legged Deadlift redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-stiff-legged-dumbbell-deadlift",
+    "name": "Martwy ciąg z hantlami na prawie prostych nogach",
+    "muscle": "Tył uda",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Tył uda",
+    "instructions": [
+      "Stań z hantlami przed udami, pozostaw lekko ugięte kolana.",
+      "Cofnij biodra i opuść hantle blisko nóg tylko do kontrolowanego zakresu.",
+      "Wyprostuj biodra bez przeprostu pleców."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Stiff-Legged_Dumbbell_Deadlift",
+    "searchTerms": "Stiff-Legged Dumbbell Deadlift redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-deadlifts",
+    "name": "Martwy ciąg między dolnymi wyciągami",
+    "muscle": "Przód uda",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Stań między dwoma dolnymi wyciągami i chwyć uchwyty przy bokach.",
+      "Cofnij biodra oraz ugnij kolana, utrzymując stabilne plecy.",
+      "Wyprostuj nogi i biodra bez szarpania linek."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Deadlifts",
+    "searchTerms": "Cable Deadlifts redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-pull-through",
+    "name": "Wyprost bioder z liną między nogami",
+    "muscle": "Pośladki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Stań tyłem do dolnego wyciągu i chwyć linę między nogami.",
+      "Cofnij biodra, pozwalając linie przesunąć się za tułów.",
+      "Wyprostuj biodra przez pracę pośladków, bez przeprostu lędźwi."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Pull_Through",
+    "searchTerms": "Pull Through redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-one-legged-cable-kickback",
+    "name": "Wyprost nogi na wyciągu",
+    "muscle": "Pośladki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Zamocuj pasek na kostce do dolnego wyciągu i przytrzymaj podporę.",
+      "Cofnij nogę przez wyprost biodra bez odchylania tułowia.",
+      "Wróć powoli i po serii zmień nogę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One-Legged_Cable_Kickback",
+    "searchTerms": "One-Legged Cable Kickback redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-hip-adduction",
+    "name": "Przywodzenie nogi na wyciągu",
+    "muscle": "Przywodziciele uda",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Stań bokiem do dolnego wyciągu z paskiem na bliższej kostce.",
+      "Przenieś nogę przed nogą podporową przez ruch w biodrze.",
+      "Wróć bez obracania miednicy; wykonaj obie strony."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Hip_Adduction",
+    "searchTerms": "Cable Hip Adduction redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-calf-raises",
+    "name": "Wspięcia na palce na maszynie stojąc",
+    "muscle": "Łydki",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Łydki",
+    "instructions": [
+      "Dopasuj poduszki do barków i oprzyj przody stóp na platformie.",
+      "Unieś pięty bez zginania kolan i kołysania tułowiem.",
+      "Opuść pięty powoli w wygodnym zakresie."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Calf_Raises",
+    "searchTerms": "Standing Calf Raises redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-smith-machine-calf-raise",
+    "name": "Wspięcia na palce na suwnicy Smitha",
+    "muscle": "Łydki",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Łydki",
+    "instructions": [
+      "Ustaw gryf na barkach, ograniczniki i stabilną platformę pod stopy.",
+      "Unieś pięty przez nacisk przodów stóp.",
+      "Opuść je kontrolowanie, zachowując pewne podparcie."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Calf_Raise",
+    "searchTerms": "Smith Machine Calf Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-barbell-seated-calf-raise",
+    "name": "Wspięcia siedząc ze sztangą na udach",
+    "muscle": "Łydki",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Łydki",
+    "instructions": [
+      "Usiądź stabilnie, oprzyj przody stóp na podwyższeniu i zabezpiecz sztangę podkładką na udach.",
+      "Unieś pięty bez podrywania sztangi rękami.",
+      "Opuść je wolno, utrzymując sztangę w miejscu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Barbell_Seated_Calf_Raise",
+    "searchTerms": "Barbell Seated Calf Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-dumbbell-seated-one-leg-calf-raise",
+    "name": "Wspięcie siedząc z hantlem na jednej nodze",
+    "muscle": "Łydki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Łydki",
+    "instructions": [
+      "Usiądź i oprzyj przednią część jednej stopy na podwyższeniu.",
+      "Trzymaj hantel stabilnie na udzie i unieś piętę.",
+      "Opuść powoli i zmień stronę po serii."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Dumbbell_Seated_One-Leg_Calf_Raise",
+    "searchTerms": "Dumbbell Seated One-Leg Calf Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-monster-walk",
+    "name": "Chód z gumą — monster walk",
+    "muscle": "Pośladki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Załóż gumę nad kolanami lub przy kostkach, zgodnie z oporem.",
+      "Przy lekko ugiętych nogach rób krótkie kroki w przód i na zewnątrz.",
+      "Utrzymuj napięcie gumy i kolana zgodnie z kierunkiem stóp."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Monster_Walk",
+    "searchTerms": "Monster Walk redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-band-hip-adductions",
+    "name": "Odwodzenie nogi z gumą stojąc",
+    "muscle": "Pośladki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Przywodziciele uda",
+    "instructions": [
+      "Zamocuj gumę nisko do pewnego punktu i załóż ją na dalszą kostkę.",
+      "Odsuń nogę w bok bez przechylania i obracania miednicy.",
+      "Wróć kontrolowanie i po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Band_Hip_Adductions",
+    "searchTerms": "Band Hip Adductions redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-hip-extension-with-bands",
+    "name": "Wyprost biodra z gumą",
+    "muscle": "Pośladki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Zamocuj gumę do stabilnego punktu i do kostki.",
+      "Cofnij nogę bez odchylania klatki i wyginania pleców.",
+      "Powoli wróć, utrzymując napięcie gumy."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Hip_Extension_with_Bands",
+    "searchTerms": "Hip Extension with Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-hip-flexion-with-band",
+    "name": "Unoszenie kolana z gumą",
+    "muscle": "Przód uda",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Zamocuj gumę nisko za sobą i załóż ją na kostkę.",
+      "Unieś kolano w przód przez zgięcie biodra.",
+      "Opuść nogę bez pochylania tułowia i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Hip_Flexion_with_Band",
+    "searchTerms": "Hip Flexion with Band redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-squats-with-bands",
+    "name": "Przysiad z długą gumą",
+    "muscle": "Przód uda",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Stań na środku nieuszkodzonej gumy i trzymaj jej końce przy barkach.",
+      "Zejdź do wygodnego przysiadu, zachowując pełny kontakt stóp z podłożem.",
+      "Wstań bez zapadania kolan i nie puszczaj napiętej gumy."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Squats_-_With_Bands",
+    "searchTerms": "Squats - With Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-calf-raises-with-bands",
+    "name": "Wspięcia na palce z gumą",
+    "muscle": "Łydki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Łydki",
+    "instructions": [
+      "Stań na gumie przodami stóp i przytrzymaj jej końce.",
+      "Unieś pięty, utrzymując tułów pionowo.",
+      "Opuść wolno i kontroluj, czy guma nie ześlizguje się spod stóp."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Calf_Raises_-_With_Bands",
+    "searchTerms": "Calf Raises - With Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-seated-band-hamstring-curl",
+    "name": "Uginanie nóg siedząc z gumą",
+    "muscle": "Tył uda",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Tył uda",
+    "instructions": [
+      "Usiądź na stabilnym siedzisku i zamocuj gumę przed sobą za kostkami.",
+      "Przyciągnij pięty pod siedzisko przez zgięcie kolan.",
+      "Powoli wyprostuj nogi, utrzymując stabilne biodra."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Seated_Band_Hamstring_Curl",
+    "searchTerms": "Seated Band Hamstring Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-band-pull-apart",
+    "name": "Rozciąganie gumy przed klatką",
+    "muscle": "Barki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Barki",
+    "instructions": [
+      "Trzymaj lekką gumę przed klatką na wysokości barków.",
+      "Rozsuń dłonie przez ruch ramion i łopatek bez unoszenia barków.",
+      "Wróć powoli, nie pozwalając gumie gwałtownie ściągnąć rąk."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Band_Pull_Apart",
+    "searchTerms": "Band Pull Apart redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-back-flyes-with-bands",
+    "name": "Odwrotne rozpiętki z gumą",
+    "muscle": "Barki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Barki",
+    "instructions": [
+      "Zamocuj gumę stabilnie przed sobą i chwyć jej końce.",
+      "Rozsuń ramiona na boki z lekko ugiętymi łokciami.",
+      "Powoli wróć, utrzymując żebra i tułów stabilnie."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Back_Flyes_-_With_Bands",
+    "searchTerms": "Back Flyes - With Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-lateral-raise-with-bands",
+    "name": "Unoszenie ramion bokiem z gumą",
+    "muscle": "Barki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań na gumie i chwyć jej końce przy bokach.",
+      "Unieś ramiona do wygodnej wysokości bez wzruszania barkami.",
+      "Opuść wolno, zachowując lekko ugięte łokcie."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Lateral_Raise_-_With_Bands",
+    "searchTerms": "Lateral Raise - With Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-shoulder-press-with-bands",
+    "name": "Wyciskanie gumy nad głowę",
+    "muscle": "Barki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań stabilnie na gumie z jej końcami przy barkach.",
+      "Wyprostuj ramiona w górę bez wypychania żeber.",
+      "Opuść dłonie do barków, kontrolując napięcie gumy."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Shoulder_Press_-_With_Bands",
+    "searchTerms": "Shoulder Press - With Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-external-rotation-with-band",
+    "name": "Rotacja zewnętrzna barku z gumą",
+    "muscle": "Barki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Barki",
+    "instructions": [
+      "Zamocuj lekką gumę z boku i zegnij łokieć do kąta prostego przy tułowiu.",
+      "Obróć przedramię na zewnątrz, nie odsuwając łokcia.",
+      "Powoli wróć i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "External_Rotation_with_Band",
+    "searchTerms": "External Rotation with Band redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-internal-rotation-with-band",
+    "name": "Rotacja wewnętrzna barku z gumą",
+    "muscle": "Barki",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań bokiem do zamocowanej gumy, łokieć trzymaj ugięty przy tułowiu.",
+      "Przyciągnij przedramię w stronę brzucha bez obracania klatki.",
+      "Powoli oddaj napięcie i zmień stronę."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Internal_Rotation_with_Band",
+    "searchTerms": "Internal Rotation with Band redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-band-skull-crusher",
+    "name": "Prostowanie ramion leżąc z gumą",
+    "muscle": "Triceps",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Triceps",
+    "instructions": [
+      "Zamocuj gumę pewnie za głową i połóż się z ramionami skierowanymi w górę.",
+      "Wyprostuj łokcie, utrzymując górne części ramion stabilnie.",
+      "Zegnij łokcie powoli, kontrolując gumę przy głowie."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Band_Skull_Crusher",
+    "searchTerms": "Band Skull Crusher redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-bench-press-with-bands",
+    "name": "Wyciskanie gumy leżąc na ławce",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Zamocuj gumę pewnie pod nogą stabilnej ławki przy głowie i połóż się z uchwytami w dłoniach.",
+      "Wypchnij uchwyty nad klatkę przez wyprost łokci.",
+      "Opuść dłonie powoli do wygodnej pozycji przy klatce."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Bench_Press_-_With_Bands",
+    "searchTerms": "Bench Press - With Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-cross-over-with-bands",
+    "name": "Rozpiętki stojąc z gumą",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Gumy",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Zamocuj gumy pewnie za sobą na wysokości klatki.",
+      "Zbliż dłonie przed tułowiem po łuku przy lekko ugiętych łokciach.",
+      "Powoli otwórz ramiona, nie odchylając ciała do tyłu."
+    ],
+    "mistakes": [
+      "Niestabilne mocowanie, uszkodzona guma i gwałtowne puszczanie napięcia."
+    ],
+    "alternatives": [],
+    "sourceId": "Cross_Over_-_With_Bands",
+    "searchTerms": "Cross Over - With Bands redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadHint": "opór gumy · ciężar opcjonalny"
+  },
+  {
+    "id": "fit-dumbbell-prone-incline-curl",
+    "name": "Uginanie hantli leżąc przodem na ławce skośnej",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Oprzyj klatkę na skośnej ławce i pozwól ramionom swobodnie zwisać.",
+      "Zegnij łokcie, unosząc hantle bez odrywania klatki od ławki.",
+      "Opuść je powoli bez przesuwania ramion w tył."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Dumbbell_Prone_Incline_Curl",
+    "searchTerms": "Dumbbell Prone Incline Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-kettlebell-thruster",
+    "name": "Przysiad i wyciskanie kettlebelli",
+    "muscle": "Barki",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw dwa lekkie kettle przy barkach i stabilne stopy.",
+      "Wstań z przysiadu i płynnie wyciśnij kettle nad głowę.",
+      "Opuść je do barków przed kolejnym przysiadem, utrzymując stabilne lędźwie."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Kettlebell_Thruster",
+    "searchTerms": "Kettlebell Thruster redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-front-squats-with-two-kettlebells",
+    "name": "Przysiad z dwoma kettlebellami z przodu",
+    "muscle": "Przód uda",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Ustaw dwa kettle przy barkach, łokcie trzymaj blisko tułowia.",
+      "Zegnij biodra i kolana, nie tracąc podparcia ciężarów.",
+      "Wstań przez nacisk całych stóp bez zapadania tułowia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Front_Squats_With_Two_Kettlebells",
+    "searchTerms": "Front Squats With Two Kettlebells redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-one-arm-kettlebell-swings",
+    "name": "Swing kettlebellem jednorącz",
+    "muscle": "Tył uda",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Tył uda",
+    "instructions": [
+      "Stań stabilnie i chwyć kettlebell jedną ręką przed sobą.",
+      "Cofnij biodra, potem wyprostuj je dynamicznie, nadając ciężarowi wahadłowy ruch.",
+      "Pozwól kettlowi wrócić między nogi bez skręcania pleców; zmień rękę po zatrzymaniu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One-Arm_Kettlebell_Swings",
+    "searchTerms": "One-Arm Kettlebell Swings redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden kettlebell · kg"
+  },
+  {
+    "id": "fit-one-arm-kettlebell-row",
+    "name": "Wiosłowanie kettlebellem jednorącz",
+    "muscle": "Plecy",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Ustaw stabilny wykrok, pochyl tułów i chwyć kettlebell.",
+      "Przyciągnij go do biodra, prowadząc łokieć blisko ciała.",
+      "Opuść spokojnie bez rotacji tułowia i zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One-Arm_Kettlebell_Row",
+    "searchTerms": "One-Arm Kettlebell Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden kettlebell · kg"
+  },
+  {
+    "id": "fit-two-arm-kettlebell-row",
+    "name": "Wiosłowanie dwoma kettlebellami",
+    "muscle": "Plecy",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Pochyl tułów z bioder i trzymaj kettle pod barkami.",
+      "Przyciągnij oba ciężary do boków tułowia.",
+      "Opuść je powoli bez prostowania pleców przy każdym ruchu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Two-Arm_Kettlebell_Row",
+    "searchTerms": "Two-Arm Kettlebell Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-alternating-kettlebell-row",
+    "name": "Naprzemienne wiosłowanie kettlebellami",
+    "muscle": "Plecy",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Ustaw tułów w stabilnym pochyleniu z dwoma kettlami pod barkami.",
+      "Przyciągnij jeden ciężar w stronę biodra, drugi pozostaw opuszczony.",
+      "Opuść go i zmień rękę bez obracania klatki."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Alternating_Kettlebell_Row",
+    "searchTerms": "Alternating Kettlebell Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-one-arm-kettlebell-floor-press",
+    "name": "Wyciskanie kettlebella jednorącz z podłogi",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Połóż się z kettlem przy jednym barku i stopami opartymi na podłodze.",
+      "Wyciśnij ciężar nad bark, utrzymując nadgarstek w linii przedramienia.",
+      "Opuść łokieć delikatnie do podłoża i po serii zmień rękę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One-Arm_Kettlebell_Floor_Press",
+    "searchTerms": "One-Arm Kettlebell Floor Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden kettlebell · kg"
+  },
+  {
+    "id": "fit-alternating-floor-press",
+    "name": "Naprzemienne wyciskanie kettlebelli z podłogi",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Połóż się z dwoma kettlami przy barkach, kolana ugnij.",
+      "Wyciśnij jeden ciężar w górę, zachowując stabilny tułów.",
+      "Opuść go do kontrolowanego oparcia łokcia i zmień rękę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Alternating_Floor_Press",
+    "searchTerms": "Alternating Floor Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-two-arm-kettlebell-military-press",
+    "name": "Wyciskanie dwóch kettlebelli stojąc",
+    "muscle": "Barki",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw kettle przy barkach i napnij brzuch oraz pośladki.",
+      "Wyciśnij oba ciężary nad głowę bez odchylania pleców.",
+      "Opuść je powoli do pozycji przy barkach."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Two-Arm_Kettlebell_Military_Press",
+    "searchTerms": "Two-Arm Kettlebell Military Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-alternating-kettlebell-press",
+    "name": "Naprzemienne wyciskanie kettlebelli nad głowę",
+    "muscle": "Barki",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań z kettlami przy barkach i stabilną pozycją tułowia.",
+      "Wyciśnij jeden ciężar w górę, nie przechylając ciała.",
+      "Opuść go do barku i wykonaj drugą rękę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Alternating_Kettlebell_Press",
+    "searchTerms": "Alternating Kettlebell Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-kettlebell-seated-press",
+    "name": "Wyciskanie kettlebella jednorącz w siadzie na podłodze",
+    "muscle": "Barki",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź stabilnie z nogami rozstawionymi i jednym kettlem przy barku.",
+      "Wyciśnij ciężar nad głowę bez przechylania tułowia.",
+      "Opuść powoli do barku i po serii zmień rękę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Kettlebell_Seated_Press",
+    "searchTerms": "Kettlebell Seated Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden kettlebell · kg"
+  },
+  {
+    "id": "fit-standing-overhead-barbell-triceps-extension",
+    "name": "Prostowanie ramion ze sztangą nad głową stojąc",
+    "muscle": "Triceps",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Stań stabilnie ze sztangą w wąskim, wygodnym chwycie nad głową.",
+      "Zegnij łokcie, opuszczając gryf za głowę bez ruchu barkami.",
+      "Wyprostuj łokcie bez odchylania tułowia i wypychania żeber."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Overhead_Barbell_Triceps_Extension",
+    "searchTerms": "Standing Overhead Barbell Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-kettlebell-figure-8",
+    "name": "Przekładanie kettlebella w ósemkę",
+    "muscle": "Brzuch",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Stań szerzej i ugnij lekko biodra oraz kolana.",
+      "Przekładaj kettlebell między nogami z ręki do ręki po torze ósemki.",
+      "Utrzymuj stabilne plecy i nie przyspieszaj kosztem pewnego chwytu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Kettlebell_Figure_8",
+    "searchTerms": "Kettlebell Figure 8 redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden kettlebell · kg"
+  },
+  {
+    "id": "fit-dumbbell-bench-press-with-neutral-grip",
+    "name": "Wyciskanie hantli leżąc chwytem neutralnym",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Połóż się na ławce z dłońmi skierowanymi do siebie.",
+      "Wyciśnij hantle nad klatkę, utrzymując nadgarstki nad łokciami.",
+      "Opuść powoli do wygodnego zakresu bez odbijania."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Dumbbell_Bench_Press_with_Neutral_Grip",
+    "searchTerms": "Dumbbell Bench Press with Neutral Grip redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-one-arm-dumbbell-bench-press",
+    "name": "Wyciskanie hantla jednorącz na ławce",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Połóż się stabilnie i trzymaj hantel przy jednym barku.",
+      "Wyciśnij ciężar nad klatkę, nie obracając tułowia.",
+      "Opuść wolno i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One_Arm_Dumbbell_Bench_Press",
+    "searchTerms": "One Arm Dumbbell Bench Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-decline-dumbbell-bench-press",
+    "name": "Wyciskanie hantli na skosie ujemnym",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Zabezpiecz nogi na ławce ze skosem ujemnym i ustaw hantle przy klatce.",
+      "Wyciśnij ciężary pionowo nad klatkę.",
+      "Opuść spokojnie, zachowując stabilną pozycję; skorzystaj z asekuracji przy odkładaniu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Decline_Dumbbell_Bench_Press",
+    "searchTerms": "Decline Dumbbell Bench Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-incline-dumbbell-flyes",
+    "name": "Rozpiętki z hantlami na skosie dodatnim",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Połóż się na lekko uniesionej ławce z hantlami nad klatką.",
+      "Otwórz ramiona po łuku z lekko ugiętymi łokciami.",
+      "Zbliż hantle nad klatką bez pogłębiania zakresu w barkach."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Incline_Dumbbell_Flyes",
+    "searchTerms": "Incline Dumbbell Flyes redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-low-cable-crossover",
+    "name": "Rozpiętki na bramie z dołu",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw oba wyciągi nisko i stań stabilnie przed nimi.",
+      "Unieś uchwyty po łuku w przód i do wysokości górnej klatki.",
+      "Opuść ramiona powoli bez kołysania tułowiem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Low_Cable_Crossover",
+    "searchTerms": "Low Cable Crossover redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-single-arm-cable-crossover",
+    "name": "Rozpiętka na wyciągu jednorącz",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Stań bokiem do wyciągu, chwyć uchwyt i lekko ugnij łokieć.",
+      "Przenieś ramię po łuku przed klatkę bez obracania bioder.",
+      "Powoli otwórz ramię i zmień stronę po serii."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Single-Arm_Cable_Crossover",
+    "searchTerms": "Single-Arm Cable Crossover redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-flat-bench-cable-flyes",
+    "name": "Rozpiętki na ławce z dolnych wyciągów",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw ławkę między dolnymi wyciągami i połóż się z uchwytami w dłoniach.",
+      "Zbliż ramiona nad klatką po łuku, utrzymując miękkie łokcie.",
+      "Otwórz je powoli do wygodnego zakresu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Flat_Bench_Cable_Flyes",
+    "searchTerms": "Flat Bench Cable Flyes redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-incline-cable-chest-press",
+    "name": "Wyciskanie na ławce skośnej na wyciągach",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw ławkę skośną między dolnymi wyciągami i oprzyj plecy.",
+      "Wyciśnij uchwyty przed górną część klatki.",
+      "Opuść je spokojnie do boków klatki bez unoszenia barków."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Incline_Cable_Chest_Press",
+    "searchTerms": "Incline Cable Chest Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-cable-chest-press",
+    "name": "Wyciskanie na bramie stojąc",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Stań tyłem do wyciągów z uchwytami przy bokach klatki.",
+      "Wypchnij uchwyty przed siebie, utrzymując stabilny wykrok.",
+      "Wróć wolno bez pozwalania linkom odciągnąć tułów."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Cable_Chest_Press",
+    "searchTerms": "Standing Cable Chest Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-leverage-incline-chest-press",
+    "name": "Wyciskanie na maszynie skośnej z talerzami",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Dopasuj siedzisko, by uchwyty znalazły się przy górnej klatce.",
+      "Wyciśnij uchwyty, nie odrywając pleców od oparcia.",
+      "Opuść ciężar powoli do wygodnego zakresu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Leverage_Incline_Chest_Press",
+    "searchTerms": "Leverage Incline Chest Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-leverage-decline-chest-press",
+    "name": "Wyciskanie na maszynie do dolnej klatki",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw siedzisko zgodnie z konstrukcją maszyny i oprzyj plecy.",
+      "Wypchnij uchwyty po torze maszyny bez unoszenia barków.",
+      "Wróć spokojnie, nie dopuszczając do gwałtownego opadnięcia ciężaru."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Leverage_Decline_Chest_Press",
+    "searchTerms": "Leverage Decline Chest Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-smith-machine-bench-press",
+    "name": "Wyciskanie leżąc na suwnicy Smitha",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw ławkę, gryf nad klatką i ograniczniki bezpieczeństwa.",
+      "Opuść gryf kontrolowanie w stronę klatki.",
+      "Wyciśnij go po prowadnicach i po serii odłóż na haki."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Bench_Press",
+    "searchTerms": "Smith Machine Bench Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-smith-machine-incline-bench-press",
+    "name": "Wyciskanie na skosie dodatnim na suwnicy Smitha",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw ławkę skośnie, pozycję gryfu nad górną klatką i ograniczniki.",
+      "Opuść gryf z nadgarstkami nad łokciami.",
+      "Wyciśnij bez odrywania pleców i po serii zabezpiecz gryf."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Incline_Bench_Press",
+    "searchTerms": "Smith Machine Incline Bench Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-svend-press",
+    "name": "Wypychanie talerzy sprzed klatki",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Talerz",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Stań stabilnie, ściskając dwa lekkie talerze oburącz przy klatce.",
+      "Wypchnij je przed siebie, utrzymując pewny nacisk dłoni.",
+      "Przyciągnij talerze z powrotem bez unoszenia barków."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Svend_Press",
+    "searchTerms": "Svend Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "łącznie oba talerze · kg"
+  },
+  {
+    "id": "fit-underhand-cable-pulldowns",
+    "name": "Ściąganie drążka podchwytem",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Usiądź na wyciągu, zabezpiecz uda i chwyć drążek podchwytem.",
+      "Przyciągnij drążek przed siebie do górnej klatki.",
+      "Wyprostuj ramiona powoli bez przechylania tułowia w tył."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Underhand_Cable_Pulldowns",
+    "searchTerms": "Underhand Cable Pulldowns redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-one-arm-lat-pulldown",
+    "name": "Ściąganie wyciągu jednorącz",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Ustaw siedzisko i chwyć pojedynczy uchwyt górnego wyciągu.",
+      "Przyciągnij łokieć w dół do boku tułowia.",
+      "Powoli unieś ramię i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One_Arm_Lat_Pulldown",
+    "searchTerms": "One Arm Lat Pulldown redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-close-grip-front-lat-pulldown",
+    "name": "Ściąganie drążka wąskim nachwytem",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Usiądź stabilnie z udami pod blokadą i chwyć drążek wąsko.",
+      "Ściągnij go przed klatkę, kierując łokcie w dół.",
+      "Wróć wolno bez unoszenia pośladków z siedziska."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Close-Grip_Front_Lat_Pulldown",
+    "searchTerms": "Close-Grip Front Lat Pulldown redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-kneeling-high-pulley-row",
+    "name": "Przyciąganie górnego wyciągu w klęku",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Uklęknij stabilnie przed górnym wyciągiem i chwyć uchwyt.",
+      "Przyciągnij uchwyt w stronę górnej klatki, prowadząc łokcie w tył i w dół.",
+      "Powoli wydłuż ramiona bez szarpania tułowiem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Kneeling_High_Pulley_Row",
+    "searchTerms": "Kneeling High Pulley Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-kneeling-single-arm-high-pulley-row",
+    "name": "Przyciąganie górnego wyciągu jednorącz w klęku",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Ustaw klęk lub półklęk przed wyciągiem i chwyć pojedynczy uchwyt.",
+      "Przyciągnij łokieć do boku tułowia, nie skręcając miednicy.",
+      "Wróć wolno i zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Kneeling_Single-Arm_High_Pulley_Row",
+    "searchTerms": "Kneeling Single-Arm High Pulley Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-seated-one-arm-cable-pulley-rows",
+    "name": "Wiosłowanie jednorącz siedząc na wyciągu",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Usiądź ze stopami na podparciu i pojedynczym uchwytem w dłoni.",
+      "Przyciągnij uchwyt do boku brzucha bez obracania tułowia.",
+      "Wyprostuj ramię powoli i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Seated_One-arm_Cable_Pulley_Rows",
+    "searchTerms": "Seated One-arm Cable Pulley Rows redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-reverse-grip-bent-over-rows",
+    "name": "Wiosłowanie sztangą podchwytem",
+    "muscle": "Plecy",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Chwyć sztangę podchwytem i ustaw stabilne pochylenie z bioder.",
+      "Przyciągnij ją do dolnej części brzucha, prowadząc łokcie blisko boków.",
+      "Opuść bez prostowania tułowia przy każdym powtórzeniu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Reverse_Grip_Bent-Over_Rows",
+    "searchTerms": "Reverse Grip Bent-Over Rows redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-bent-over-one-arm-long-bar-row",
+    "name": "Wiosłowanie końcem sztangi jednorącz",
+    "muscle": "Plecy",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Zabezpiecz drugi koniec sztangi w uchwycie landmine i ustaw się obok.",
+      "W pochyleniu przyciągnij obciążony koniec do biodra.",
+      "Opuść wolno, utrzymując biodra nieruchomo."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Bent_Over_One-Arm_Long_Bar_Row",
+    "searchTerms": "Bent Over One-Arm Long Bar Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-lying-t-bar-row",
+    "name": "Wiosłowanie T-bar z podparciem klatki",
+    "muscle": "Plecy",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Dopasuj poduszkę i oprzyj klatkę o maszynę.",
+      "Przyciągnij uchwyty do tułowia bez odrywania klatki.",
+      "Opuść ciężar powoli, wydłużając ramiona."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Lying_T-Bar_Row",
+    "searchTerms": "Lying T-Bar Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-incline-bench-pull",
+    "name": "Wiosłowanie sztangą leżąc na ławce",
+    "muscle": "Plecy",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Połóż się przodem na odpowiednio wysokiej, stabilnej ławce.",
+      "Przyciągnij sztangę pod ławką, prowadząc łokcie w tył.",
+      "Opuść ją spokojnie bez odrywania tułowia od podparcia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Incline_Bench_Pull",
+    "searchTerms": "Incline Bench Pull redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-leverage-high-row",
+    "name": "Przyciąganie na maszynie high row",
+    "muscle": "Plecy",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Dopasuj siedzisko oraz blokadę ud i chwyć wysokie uchwyty.",
+      "Przyciągnij uchwyty w dół i do tyłu w stronę tułowia.",
+      "Wróć powoli bez wzruszania barkami i unoszenia bioder."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Leverage_High_Row",
+    "searchTerms": "Leverage High Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-leverage-iso-row",
+    "name": "Wiosłowanie na maszynie z niezależnymi ramionami",
+    "muscle": "Plecy",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Ustaw siedzisko i podparcie klatki zgodnie z maszyną.",
+      "Przyciągnij uchwyty do boków, utrzymując klatkę na poduszce.",
+      "Wyprostuj ramiona z kontrolą, bez opuszczania ciężaru gwałtownie."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Leverage_Iso_Row",
+    "searchTerms": "Leverage Iso Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-smith-machine-bent-over-row",
+    "name": "Wiosłowanie na suwnicy Smitha",
+    "muscle": "Plecy",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Ustaw ograniczniki i pochyl tułów z bioder nad gryfem.",
+      "Przyciągnij gryf do brzucha bez zmiany pochylenia.",
+      "Opuść spokojnie i po serii zabezpiecz gryf."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Bent_Over_Row",
+    "searchTerms": "Smith Machine Bent Over Row redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-rope-straight-arm-pulldown",
+    "name": "Ściąganie liny prostymi ramionami",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Chwyć linę górnego wyciągu, zrób krok w tył i lekko pochyl tułów.",
+      "Sprowadź dłonie po łuku do boków bioder, utrzymując miękkie łokcie.",
+      "Unieś ramiona powoli bez wyginania lędźwi."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Rope_Straight-Arm_Pulldown",
+    "searchTerms": "Rope Straight-Arm Pulldown redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-bent-over-two-dumbbell-row-with-palms-in",
+    "name": "Wiosłowanie hantlami chwytem neutralnym",
+    "muscle": "Plecy",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Pochyl tułów z bioder i trzymaj hantle dłońmi do siebie.",
+      "Przyciągnij hantle do boków brzucha z łokciami blisko tułowia.",
+      "Opuść powoli bez kołysania plecami."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
+    "searchTerms": "Bent Over Two-Dumbbell Row With Palms In redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-dumbbell-press",
+    "name": "Wyciskanie hantli nad głowę stojąc",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań stabilnie z hantlami przy barkach i napiętym brzuchem.",
+      "Wyciśnij hantle nad głowę bez odchylania tułowia.",
+      "Opuść powoli do wysokości barków."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Dumbbell_Press",
+    "searchTerms": "Standing Dumbbell Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-alternating-dumbbell-press",
+    "name": "Wyciskanie hantli stojąc naprzemiennie",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw hantle przy barkach i nie blokuj kolan.",
+      "Wyciśnij jeden hantel nad głowę, utrzymując biodra równo.",
+      "Opuść go do barku i zmień rękę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Alternating_Dumbbell_Press",
+    "searchTerms": "Standing Alternating Dumbbell Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-military-press",
+    "name": "Wyciskanie żołnierskie ze sztangą",
+    "muscle": "Barki",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw sztangę przy górnej klatce i napnij tułów.",
+      "Wyciśnij gryf nad głowę, prowadząc go blisko twarzy.",
+      "Opuść kontrolowanie bez wypychania bioder i żeber."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Military_Press",
+    "searchTerms": "Standing Military Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-seated-barbell-military-press",
+    "name": "Wyciskanie sztangi nad głowę siedząc",
+    "muscle": "Barki",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź przy stojakach ze stabilnym oparciem i stopami na podłożu.",
+      "Wyciśnij sztangę z przodu barków nad głowę.",
+      "Opuść do wygodnej pozycji przed klatką; korzystaj z asekuracji."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Seated_Barbell_Military_Press",
+    "searchTerms": "Seated Barbell Military Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-smith-machine-overhead-shoulder-press",
+    "name": "Wyciskanie barkowe na suwnicy Smitha",
+    "muscle": "Barki",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw ławkę, gryf przed barkami i ograniczniki bezpieczeństwa.",
+      "Wyciśnij gryf w górę bez odrywania pleców.",
+      "Opuść spokojnie i po serii zabezpiecz go na hakach."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Overhead_Shoulder_Press",
+    "searchTerms": "Smith Machine Overhead Shoulder Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-leverage-shoulder-press",
+    "name": "Wyciskanie barkowe na maszynie z talerzami",
+    "muscle": "Barki",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw siedzisko tak, aby uchwyty były przy barkach.",
+      "Wyciśnij je w górę, opierając plecy o poduszkę.",
+      "Opuść powoli bez gwałtownego prostowania łokci."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Leverage_Shoulder_Press",
+    "searchTerms": "Leverage Shoulder Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-seated-side-lateral-raise",
+    "name": "Unoszenie hantli bokiem siedząc",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź prosto z hantlami przy bokach.",
+      "Unieś ramiona na boki do wygodnej wysokości z lekko ugiętymi łokciami.",
+      "Opuść wolno bez unoszenia barków do uszu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Seated_Side_Lateral_Raise",
+    "searchTerms": "Seated Side Lateral Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-one-arm-side-laterals",
+    "name": "Unoszenie hantla bokiem jednorącz",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań stabilnie i przytrzymaj podporę wolną ręką.",
+      "Unieś hantel bokiem bez kołysania tułowiem.",
+      "Opuść z kontrolą i zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One-Arm_Side_Laterals",
+    "searchTerms": "One-Arm Side Laterals redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-front-two-dumbbell-raise",
+    "name": "Unoszenie dwóch hantli w przód",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań z hantlami przed udami i miękkimi łokciami.",
+      "Unieś oba ramiona do okolic wysokości barków.",
+      "Opuść powoli bez odchylania tułowia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Front_Two-Dumbbell_Raise",
+    "searchTerms": "Front Two-Dumbbell Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-dumbbell-scaption",
+    "name": "Unoszenie hantli w płaszczyźnie łopatki",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań z lekkimi hantlami i kciukami skierowanymi w górę.",
+      "Unieś ramiona nieco przed linią boków do wygodnej wysokości.",
+      "Opuść spokojnie, utrzymując barki z dala od uszu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Dumbbell_Scaption",
+    "searchTerms": "Dumbbell Scaption redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-seated-bent-over-rear-delt-raise",
+    "name": "Odwrotne rozpiętki siedząc w pochyleniu",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź na brzegu ławki i pochyl tułów nad udami.",
+      "Unieś hantle na boki przy lekko ugiętych łokciach.",
+      "Opuść bez prostowania pleców i zamachu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Seated_Bent-Over_Rear_Delt_Raise",
+    "searchTerms": "Seated Bent-Over Rear Delt Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-rear-delt-fly",
+    "name": "Odwrotne rozpiętki na wysokich wyciągach",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw wyciągi nieco powyżej głowy i chwyć przeciwległe uchwyty.",
+      "Rozsuń ramiona na boki i lekko w dół, utrzymując miękkie łokcie.",
+      "Wróć powoli bez wypychania żeber i unoszenia barków."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Rear_Delt_Fly",
+    "searchTerms": "Cable Rear Delt Fly redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-rope-rear-delt-rows",
+    "name": "Wiosłowanie liną na tylne barki siedząc",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź przy dolnym wyciągu, oprzyj stopy i chwyć linę.",
+      "Przyciągnij końce liny do górnej klatki, prowadząc łokcie szeroko.",
+      "Wydłuż ramiona bez odchylania tułowia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Rope_Rear-Delt_Rows",
+    "searchTerms": "Cable Rope Rear-Delt Rows redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-front-cable-raise",
+    "name": "Unoszenie ramienia w przód na wyciągu",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań tyłem do dolnego wyciągu z uchwytem w dłoni.",
+      "Unieś ramię w przód do wygodnej wysokości, nie kołysząc tułowiem.",
+      "Opuść wolno i po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Front_Cable_Raise",
+    "searchTerms": "Front Cable Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-seated-lateral-raise",
+    "name": "Odwrotne rozpiętki na wyciągach siedząc w pochyleniu",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź między dolnymi wyciągami, pochyl tułów i chwyć przeciwległe uchwyty.",
+      "Rozsuń ramiona na boki przy lekko ugiętych łokciach.",
+      "Opuść powoli, utrzymując stałe pochylenie tułowia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Seated_Lateral_Raise",
+    "searchTerms": "Cable Seated Lateral Raise redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-shoulder-press",
+    "name": "Wyciskanie nad głowę na wyciągach",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw dolne wyciągi, chwyć uchwyty i oprzyj je przy barkach.",
+      "Wyciśnij ramiona w górę bez wypychania lędźwi.",
+      "Opuść uchwyty spokojnie, utrzymując równowagę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Shoulder_Press",
+    "searchTerms": "Cable Shoulder Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-alternating-cable-shoulder-press",
+    "name": "Naprzemienne wyciskanie na wyciągach",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań stabilnie z uchwytami dolnych wyciągów przy barkach.",
+      "Wyciśnij jeden uchwyt nad głowę bez przechylania tułowia.",
+      "Opuść i zmień rękę, utrzymując napięcie brzucha."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Alternating_Cable_Shoulder_Press",
+    "searchTerms": "Alternating Cable Shoulder Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-external-rotation-with-cable",
+    "name": "Rotacja zewnętrzna barku na wyciągu",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw wyciąg na wysokości łokcia i stań bokiem.",
+      "Przy łokciu ugiętym przy tułowiu obróć przedramię na zewnątrz.",
+      "Wróć powoli i po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "External_Rotation_with_Cable",
+    "searchTerms": "External Rotation with Cable redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-barbell-shrug",
+    "name": "Unoszenie barków ze sztangą",
+    "muscle": "Górna część pleców",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Górna część pleców",
+    "instructions": [
+      "Stań prosto ze sztangą przed udami i wyprostowanymi łokciami.",
+      "Unieś barki w kierunku uszu bez krążenia nimi.",
+      "Opuść powoli, nie szarpiąc głową i tułowiem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Barbell_Shrug",
+    "searchTerms": "Barbell Shrug redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-shrugs",
+    "name": "Unoszenie barków na wyciągu",
+    "muscle": "Górna część pleców",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Górna część pleców",
+    "instructions": [
+      "Chwyć drążek dolnego wyciągu i stań stabilnie.",
+      "Unieś barki pionowo przy wyprostowanych ramionach.",
+      "Opuść je powoli bez krążenia barkami."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Shrugs",
+    "searchTerms": "Cable Shrugs redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-alternate-hammer-curl",
+    "name": "Naprzemienne uginanie młotkowe",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Stań z hantlami przy bokach, dłonie skieruj do siebie.",
+      "Zegnij jeden łokieć bez przesuwania ramienia w przód.",
+      "Opuść hantel i zmień rękę bez kołysania."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Alternate_Hammer_Curl",
+    "searchTerms": "Alternate Hammer Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cross-body-hammer-curl",
+    "name": "Uginanie młotkowe w poprzek tułowia",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Trzymaj hantle przy bokach w chwycie neutralnym.",
+      "Unieś jeden hantel w stronę przeciwnej części klatki.",
+      "Opuść go wolno i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cross_Body_Hammer_Curl",
+    "searchTerms": "Cross Body Hammer Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-seated-dumbbell-curl",
+    "name": "Uginanie ramion z hantlami siedząc",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Usiądź prosto ze stopami na podłodze i hantlami przy bokach.",
+      "Zegnij łokcie, unosząc ciężary bez unoszenia ramion.",
+      "Opuść powoli, nie odrywając pleców od oparcia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Seated_Dumbbell_Curl",
+    "searchTerms": "Seated Dumbbell Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-incline-hammer-curls",
+    "name": "Uginanie młotkowe na ławce skośnej",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Oprzyj plecy o ławkę skośną i trzymaj hantle neutralnie.",
+      "Zegnij łokcie bez przesuwania ramion do przodu.",
+      "Opuść hantle powoli do wygodnego wyprostu łokci."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Incline_Hammer_Curls",
+    "searchTerms": "Incline Hammer Curls redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-alternate-incline-dumbbell-curl",
+    "name": "Naprzemienne uginanie na ławce skośnej",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Oprzyj plecy o skośną ławkę i pozwól ramionom swobodnie zwisać.",
+      "Unieś jeden hantel przez zgięcie łokcia bez podnoszenia barku.",
+      "Opuść i wykonaj drugą rękę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Alternate_Incline_Dumbbell_Curl",
+    "searchTerms": "Alternate Incline Dumbbell Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-preacher-hammer-dumbbell-curl",
+    "name": "Uginanie młotkowe hantli na modlitewniku",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Oprzyj oba ramiona o poduszkę i trzymaj hantle chwytem neutralnym.",
+      "Zegnij łokcie, nie odrywając ramion od podparcia.",
+      "Opuść hantle powoli bez blokowania łokci."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Preacher_Hammer_Dumbbell_Curl",
+    "searchTerms": "Preacher Hammer Dumbbell Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-one-arm-dumbbell-preacher-curl",
+    "name": "Uginanie hantla jednorącz na modlitewniku",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Dopasuj siedzisko i oprzyj ramię o poduszkę.",
+      "Unieś hantel podchwytem bez odrywania łokcia.",
+      "Opuść go z kontrolą i po serii zmień rękę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "One_Arm_Dumbbell_Preacher_Curl",
+    "searchTerms": "One Arm Dumbbell Preacher Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-cable-hammer-curls-rope-attachment",
+    "name": "Uginanie młotkowe z liną na wyciągu",
+    "muscle": "Biceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Biceps",
+    "instructions": [
+      "Chwyć linę dolnego wyciągu z dłońmi skierowanymi do siebie.",
+      "Zegnij łokcie, unosząc końce liny bez poruszania ramionami.",
+      "Opuść powoli, utrzymując stabilny tułów."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Hammer_Curls_-_Rope_Attachment",
+    "searchTerms": "Cable Hammer Curls - Rope Attachment redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-preacher-curl",
+    "name": "Uginanie na modlitewniku na wyciągu",
+    "muscle": "Biceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Biceps",
+    "instructions": [
+      "Ustaw podparcie ramion przed dolnym wyciągiem i chwyć drążek.",
+      "Zegnij łokcie, utrzymując górne części ramion na poduszce.",
+      "Wyprostuj powoli bez szarpnięcia w dolnej pozycji."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Preacher_Curl",
+    "searchTerms": "Cable Preacher Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-high-cable-curls",
+    "name": "Uginanie ramion leżąc na ławce na wysokim wyciągu",
+    "muscle": "Biceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Biceps",
+    "instructions": [
+      "Połóż się na stabilnej ławce pod wysokim wyciągiem i chwyć drążek podchwytem.",
+      "Przyciągnij drążek do czoła przez zgięcie łokci, nie poruszając ramionami.",
+      "Powoli wyprostuj łokcie, utrzymując plecy na ławce."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "High_Cable_Curls",
+    "searchTerms": "High Cable Curls redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-one-arm-cable-curl",
+    "name": "Uginanie ramienia jednorącz na wyciągu",
+    "muscle": "Biceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Biceps",
+    "instructions": [
+      "Chwyć uchwyt dolnego wyciągu podchwytem i stań stabilnie.",
+      "Zegnij łokieć przy boku tułowia bez ruchu barkiem.",
+      "Opuść uchwyt i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_One-Arm_Cable_Curl",
+    "searchTerms": "Standing One-Arm Cable Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-reverse-cable-curl",
+    "name": "Uginanie ramion nachwytem na wyciągu",
+    "muscle": "Biceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Biceps",
+    "instructions": [
+      "Chwyć drążek dolnego wyciągu nachwytem na wygodną szerokość.",
+      "Zegnij łokcie, utrzymując nadgarstki w linii przedramion.",
+      "Opuść powoli bez zarzucania drążka tułowiem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Reverse_Cable_Curl",
+    "searchTerms": "Reverse Cable Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-machine-bicep-curl",
+    "name": "Uginanie ramion na maszynie",
+    "muscle": "Biceps",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Biceps",
+    "instructions": [
+      "Ustaw siedzisko i oprzyj ramiona zgodnie z konstrukcją maszyny.",
+      "Zegnij łokcie, unosząc uchwyty bez odrywania ramion.",
+      "Opuść wolno, nie pozwalając ciężarowi opaść gwałtownie."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Machine_Bicep_Curl",
+    "searchTerms": "Machine Bicep Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-spider-curl",
+    "name": "Uginanie ramion w oparciu o ławkę — spider curl",
+    "muscle": "Biceps",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Oprzyj klatkę na skośnej ławce i chwyć sztangę łamaną pod sobą.",
+      "Zegnij łokcie bez unoszenia ramion w tył.",
+      "Opuść sztangę powoli, utrzymując klatkę na oparciu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Spider_Curl",
+    "searchTerms": "Spider Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-zottman-curl",
+    "name": "Uginanie Zottmana",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Stań z lekkimi hantlami i łokciami przy tułowiu.",
+      "Unieś hantle podchwytem, następnie obróć dłonie w górnej pozycji do nachwytu.",
+      "Opuść powoli i obróć dłonie do kolejnego powtórzenia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Zottman_Curl",
+    "searchTerms": "Zottman Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-drag-curl",
+    "name": "Uginanie sztangi wzdłuż tułowia",
+    "muscle": "Biceps",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Stań prosto ze sztangą w podchwycie przed udami.",
+      "Unieś sztangę blisko tułowia, prowadząc łokcie lekko w tył.",
+      "Opuść powoli bez odchylania pleców."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Drag_Curl",
+    "searchTerms": "Drag Curl redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-reverse-grip-triceps-pushdown",
+    "name": "Prostowanie ramion podchwytem na wyciągu",
+    "muscle": "Triceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Chwyć drążek górnego wyciągu podchwytem i ustaw łokcie przy bokach.",
+      "Wyprostuj łokcie, sprowadzając drążek do ud.",
+      "Wróć wolno bez szarpania nadgarstkami i barkami."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Reverse_Grip_Triceps_Pushdown",
+    "searchTerms": "Reverse Grip Triceps Pushdown redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-triceps-pushdown-v-bar-attachment",
+    "name": "Prostowanie ramion z uchwytem V",
+    "muscle": "Triceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Chwyć uchwyt V górnego wyciągu i oprzyj łokcie przy tułowiu.",
+      "Wyprostuj przedramiona w dół bez pochylania się całym ciężarem.",
+      "Powoli wróć, utrzymując pozycję ramion."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Triceps_Pushdown_-_V-Bar_Attachment",
+    "searchTerms": "Triceps Pushdown - V-Bar Attachment redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-lying-triceps-extension",
+    "name": "Prostowanie ramion leżąc na wyciągu",
+    "muscle": "Triceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Ustaw ławkę przy dolnym wyciągu, połóż się i chwyć drążek za głową.",
+      "Wyprostuj łokcie, utrzymując ramiona nad klatką.",
+      "Opuść drążek kontrolowanie za głowę bez poruszania barkami."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Lying_Triceps_Extension",
+    "searchTerms": "Cable Lying Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-incline-triceps-extension",
+    "name": "Prostowanie ramion na ławce skośnej na wyciągu",
+    "muscle": "Triceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Połóż się na skośnej ławce tyłem do górnego wyciągu i chwyć drążek nad głową.",
+      "Wyprostuj łokcie przy stabilnej górnej części ramion.",
+      "Powoli zegnij je do wygodnego zakresu bez odrywania pleców."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Cable_Incline_Triceps_Extension",
+    "searchTerms": "Cable Incline Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-kneeling-cable-triceps-extension",
+    "name": "Prostowanie ramion na wyciągu w klęku z podparciem",
+    "muscle": "Triceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Uklęknij przy ławce tyłem do górnego wyciągu i oprzyj łokcie.",
+      "Wyprostuj przedramiona, utrzymując łokcie na podparciu.",
+      "Wróć powoli, nie przesuwając tułowia."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Kneeling_Cable_Triceps_Extension",
+    "searchTerms": "Kneeling Cable Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-ez-bar-skullcrusher",
+    "name": "Prostowanie ramion leżąc ze sztangą łamaną",
+    "muscle": "Triceps",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Połóż się na ławce ze sztangą łamaną nad klatką.",
+      "Zegnij łokcie, opuszczając gryf kontrolowanie w stronę czoła lub za głowę.",
+      "Wyprostuj łokcie bez rozsuwania ramion i szarpania ciężarem."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "EZ-Bar_Skullcrusher",
+    "searchTerms": "EZ-Bar Skullcrusher redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-lying-dumbbell-tricep-extension",
+    "name": "Prostowanie obu ramion z hantlami leżąc",
+    "muscle": "Triceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Połóż się z hantlami nad barkami, dłonie skieruj do siebie.",
+      "Zegnij łokcie, opuszczając hantle po bokach głowy.",
+      "Wyprostuj ramiona bez zmiany ustawienia barków."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Lying_Dumbbell_Tricep_Extension",
+    "searchTerms": "Lying Dumbbell Tricep Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-dumbbell-triceps-extension",
+    "name": "Prostowanie ramion z hantlem stojąc",
+    "muscle": "Triceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Stań stabilnie, trzymając jeden hantel oburącz nad głową.",
+      "Opuść hantel za głowę przez zgięcie łokci.",
+      "Wyprostuj je bez odchylania tułowia i wypychania żeber."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_Dumbbell_Triceps_Extension",
+    "searchTerms": "Standing Dumbbell Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-standing-one-arm-dumbbell-triceps-extension",
+    "name": "Prostowanie ramienia z hantlem nad głową stojąc",
+    "muscle": "Triceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Unieś lekki hantel nad głowę jedną ręką.",
+      "Zegnij łokieć, kierując hantel za głowę w wygodnym zakresie.",
+      "Wyprostuj ramię i po serii zmień stronę bez wyginania pleców."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Standing_One-Arm_Dumbbell_Triceps_Extension",
+    "searchTerms": "Standing One-Arm Dumbbell Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-seated-bent-over-two-arm-dumbbell-triceps-extension",
+    "name": "Prostowanie obu ramion z hantlami siedząc w pochyleniu",
+    "muscle": "Triceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Usiądź, pochyl tułów i ustaw ramiona przy bokach.",
+      "Wyprostuj łokcie, przesuwając hantle do tyłu.",
+      "Powoli zegnij łokcie, utrzymując górne części ramion nieruchomo."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+    "searchTerms": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-dip-machine",
+    "name": "Prostowanie ramion na maszynie siedząc — dips",
+    "muscle": "Triceps",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Dopasuj siedzisko i chwyć uchwyty przy bokach.",
+      "Wciśnij je w dół przez wyprost łokci, bez unoszenia bioder.",
+      "Wróć powoli do wygodnego zgięcia ramion."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Dip_Machine",
+    "searchTerms": "Dip Machine redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-machine-triceps-extension",
+    "name": "Prostowanie ramion na maszynie",
+    "muscle": "Triceps",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Ustaw siedzisko i oprzyj ramiona na poduszce.",
+      "Wyprostuj łokcie po torze maszyny bez odrywania ramion.",
+      "Powoli wróć, nie pozwalając stosowi uderzyć."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Machine_Triceps_Extension",
+    "searchTerms": "Machine Triceps Extension redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-close-grip-dumbbell-press",
+    "name": "Wyciskanie jednego hantla oburącz sprzed klatki",
+    "muscle": "Triceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Oprzyj górną część pleców poprzecznie na stabilnej ławce i pewnie trzymaj jeden hantel oburącz nad klatką.",
+      "Opuść hantel do klatki z łokciami blisko tułowia.",
+      "Wyciśnij go w górę bez zmiany położenia bioder i bez odbijania."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Close-Grip_Dumbbell_Press",
+    "searchTerms": "Close-Grip Dumbbell Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-smith-machine-close-grip-bench-press",
+    "name": "Wyciskanie wąsko na suwnicy Smitha",
+    "muscle": "Triceps",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Ustaw ławkę, ograniczniki i chwyt mniej więcej na szerokość barków.",
+      "Opuść gryf do dolnej klatki z łokciami blisko boków.",
+      "Wyciśnij i po serii zabezpiecz gryf."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [],
+    "sourceId": "Smith_Machine_Close-Grip_Bench_Press",
+    "searchTerms": "Smith Machine Close-Grip Bench Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-dumbbell-side-bend",
+    "name": "Skłon boczny z hantlem",
+    "muscle": "Brzuch",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Stań prosto z jednym lekkim hantlem przy boku.",
+      "Zegnij tułów niewiele w bok bez obracania bioder.",
+      "Wróć do pionu i po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Dumbbell_Side_Bend",
+    "searchTerms": "Dumbbell Side Bend redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false,
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "fit-pallof-press",
+    "name": "Wypychanie uchwytu przed klatkę — Pallof press",
+    "muscle": "Brzuch",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Stań bokiem do wyciągu ustawionego na wysokości klatki.",
+      "Wypchnij uchwyt przed siebie, opierając się skręcaniu tułowia.",
+      "Przyciągnij dłonie do klatki i po serii zmień stronę."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Pallof_Press",
+    "searchTerms": "Pallof Press redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": true
+  },
+  {
+    "id": "fit-standing-cable-wood-chop",
+    "name": "Przekątne ściąganie wyciągu z góry — wood chop",
+    "muscle": "Brzuch",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Stań bokiem do wysokiego wyciągu i chwyć uchwyt oburącz.",
+      "Poprowadź dłonie po przekątnej do przeciwnego biodra z kontrolowaną rotacją ciała.",
+      "Wróć powoli; pozwól stopom obrócić się zamiast skręcać kolana."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Standing_Cable_Wood_Chop",
+    "searchTerms": "Standing Cable Wood Chop redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-standing-cable-lift",
+    "name": "Przekątne unoszenie wyciągu z dołu",
+    "muscle": "Brzuch",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Stań bokiem do dolnego wyciągu i chwyć uchwyt oburącz przy bliższym biodrze.",
+      "Unieś uchwyt po przekątnej nad przeciwny bark z kontrolowaną rotacją ciała.",
+      "Wróć spokojnie; pozwól stopom obrócić się zamiast skręcać kolana."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Standing_Cable_Lift",
+    "searchTerms": "Standing Cable Lift redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-knee-hip-raise-on-parallel-bars",
+    "name": "Unoszenie kolan na poręczach",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Oprzyj przedramiona na poduszkach poręczy i ustabilizuj barki.",
+      "Unieś kolana z lekkim podwinięciem miednicy bez zamachu.",
+      "Opuść nogi powoli i zatrzymaj kołysanie."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Knee_Hip_Raise_On_Parallel_Bars",
+    "searchTerms": "Knee/Hip Raise On Parallel Bars redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-exercise-ball-crunch",
+    "name": "Spięcia brzucha na piłce",
+    "muscle": "Brzuch",
+    "equipment": "Piłka gimnastyczna",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Oprzyj dolną część pleców na piłce i stabilnie ustaw stopy.",
+      "Zbliż żebra do miednicy, unosząc górną część tułowia.",
+      "Opuść powoli do wygodnego zakresu, nie tracąc równowagi."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Exercise_Ball_Crunch",
+    "searchTerms": "Exercise Ball Crunch redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-exercise-ball-pull-in",
+    "name": "Przyciąganie kolan na piłce w podporze",
+    "muscle": "Brzuch",
+    "equipment": "Piłka gimnastyczna",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Ustaw podpór na dłoniach z goleniami opartymi na piłce.",
+      "Przyciągnij kolana, przetaczając piłkę w stronę tułowia.",
+      "Wydłuż nogi powoli bez opadania lędźwi."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Exercise_Ball_Pull-In",
+    "searchTerms": "Exercise Ball Pull-In redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-russian-twist",
+    "name": "Skręty tułowia w siadzie",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Usiądź z ugiętymi kolanami i stabilnymi stopami.",
+      "Odchyl tułów nieznacznie i obracaj klatkę na przemian w obie strony.",
+      "Utrzymuj kontrolę pleców; nie wymuszaj dużego zakresu skrętu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Russian_Twist",
+    "searchTerms": "Russian Twist redukcja kondycja",
+    "trainingType": "strength",
+    "level": "intermediate",
+    "lowImpact": true,
+    "recommended": false
+  },
+  {
+    "id": "fit-cable-seated-crunch",
+    "name": "Spięcia brzucha siedząc na wyciągu",
+    "muscle": "Brzuch",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Usiądź tyłem do górnego wyciągu, trzymaj linę obok głowy.",
+      "Zbliż żebra do miednicy bez ciągnięcia rękami.",
+      "Powoli wyprostuj tułów do pozycji startowej bez przeprostu."
+    ],
+    "mistakes": [
+      "Szarpanie, wstrzymywanie oddechu i zwiększanie obciążenia kosztem kontroli ruchu."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "sourceId": "Cable_Seated_Crunch",
+    "searchTerms": "Cable Seated Crunch redukcja kondycja",
+    "trainingType": "strength",
+    "level": "beginner",
+    "lowImpact": true,
+    "recommended": false
+  }
+]

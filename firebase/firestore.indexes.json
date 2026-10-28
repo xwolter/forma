@@ -1,0 +1,1 @@
+{"indexes":[{"collectionGroup":"backups","queryScope":"COLLECTION","fields":[{"fieldPath":"complete","order":"ASCENDING"},{"fieldPath":"createdAt","order":"DESCENDING"}]}],"fieldOverrides":[{"collectionGroup":"records","fieldPath":"payload","indexes":[]}]}

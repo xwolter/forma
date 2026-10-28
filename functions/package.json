@@ -1,0 +1,12 @@
+{
+  "name": "forma-functions",
+  "private": true,
+  "version": "0.1.0",
+  "engines": { "node": "22" },
+  "main": "index.js",
+  "dependencies": {
+    "@google/genai": "^2.31.0",
+    "firebase-admin": "^14.5.0",
+    "firebase-functions": "^7.4.0"
+  }
+}

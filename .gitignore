@@ -1,0 +1,27 @@
+node_modules/
+dist/
+*.local
+.env*
+!.env.example
+.DS_Store
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+*.jks
+*.keystore
+
+updates-public/
+
+# logi i pliki tymczasowe
+*.log
+*.tsbuildinfo
+# notatki robocze (zostają lokalnie)
+docs/brief-source.txt
+docs/konkurencja-*.md
+docs/obrazy-*.md
+docs/testy-*.md
+docs/firebase-security-audit.json
+docs/ekran-glowny-*.png
+docs/zakres.md
+.firebase/

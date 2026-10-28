@@ -1,0 +1,462 @@
+[
+  {
+    "id": "incline-db-bench",
+    "sourceId": "Incline_Dumbbell_Press",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Incline_Dumbbell_Press.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/1.jpg"
+    ]
+  },
+  {
+    "id": "decline-bench",
+    "sourceId": "Decline_Barbell_Bench_Press",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Decline_Barbell_Bench_Press.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+    ]
+  },
+  {
+    "id": "db-fly",
+    "sourceId": "Dumbbell_Flyes",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Dumbbell_Flyes.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"
+    ]
+  },
+  {
+    "id": "cable-fly",
+    "sourceId": "Cable_Crossover",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Cable_Crossover.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crossover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crossover/1.jpg"
+    ]
+  },
+  {
+    "id": "pec-deck",
+    "sourceId": "Butterfly",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Butterfly.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+    ]
+  },
+  {
+    "id": "dips",
+    "sourceId": "Dips_-_Chest_Version",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Dips_-_Chest_Version.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Chest_Version/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Chest_Version/1.jpg"
+    ]
+  },
+  {
+    "id": "close-grip-bench",
+    "sourceId": "Close-Grip_Barbell_Bench_Press",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Close-Grip_Barbell_Bench_Press.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Barbell_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Barbell_Bench_Press/1.jpg"
+    ]
+  },
+  {
+    "id": "db-pullover",
+    "sourceId": "Bent-Arm_Dumbbell_Pullover",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Bent-Arm_Dumbbell_Pullover.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/1.jpg"
+    ]
+  },
+  {
+    "id": "chin-up",
+    "sourceId": "Chin-Up",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Chin-Up.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "single-db-row",
+    "sourceId": "One-Arm_Dumbbell_Row",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/One-Arm_Dumbbell_Row.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+    ]
+  },
+  {
+    "id": "t-bar-row",
+    "sourceId": "T-Bar_Row_with_Handle",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/T-Bar_Row_with_Handle.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+    ]
+  },
+  {
+    "id": "straight-arm-pulldown",
+    "sourceId": "Straight-Arm_Pulldown",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Straight-Arm_Pulldown.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/1.jpg"
+    ]
+  },
+  {
+    "id": "reverse-fly",
+    "sourceId": "Reverse_Flyes",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Reverse_Flyes.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Flyes/1.jpg"
+    ]
+  },
+  {
+    "id": "face-pull",
+    "sourceId": "Face_Pull",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Face_Pull.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+    ]
+  },
+  {
+    "id": "db-shrug",
+    "sourceId": "Dumbbell_Shrug",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Dumbbell_Shrug.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/1.jpg"
+    ]
+  },
+  {
+    "id": "back-extension",
+    "sourceId": "Hyperextensions_Back_Extensions",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Hyperextensions_Back_Extensions.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+    ]
+  },
+  {
+    "id": "front-squat",
+    "sourceId": "Front_Squat_Clean_Grip",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Front_Squat_Clean_Grip.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Squat_Clean_Grip/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Squat_Clean_Grip/1.jpg"
+    ]
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "sourceId": "Split_Squat_with_Dumbbells",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Split_Squat_with_Dumbbells.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"
+    ]
+  },
+  {
+    "id": "reverse-lunge-db",
+    "sourceId": "Dumbbell_Rear_Lunge",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Dumbbell_Rear_Lunge.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Rear_Lunge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Rear_Lunge/1.jpg"
+    ]
+  },
+  {
+    "id": "walking-lunge",
+    "sourceId": "Bodyweight_Walking_Lunge",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Bodyweight_Walking_Lunge.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Walking_Lunge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Walking_Lunge/1.jpg"
+    ]
+  },
+  {
+    "id": "step-up-db",
+    "sourceId": "Dumbbell_Step_Ups",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Dumbbell_Step_Ups.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+    ]
+  },
+  {
+    "id": "hip-thrust",
+    "sourceId": "Barbell_Hip_Thrust",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Barbell_Hip_Thrust.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+    ]
+  },
+  {
+    "id": "hip-abduction",
+    "sourceId": "Thigh_Abductor",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Thigh_Abductor.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+    ]
+  },
+  {
+    "id": "hip-adduction",
+    "sourceId": "Thigh_Adductor",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Thigh_Adductor.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+    ]
+  },
+  {
+    "id": "sumo-deadlift",
+    "sourceId": "Sumo_Deadlift",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Sumo_Deadlift.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift/1.jpg"
+    ]
+  },
+  {
+    "id": "single-leg-kb-rdl",
+    "sourceId": "Kettlebell_One-Legged_Deadlift",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Kettlebell_One-Legged_Deadlift.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/1.jpg"
+    ]
+  },
+  {
+    "id": "calf-press",
+    "sourceId": "Calf_Press_On_The_Leg_Press_Machine",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Calf_Press_On_The_Leg_Press_Machine.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+    ]
+  },
+  {
+    "id": "arnold-press",
+    "sourceId": "Arnold_Dumbbell_Press",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Arnold_Dumbbell_Press.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
+    ]
+  },
+  {
+    "id": "front-raise",
+    "sourceId": "Front_Dumbbell_Raise",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Front_Dumbbell_Raise.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/1.jpg"
+    ]
+  },
+  {
+    "id": "rear-delt-machine",
+    "sourceId": "Reverse_Machine_Flyes",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Reverse_Machine_Flyes.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/1.jpg"
+    ]
+  },
+  {
+    "id": "incline-curl",
+    "sourceId": "Incline_Dumbbell_Curl",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Incline_Dumbbell_Curl.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+    ]
+  },
+  {
+    "id": "preacher-curl",
+    "sourceId": "Preacher_Curl",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Preacher_Curl.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+    ]
+  },
+  {
+    "id": "concentration-curl",
+    "sourceId": "Concentration_Curls",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Concentration_Curls.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Concentration_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Concentration_Curls/1.jpg"
+    ]
+  },
+  {
+    "id": "reverse-curl",
+    "sourceId": "Reverse_Barbell_Curl",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Reverse_Barbell_Curl.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Barbell_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Barbell_Curl/1.jpg"
+    ]
+  },
+  {
+    "id": "ez-curl",
+    "sourceId": "EZ-Bar_Curl",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/EZ-Bar_Curl.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Curl/1.jpg"
+    ]
+  },
+  {
+    "id": "overhead-cable-triceps",
+    "sourceId": "Cable_Rope_Overhead_Triceps_Extension",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Cable_Rope_Overhead_Triceps_Extension.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+    ]
+  },
+  {
+    "id": "rope-pushdown",
+    "sourceId": "Triceps_Pushdown_-_Rope_Attachment",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Triceps_Pushdown_-_Rope_Attachment.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_Rope_Attachment/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_Rope_Attachment/1.jpg"
+    ]
+  },
+  {
+    "id": "db-overhead-triceps",
+    "sourceId": "Seated_Triceps_Press",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Seated_Triceps_Press.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Triceps_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Triceps_Press/1.jpg"
+    ]
+  },
+  {
+    "id": "triceps-kickback",
+    "sourceId": "Tricep_Dumbbell_Kickback",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Tricep_Dumbbell_Kickback.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/1.jpg"
+    ]
+  },
+  {
+    "id": "hanging-leg-raise",
+    "sourceId": "Hanging_Leg_Raise",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Hanging_Leg_Raise.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+    ]
+  },
+  {
+    "id": "cable-crunch",
+    "sourceId": "Cable_Crunch",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Cable_Crunch.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crunch/1.jpg"
+    ]
+  },
+  {
+    "id": "reverse-crunch",
+    "sourceId": "Reverse_Crunch",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Reverse_Crunch.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/1.jpg"
+    ]
+  },
+  {
+    "id": "ab-wheel",
+    "sourceId": "Ab_Roller",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Ab_Roller.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg"
+    ]
+  },
+  {
+    "id": "side-plank",
+    "sourceId": "Side_Bridge",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Side_Bridge.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/1.jpg"
+    ]
+  },
+  {
+    "id": "bicycle-crunch",
+    "sourceId": "Air_Bike",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Air_Bike.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+    ]
+  },
+  {
+    "id": "mountain-climber",
+    "sourceId": "Mountain_Climbers",
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/main/exercises/Mountain_Climbers.json",
+    "license": "Unlicense",
+    "frames": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/1.jpg"
+    ]
+  }
+]

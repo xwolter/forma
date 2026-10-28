@@ -1,0 +1,331 @@
+{
+  "bench": {
+    "id": "rT7DgCr-3pg",
+    "title": "How To: Barbell Bench Press",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "row": {
+    "id": "GZbfZ033f74",
+    "title": "How To: Seated Low Row (LF Cable)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "shoulder": {
+    "id": "qEwKCR5JCog",
+    "title": "How To: Dumbbell Shoulder Press",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "pulldown": {
+    "id": "CAwf7n6Luuc",
+    "title": "How To: Lat Pulldown | 3 GOLDEN RULES",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "lateral": {
+    "id": "3VcKaXpzqRo",
+    "title": "How To: Dumbbell Side Lateral Raise",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "curl": {
+    "id": "sAq_ocpRh_I",
+    "title": "How To: Alternating Dumbbell Curl",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "squat": {
+    "id": "SW_C1A-rejs",
+    "title": "How To: Deep Barbell Back Squat",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "rdl": {
+    "id": "JCXUYuzwNrM",
+    "title": "How To: Romanian Deadlift (Barbell)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "legpress": {
+    "id": "IZxyjW7MPJQ",
+    "title": "How To: Seated Leg Press (Cybex)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "legcurl": {
+    "id": "1Tq3QdYUuHs",
+    "title": "How To: Prone Leg Curl (Cybex)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "calf": {
+    "id": "_iYwv4QVFjM",
+    "title": "Dumbbell Calf Raise",
+    "author": "LivestrongWoman",
+    "checked": "2026-10-23"
+  },
+  "db-bench": {
+    "id": "VmB1G1K7v94",
+    "title": "How To: Dumbbell Chest Press",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "pushup": {
+    "id": "IODxDxX7oi4",
+    "title": "The Perfect Push Up | Do it right!",
+    "author": "Calisthenicmovement",
+    "checked": "2026-10-23"
+  },
+  "barbell-row": {
+    "id": "vT2GjY_Umpw",
+    "title": "How To: Bent Over Barbell Row",
+    "author": "Gabriel Sey",
+    "checked": "2026-10-23"
+  },
+  "goblet": {
+    "id": "MeIiIdhvXT4",
+    "title": "How To: Goblet Squat",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "pullup": {
+    "id": "eGo4IYlbE5g",
+    "title": "The Perfect Pull Up  - Do it right!",
+    "author": "Calisthenicmovement",
+    "checked": "2026-10-23"
+  },
+  "chest-machine": {
+    "id": "xUm0BiZCWlQ",
+    "title": "How To: Chest Press (Cybex)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "db-rdl": {
+    "id": "FQKfr1YDhEk",
+    "title": "How To: Dumbbell Romanian Deadlift",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-23"
+  },
+  "assisted-pullup": {
+    "id": "wFj808u2HWU",
+    "title": "How To Use The Assisted Pull Up Machine",
+    "author": "PureGym",
+    "checked": "2026-10-23"
+  },
+  "shoulder-machine": {
+    "id": "GcY6TZxfS0k",
+    "title": "How To Use The Shoulder Press Machine",
+    "author": "PureGym",
+    "checked": "2026-10-23"
+  },
+  "db-row": {
+    "id": "radVWm-e81I",
+    "title": "Tutorial Remo Inclinado con Mancuernas / Rutina Espalda",
+    "author": "DrVíctorLópez",
+    "checked": "2026-10-23"
+  },
+  "cable-lateral": {
+    "id": "JlT2xB92lY8",
+    "title": "Cable Lateral Raise Complete Guide",
+    "author": "Andrew Kwong (DeltaBolic)",
+    "checked": "2026-10-23"
+  },
+  "cable-curl": {
+    "id": "NFzTWp2qpiE",
+    "title": "How To Do Cable Bicep Curls - Full Video Tutorial and Step-by-Step Guide",
+    "author": "Fit Father Project - Fitness For Busy Fathers",
+    "checked": "2026-10-23"
+  },
+  "plank": {
+    "id": "pSHjTRCQxIw",
+    "title": "How To: Plank",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "hammer-curl": {
+    "id": "zC3nLlEvin4",
+    "title": "How To: Dumbbell Hammer Curl",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "floor-press": {
+    "id": "uUGDRwge4F8",
+    "title": "How To: Dumbbell Floor Press",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24",
+    "note": "Pokaz dotyczy hantli. Arkusz nie określa przyrządu — w razie innego wariantu zmień ćwiczenie w planie."
+  },
+  "barbell-curl": {
+    "id": "kwG2ipFRgfo",
+    "title": "How to Do a Barbell Curl | Arm Workout",
+    "author": "Howcast",
+    "checked": "2026-10-24"
+  },
+  "deadlift": {
+    "id": "op9kVnSso6Q",
+    "title": "The Deadlift: CrossFit Foundational Movement",
+    "author": "CrossFit",
+    "checked": "2026-10-24"
+  },
+  "incline-bench": {
+    "id": "SrqOu55lrYU",
+    "title": "How To: Incline Barbell Bench Press | 3 GOLDEN RULES! (MADE BETTER!)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "triceps-pushdown": {
+    "id": "2-LAMcpzODU",
+    "title": "How To: Tricep Pushdown (Life Fitness Cable)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "standing-legcurl": {
+    "id": "Z053-kKjesQ",
+    "title": "How To: Standing Leg Curl (BM)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "seated-legcurl": {
+    "id": "ELOCsoDSmrg",
+    "title": "How To: Seated Leg Curl (Cybex)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "single-triceps-pushdown": {
+    "id": "Cp_bShvMY4c",
+    "title": "Cable Single Arm Pushdown",
+    "author": "Renaissance Periodization",
+    "checked": "2026-10-24"
+  },
+  "farmer-walk": {
+    "id": "Tgi5SNDbBZQ",
+    "title": "How To: Farmers Walk",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "goblet-box-squat": {
+    "id": "mIJub2k6YNg",
+    "title": "How To: Dumbbell Goblet Box Squat",
+    "author": "Fitness Lab",
+    "checked": "2026-10-24",
+    "note": "Wybierz wysokość boxa zgodnie ze swoim planem."
+  },
+  "underhand-cable-row": {
+    "id": "7qFwVZfZzmo",
+    "title": "How to Properly Perform The Underhand Seated Cable Row With Good Form (Exercise Demonstration)",
+    "author": "Gerardi Performance",
+    "checked": "2026-10-24"
+  },
+  "glute-bridge": {
+    "id": "R1OXPHRqehw",
+    "title": "How to do a glute bridge.",
+    "author": "Cleveland Clinic",
+    "checked": "2026-10-24"
+  },
+  "machine-row": {
+    "id": "rADR-qRgx2A",
+    "title": "Exercise Tutorial: Technogym Row / Low Row Resistance Machine",
+    "author": "Travis Tarrant",
+    "checked": "2026-10-24",
+    "note": "Pokaz maszyny Technogym; ustawienia konkretnego modelu dopasuj na miejscu."
+  },
+  "single-shoulder-press": {
+    "id": "J_V1t0eeRkE",
+    "title": "Seated Single Arm Dumbbell Shoulder Press #howtoexercise #exercisedemo #shoulderpress",
+    "author": "FIT Sisters - Lucy & Rosie",
+    "checked": "2026-10-24"
+  },
+  "lying-db-triceps": {
+    "id": "OIidqjKlJMY",
+    "title": "Triceps Exercise:  Single-Arm Lying Triceps Extension Exercise",
+    "author": "FitClick",
+    "checked": "2026-10-24"
+  },
+  "step-back-burpee": {
+    "id": "4bkOIruGAho",
+    "title": "How to do Step Back Burpee | Joanna Soh",
+    "author": "Joanna Soh",
+    "checked": "2026-10-24"
+  },
+  "crunch": {
+    "id": "NGRKFMKhF8s",
+    "title": "How To: Floor Crunch",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "box-squat": {
+    "id": "1SgHKc5tImQ",
+    "title": "Gym Shorts (How To): The Box Squat",
+    "author": "Barbell Logic",
+    "checked": "2026-10-24"
+  },
+  "neutral-pulldown": {
+    "id": "jmZMBYr0nHA",
+    "title": "V-Bar Lat Pulldown — Quick Technique Demo",
+    "author": "Fitness By Physio",
+    "checked": "2026-10-24"
+  },
+  "suitcase-carry": {
+    "id": "y-hn_Ha1-RE",
+    "title": "How To Perform The Suitcase Carry",
+    "author": "Dr. Carl Baird",
+    "checked": "2026-10-24"
+  },
+  "hack-squat": {
+    "id": "u_1a0nWG7vQ",
+    "title": "HOW TO: use the Hack Squat Machine | instructional video | Hype Training & Coaching",
+    "author": "Shannon Porter",
+    "checked": "2026-10-24",
+    "note": "Ogólny pokaz maszyny do przysiadów. Model L+K może mieć inne regulacje."
+  },
+  "machine-crunch": {
+    "id": "dJqB4oA4sdA",
+    "title": "¿CÓMO REALIZAR CORRECTAMENTE UN CRUNCH EN MÁQUINA PARA FORTALECER Y TONIFICA EL ABDOMEN?",
+    "author": "Deportika Online",
+    "checked": "2026-10-24"
+  },
+  "trap-deadlift": {
+    "id": "29Nkozk1uzg",
+    "title": "Trap Bar HD - Deadlift (High Handle)",
+    "author": "Seattle Fire Department",
+    "checked": "2026-10-24"
+  },
+  "incline-db-row": {
+    "id": "Nx0TzjgsI-0",
+    "title": "How To Do An Incline Dumbbell Row",
+    "author": "PureGym",
+    "checked": "2026-10-24"
+  },
+  "incline-pushup": {
+    "id": "0GsVJsS6474",
+    "title": "You CAN do pushups, my friend!",
+    "author": "Hybrid Calisthenics",
+    "checked": "2026-10-24",
+    "note": "Film pokazuje progresję pompek. Dla tego ćwiczenia wybierz wariant z dłońmi na podwyższeniu."
+  },
+  "seated-calf": {
+    "id": "Z7aT7nXhxkA",
+    "title": "How to: Seated Calf Raise",
+    "author": "SATS Nordic",
+    "checked": "2026-10-24"
+  },
+  "rowing-ergometer": {
+    "id": "zQ82RYIFLN8",
+    "title": "Correct Rowing Technique",
+    "author": "Concept2 Australia",
+    "checked": "2026-10-24"
+  },
+  "lunge": {
+    "id": "D7KaRcUTQeE",
+    "title": "How To: Dumbbell Stepping Lunge",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  },
+  "leg-extension": {
+    "id": "YyvSfVjQeL0",
+    "title": "How To: Leg Extension (Cybex)",
+    "author": "ScottHermanFitness",
+    "checked": "2026-10-24"
+  }
+}

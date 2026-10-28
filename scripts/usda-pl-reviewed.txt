@@ -1,0 +1,1034 @@
+separable lean and fat|mięso z tłuszczem
+separable lean only|samo chude mięso
+boneless|bez kości
+trimmed to 0" fat|bez zewnętrznej warstwy tłuszczu
+trimmed to 1/8" fat|warstwa tłuszczu do 3,2 mm
+trimmed to 1/4" fat|warstwa tłuszczu do 6,4 mm
+choice|klasa USDA Choice
+select|klasa USDA Select
+all grades|wszystkie klasy jakości
+Lamb|Jagnięcina
+imported|importowane
+drained|odsączone
+Beverages|Napoje
+braised|duszone
+broiled|grillowane od góry
+without salt|bez soli
+with salt|z solą
+loin|schab / część lędźwiowa
+Babyfood|Żywność dla niemowląt
+New Zealand|Nowa Zelandia
+round|udziec wołowy
+bone-in|z kością
+meat only|samo mięso
+mature seeds|dojrzałe nasiona
+Snacks|Przekąski
+Candies|Słodycze
+meat and skin|mięso ze skórą
+chuck|część łopatkowo-karkowa
+broilers or fryers|kurczęta brojlery
+cured|peklowane
+Australian|australijskie
+solids and liquids|część stała z zalewą
+Cereals ready-to-eat|Płatki śniadaniowe gotowe do spożycia
+Veal|Cielęcina
+shoulder|łopatka
+variety meats and by-products|podroby i produkty uboczne
+rib|część żebrowa
+Nuts|Orzechy
+Infant formula|Mleko modyfikowane dla niemowląt
+Cereals|Produkty zbożowe
+unprepared|przed przygotowaniem
+Potatoes|Ziemniaki
+Fast foods|Dania typu fast food
+Cookies|Ciastka
+strained|przecierane
+Oil|Olej
+dry heat|obróbka na sucho
+enriched|wzbogacone
+leg|udziec / noga
+sweet|słodkie
+yellow|żółte
+with added solution|z dodatkiem solanki
+Game meat|Dziczyzna
+junior|dla starszych niemowląt
+Restaurant|Danie restauracyjne
+Salad dressing|Sos sałatkowy
+commercially prepared|produkcja przemysłowa
+unenriched|niewzbogacone
+ready-to-serve|gotowe do podania
+roast|pieczeń
+Alcoholic beverage|Napój alkoholowy
+Puddings|Puddingi i budynie
+composite of trimmed retail cuts|mieszanka oczyszczonych elementów mięsa
+unheated|bez podgrzewania
+Seeds|Nasiona
+with ARA and DHA|z ARA i DHA
+lip-on|element z zachowanym pasmem mięśnia przy brzegu
+condensed|zagęszczone
+Sauce|Sos
+dinner|danie obiadowe
+heated|podgrzane
+short loin|część lędźwiowa krótka
+breast|pierś
+Cake|Ciasto
+prepared with water|przygotowane z wodą
+tenderloin|polędwica
+prepared from recipe|przygotowane według przepisu
+drained solids|odsączona część stała
+Spices|Przyprawy
+prepared with equal volume water|przygotowane z taką samą objętością wody
+tea|herbata
+prepared with whole milk|przygotowane z pełnym mlekiem
+dark meat|ciemne mięso
+ham|szynka
+wine|wino
+Fried Chicken|Kurczak smażony
+brisket|mostek
+bottom round|zrazowa dolna
+Sausage|Kiełbasa
+fluid|płynne
+cereal|produkt zbożowy
+prepared|po przygotowaniu
+raw (Alaska Native)|surowe (tradycyjna żywność Alaski)
+with iron|z żelazem
+Mollusks|Mięczaki
+grass-fed|od bydła karmionego trawą
+ground|mielone
+raw|surowe
+cooked|po obróbce cieplnej
+roasted|pieczone
+fried|smażone
+grilled|grillowane
+stewed|duszone w płynie
+boiled|gotowane w wodzie
+steamed|gotowane na parze
+microwaved|podgrzane w kuchence mikrofalowej
+ready-to-heat|gotowe do podgrzania
+ready-to-eat|gotowe do spożycia
+scrambled|jajecznica
+omelet|omlet
+hard-boiled|na twardo
+poached|w koszulce
+frozen mixture|mrożona mieszanka
+skinless|bez skóry
+skin only|sama skóra
+skin|skóra
+fat|tłuszcz
+separable fat|tłuszcz możliwy do oddzielenia
+liver|wątroba
+heart|serce
+kidneys|nerki
+brain|mózg
+tongue|język
+tripe|flaki
+thigh|udo
+drumstick|podudzie
+wing|skrzydełko
+back|grzbiet
+neck|szyja / kark
+shank|goleń
+top round|zrazowa górna
+top sirloin|górna część rostbefu
+top loin|rostbef górny
+sirloin|rostbef / część biodrowa
+flank|łata
+steak|stek
+steaks|steki
+country-style ribs|żeberka w stylu country
+rib eye|antrykot
+ribeye|antrykot
+eye of round|ligawa
+reduced sodium|o obniżonej zawartości sodu
+low sodium|niskosodowe
+salt added|z dodatkiem soli
+salted|solone
+unsalted|niesolone
+without added salt|bez dodatku soli
+with added salt|z dodatkiem soli
+unsweetened|niesłodzone
+sweetened|słodzone
+drained without salt|odsączone bez soli
+light syrup|lekki syrop
+heavy syrup|gęsty syrop
+water pack|w zalewie wodnej
+juice pack|w soku
+dry|suche
+dry mix|sucha mieszanka
+powder|proszek
+powdered|w proszku
+instant|błyskawiczne
+whole|całe
+plain|naturalne
+frozen|mrożone
+canned|konserwowe
+raw (with added solution)|surowe z dodatkiem solanki
+breakfast strips|paski śniadaniowe
+Crustaceans|Skorupiaki
+Finfish and Shellfish Products|Ryby i owoce morza
+Luncheon meat|Wędlina mielona
+Luncheon meats|Wędliny mielone
+Frankfurter|Parówka
+Frankfurters|Parówki
+Bologna|Mortadela typu bologna
+bologna|mortadela typu bologna
+bacon|bekon
+peanut butter|masło orzechowe
+Soybeans|Soja
+Lentils|Soczewica
+Chickpeas (garbanzo beans|Ciecierzyca (groch włoski
+garbanzo beans)|groch włoski)
+Beans|Fasola
+Peas|Groch
+Tomatoes|Pomidory
+Carrots|Marchew
+Cucumber|Ogórek
+Cucumbers|Ogórki
+Lettuce|Sałata
+Mushrooms|Grzyby
+Onions|Cebula
+Garlic|Czosnek
+Apples|Jabłka
+Bananas|Banany
+Pears|Gruszki
+Oranges|Pomarańcze
+Grapes|Winogrona
+Avocados|Awokado
+Strawberries|Truskawki
+Blueberries|Borówki
+Pineapple|Ananas
+Peaches|Brzoskwinie
+Plums|Śliwki
+Apricots|Morele
+Raspberries|Maliny
+Raisins|Rodzynki
+Dates|Daktyle
+Figs|Figi
+Almonds|Migdały
+Walnuts|Orzechy włoskie
+Cashew nuts|Orzechy nerkowca
+Pistachio nuts|Pistacje
+Hazelnuts or filberts|Orzechy laskowe
+Cheese|Ser
+Wheat flour|Mąka pszenna
+Sugars|Cukry
+Bread|Chleb
+Rolls|Bułki
+Rice|Ryż
+Oats|Owies
+Pasta|Makaron
+Egg|Jajko
+Eggs|Jajka
+Milk|Mleko
+Butter|Masło
+Beef|Wołowina
+Pork|Wieprzowina
+Chicken|Kurczak
+Turkey|Indyk
+Duck|Kaczka
+Goose|Gęś
+Fish|Ryby
+Waffles|Gofry
+Waffle|Gofr
+Pancakes|Placuszki
+Pancake|Placuszki
+Tofu|Tofu
+Soups|Zupy
+Soup|Zupa
+Salad|Sałatka
+Yogurt|Jogurt
+Frozen yogurts|Jogurty mrożone
+Ice creams|Lody
+Ice cream|Lody
+Pies|Ciasta z nadzieniem
+Pie|Ciasto z nadzieniem
+Biscuits|Ciastka
+Crackers|Krakersy
+Muffins|Muffiny
+Bagels|Bajgle
+Bagel|Bajgiel
+Croissants|Rogaliki croissant
+Crepes|Naleśniki
+Noodles|Makaron
+Spaghetti|Spaghetti
+Macaroni|Makaron rurki
+Coffee|Kawa
+Tea|Herbata
+Water|Woda
+Orange juice|Sok pomarańczowy
+Chewing gum|Guma do żucia
+Leavening agents|Środki spulchniające
+Shortening|Tłuszcz piekarski
+Lard|Smalec
+Margarine|Margaryna
+french fried|frytki
+french fries|frytki
+Artificial Flavor|sztuczny aromat
+refrigerated dough|ciasto chłodzone
+Cinnamon Rolls with Icing|bułeczki cynamonowe z lukrem
+Coating for Pork|panierka do wieprzowiny
+Original Recipe|oryginalna receptura
+Pillsbury Golden Layer Buttermilk Biscuits|Pillsbury Golden Layer — ciastka na maślance
+George Weston Bakeries|George Weston Bakeries
+Thomas English Muffins|Thomas — bułeczki angielskie
+Cookie-type|na spodzie ciasteczkowym
+Pie Crust|Spód do ciasta
+Ready Crust|gotowy spód
+Graham Cracker|krakersy graham
+Dutch Apple|jabłkowe w stylu holenderskim
+Commercially Prepared|produkcja przemysłowa
+Shake N Bake Original Recipe|Shake N Bake Original Recipe
+Pie crust|Spód do ciasta
+squares|kostki
+Frozen novelties|Mrożone desery
+immature seeds|niedojrzałe nasiona
+table|stołowe
+pan-fried|smażone na patelni
+pan-broiled|grillowane na patelni bez tłuszczu
+small end (ribs 10-12)|odcinek żeber 10–12
+large end (ribs 6-9)|odcinek żeber 6–9
+industrial|przemysłowe
+smoked|wędzone
+sprouted|kiełkowane
+ready-to-feed|gotowe do karmienia
+ready-to-drink|gotowe do picia
+frozen concentrate|mrożony koncentrat
+no salt added|bez dodatku soli
+low fat|o obniżonej zawartości tłuszczu
+lowfat|o obniżonej zawartości tłuszczu
+whole (arm and blade)|cała łopatka
+blade|część łopatkowa przy łopatce
+simmered|gotowane na małym ogniu
+top loin steak|stek z rostbefu
+kidney|nerka
+with salt added|z dodatkiem soli
+lip off|element z usuniętym pasmem mięśnia przy brzegu
+flat half|płaska część mostka
+lemon|cytryna
+rib eye steak|stek z antrykotu
+plate steak|stek z części brzuszno-żebrowej
+snap|strąkowe
+Atlantic|atlantyckie
+prepared-from-recipe|przygotowane według przepisu
+low calorie|o niskiej wartości energetycznej
+slice|plaster
+ham with natural juices|szynka w naturalnym soku
+winter|zimowe
+summer|letnie
+shoulder clod|element łopatki wołowej
+arm|część ramienna
+coffee|kawa
+dessert|deser
+uncooked|przed obróbką cieplną
+all classes|wszystkie klasy
+corn|kukurydza
+dry roasted|prażone na sucho
+regular pack|standardowa zalewa
+chopped|posiekane
+retail parts|elementy mięsa do sprzedaży detalicznej
+carbonated|gazowane
+potato chips|chipsy ziemniaczane
+fat-free|beztłuszczowe
+juice|sok
+ham -- water added|szynka z dodatkiem wody
+ham and water product|wyrób z szynki i wody
+porterhouse steak|stek porterhouse
+tip round|część udźca wołowego (tip round)
+sulfured|konserwowane związkami siarki
+mock tender steak|stek z części łopatkowej (mock tender)
+vegetables|warzywa
+Ostrich|Struś
+Syrups|Syropy
+t-bone steak|stek T-bone
+egg|jajko
+Margarine-like|Wyrób podobny do margaryny
+cooked with water|gotowane w wodzie
+reduced calorie|o obniżonej wartości energetycznej
+toddler|dla małych dzieci
+rump|część krzyżowa
+without salt added|bez dodatku soli
+oil roasted|prażone z olejem
+arm pot roast|pieczeń duszona z łopatki
+prime|klasa USDA Prime
+skin and breading removed|bez skóry i panierki
+domesticated|hodowlane
+from whole bird|z całego ptaka
+moist heat|obróbka w środowisku wilgotnym
+flour|mąka
+granola bars|batoniki zbożowe
+prepared with 2% milk|przygotowane z mlekiem 2%
+Cornmeal|Mąka kukurydziana
+top round steak|stek ze zrazowej górnej
+whole-wheat|pełnoziarniste pszenne
+commercial|produkcja przemysłowa
+deep dish|na głębokim spodzie
+unbaked|przed pieczeniem
+made with enriched flour|z mąki wzbogaconej
+Tostada shells|Chrupiące placki tostada
+Pastry|Wypiek cukierniczy
+Cream puff|Ptyś
+eclair|ekler
+custard or cream filled|z nadzieniem budyniowym lub śmietankowym
+Tortillas|Tortille
+ready-to-bake or -fry|gotowe do pieczenia lub smażenia
+shelf stable|trwałe w temperaturze pokojowej
+Baking chocolate|Czekolada do wypieków
+Desserts|Desery
+Sherbet|Sorbet mleczny
+Moose|Łoś
+Seal|Foka
+bearded (Oogruk)|brodata (Oogruk)
+Squirrel|Wiewiórka
+Walrus|Mors
+Owl|Sowa
+Sea cucumber|Strzykwa
+horned|rogata
+ground (Alaska Native)|suslik (tradycyjna żywność Alaski)
+braised (Alaska Native)|duszone (tradycyjna żywność Alaski)
+dried (Alaska Native)|suszone (tradycyjna żywność Alaski)
+unflavored|bez dodatków smakowych
+Shake|Koktajl
+High Protein Shake|Koktajl wysokobiałkowy
+Nutritional Shake|Koktajl odżywczy
+Sweet Potatoes|Bataty
+Mashu roots|Korzenie mashu
+Oopah (tunicate)|Oopah (osłonica)
+Deer (venison)|Jeleń (dziczyzna)
+Whale|Wieloryb
+Mush|Kleik zbożowy
+Chilchen (Red Berry Beverage) (Navajo)|Chilchen (napój z czerwonych jagód Navajo)
+Mutton|Baranina
+Frybread|Smażony chleb frybread
+Tamales (Navajo)|Tamales (Navajo)
+Caribou|Renifer karibu
+Buffalo|Bawół
+Elk|Wapiti
+Smelt|Stynka
+Corned beef and potatoes in tortilla (Apache)|Tortilla z peklowaną wołowiną i ziemniakami (Apacze)
+Pectin|Pektyna
+Creamy dressing|Kremowy sos sałatkowy
+Milk dessert|Deser mleczny
+Cream substitute|Zamiennik śmietanki
+Vegetable oil-butter spread|Mieszanka tłuszczów roślinnych i masła do smarowania
+Mayonnaise|Majonez
+Pork sausage rice links|Kiełbaski wieprzowe z ryżem
+Salad Dressing|Sos sałatkowy
+Jams|Dżemy
+Tomato and vegetable juice|Sok pomidorowo-warzywny
+Hearts of palm|Serca palmowe
+Yeast extract spread|Pasta z ekstraktu drożdżowego
+Tofu yogurt|Jogurt na bazie tofu
+Millet|Proso
+Breakfast bar|Batonik śniadaniowy
+Mayonnaise dressing|Sos majonezowy
+Pie fillings|Nadzienie do ciasta
+Syrup|Syrop
+Turtle|Żółw
+Lemons|Cytryny
+Lemon juice|Sok cytrynowy
+Lemon juice from concentrate|Sok cytrynowy z koncentratu
+Lemon peel|Skórka cytryny
+Prickly pears|Owoce opuncji
+Prune juice|Sok z suszonych śliwek
+Pummelo|Pomelo
+Rhubarb|Rabarbar
+Sapodilla|Sapodilla (owoc)
+Sapote|Sapote (owoc)
+Soursop|Flaszowiec miękkociernisty (graviola)
+Tamarinds|Tamaryndowiec
+Maraschino cherries|Wiśnie maraschino
+Apple juice|Sok jabłkowy
+Grapefruit juice|Sok grejpfrutowy
+Prune puree|Przecier z suszonych śliwek
+Candied fruit|Owoce kandyzowane
+Abiyuch|Abiyuch (owoc)
+Rowal|Rowal (owoc)
+Guava nectar|Nektar z gujawy
+Mango nectar|Nektar z mango
+Tamarind nectar|Nektar z tamaryndowca
+Pomegranate juice|Sok z granatu
+Nance|Nance (owoc)
+Naranjilla (lulo) pulp|Miąższ lulo (naranjilla)
+Horned melon (Kiwano)|Kiwano
+Orange Pineapple Juice Blend|Mieszanka soku pomarańczowego i ananasowego
+Fruit juice smoothie|Koktajl z soków owocowych
+Cranberry sauce|Sos żurawinowy
+Baobab powder|Baobab w proszku
+Cherry juice|Sok wiśniowy
+Canadian bacon|Bekon w stylu kanadyjskim
+HORMEL Canadian Style Bacon|HORMEL — bekon w stylu kanadyjskim
+Toaster Pastries|Ciastka do tostera
+Toaster pastries|Ciastka do tostera
+Keikitos (muffins)|Keikitos (muffiny)
+Pan Dulce|Pan dulce (słodkie pieczywo)
+Cinnamon buns|Bułeczki cynamonowe
+Focaccia|Focaccia
+Fruit syrup|Syrop owocowy
+Topping|Dodatek deserowy
+Chocolate-flavored hazelnut spread|Krem z orzechów laskowych o smaku czekoladowym
+Sweet Potato puffs|Chrupki z batatów
+Mouse nuts|Mouse nuts (tradycyjny produkt Alaski)
+Octopus (Alaska Native)|Ośmiornica (tradycyjna żywność Alaski)
+Sourdock|Szczaw
+Willow|Wierzba
+Tortilla|Tortilla
+Salmonberries|Owoce maliny okazałej
+Chokecherries|Owoce czeremchy wirginijskiej
+Steelhead trout|Pstrąg tęczowy wędrowny
+Acorn stew (Apache)|Potrawka z żołędzi (Apacze)
+Imitation cheese|Wyrób zastępujący ser
+Granola bar|Batonik z granoli
+Papad|Papad (chrupiący placek)
+Rice cake|Wafel ryżowy
+Cranberry juice|Sok żurawinowy
+Jellyfish|Meduza
+Sweeteners|Substancje słodzące
+Jellies|Galaretki
+Vital wheat gluten|Gluten pszenny
+Frog legs|Żabie udka
+Java-plum|Czapetka kuminowa (owoc)
+Jujube|Głożyna (jujuba)
+Kiwifruit|Kiwi
+Kumquats|Kumkwaty
+Limes|Limonki
+Lime juice|Sok z limonki
+Prunes|Suszone śliwki
+Quinces|Pigwy
+Rambutan|Rambutan
+Roselle|Ketmia szczawiowa (hibiskus)
+Rose-apples|Jabłka różane (owoce czapetki)
+Sugar-apples|Flaszowiec łuskowaty (owoc)
+Feijoa|Feijoa
+Fruit cocktail|Mieszanka owocowa
+Tangerines|Mandarynki
+Peach nectar|Nektar brzoskwiniowy
+Pear nectar|Nektar gruszkowy
+Pineapple juice|Sok ananasowy
+Jackfruit|Dżakfrut
+Durian|Durian
+Clementines|Klementynki
+Guanabana nectar|Nektar z gravioli
+Juice|Sok
+Plantains|Plantany (banany warzywne)
+Grape juice|Sok winogronowy
+Cranberry juice blend|Mieszanka soków z żurawiną
+Raspberry juice concentrate|Koncentrat soku malinowego
+Pork loin|Schab wieprzowy
+Bacon|Bekon
+Alfalfa seeds|Nasiona lucerny
+Amaranth leaves|Liście amarantusa
+Artichokes|Karczochy
+Balsam-pear (bitter gourd)|Przepękla ogórkowata (gorzki melon)
+Cowpeas (blackeyes)|Fasola czarne oczko
+Cowpeas|Wspięga wężowata (nasiona)
+Cress|Rzeżucha
+Edamame|Edamame
+Endive|Endywia
+Escarole|Endywia eskariola
+Gourd|Tykwa
+Drumstick leaves|Liście moringi
+Pepeao|Pepeao (grzyby)
+Jute|Juta (liście)
+Kohlrabi|Kalarepa
+Leeks|Pory
+Lotus root|Korzeń lotosu
+Mountain yam|Pochrzyn górski
+Mustard spinach|Kapusta musztardowa (komatsuna)
+New Zealand spinach|Szpinak nowozelandzki
+Potato wedges|Łódeczki ziemniaczane
+Potato flour|Mąka ziemniaczana z całych ziemniaków
+Pumpkin leaves|Liście dyni
+Pumpkin|Dynia
+Radishes|Rzodkiewki
+Rutabagas|Brukiew
+Sesbania flower|Kwiaty sesbanii
+Succotash|Succotash (potrawa z kukurydzy i fasoli)
+Taro|Taro
+Taro leaves|Liście taro
+Taro shoots|Pędy taro
+Arrowroot|Maranta
+Chrysanthemum leaves|Liście chryzantemy
+Arrowhead|Strzałka wodna
+Bamboo shoots|Pędy bambusa
+Mung beans|Fasola mung
+Beet greens|Liście buraka
+Borage|Ogórecznik
+Chrysanthemum|Chryzantema jadalna
+Drumstick pods|Strąki moringi
+Hyacinth-beans|Fasola hiacyntowa
+Lambsquarters|Komosa biała
+Tree fern|Paproć drzewiasta
+Catsup|Ketchup
+Pickles|Marynowane ogórki
+Pimento|Papryka pimiento
+Pickle relish|Relish z marynowanych warzyw
+Radicchio|Cykoria radicchio
+Tomatillos|Miechunka pomidorowa
+Nopales|Nopales (pędy opuncji)
+Lemon grass (citronella)|Trawa cytrynowa
+Grape leaves|Liście winorośli
+Fungi|Grzyby
+Wasabi|Wasabi
+Fiddlehead ferns|Młode pędy paproci
+Toppings|Dodatki deserowe
+Egg custards|Kremy jajeczne
+Cocoa|Kakao
+Gelatin desserts|Desery żelatynowe
+Rennin|Podpuszczka
+Frostings|Lukry i polewy
+Flan|Flan (deser jajeczno-mleczny)
+Fruit butters|Gęste smarowidła owocowe
+Marmalade|Marmolada
+Molasses|Melasa
+Snack|Przekąska
+Cheese puffs and twists|Chrupki serowe
+Oat bran|Otręby owsiane
+Rye grain|Ziarno żyta
+Rye flour|Mąka żytnia
+Triticale flour|Mąka z pszenżyta
+Wheat|Pszenica
+Wheat germ|Zarodki pszenne
+Wild rice|Dziki ryż
+Rice flour|Mąka ryżowa
+Wheat flours|Mąki pszenne
+Rice noodles|Makaron ryżowy
+Teff|Teff (miłka abisyńska)
+Corn grain|Ziarno kukurydzy
+Corn flour|Mąka kukurydziana
+Semolina|Kasza manna
+Sorghum flour|Mąka z sorgo
+Rice and vermicelli mix|Mieszanka ryżu i cienkiego makaronu
+Pasta mix|Mieszanka makaronowa
+Yellow rice with seasoning|Żółty ryż z przyprawami
+Pizza rolls|Roladki z nadzieniem do pizzy
+Spanish rice mix|Mieszanka ryżu w stylu hiszpańskim
+Lasagna|Lasagne
+Turnover|Wypiek z nadzieniem (turnover)
+Rice mix|Mieszanka ryżowa
+Salisbury steak with gravy|Kotlet Salisbury z sosem pieczeniowym
+Infant Formula|Mleko modyfikowane dla niemowląt
+Agutuk|Agutuk (deser alaskański)
+Ascidians (tunughnak) (Alaska Native)|Osłonice tunughnak (tradycyjna żywność Alaski)
+Stew/soup|Potrawka lub zupa
+Chiton|Chiton (mięczak)
+Fireweed|Wierzbówka kiprzyca
+Agave|Agawa
+Cattail|Pałka wodna
+Prairie Turnips|Rzepa preriowa
+Rose Hips|Owoce dzikiej róży
+Sea lion|Lew morski
+Piki bread|Chleb piki
+Wocas|Wocas (nasiona rośliny wodnej)
+Tamales|Tamales
+Gums|Gumy spożywcze
+Jams and preserves|Dżemy i przetwory owocowe
+Breakfast bars|Batoniki śniadaniowe
+Luncheon slices|Plastry wędliny
+Meatballs|Klopsiki
+Vegetarian fillets|Filety wegetariańskie
+Sandwich spread|Pasta kanapkowa
+Beverage|Napój
+Tomato sauce|Sos pomidorowy
+Cheese spread|Ser do smarowania
+Soybean|Soja
+Vegetables|Warzywa
+Litchis|Liczi
+Loganberries|Malinojeżyny loganberry
+Longans|Longan (owoc)
+Mangosteen|Mangostan
+Melons|Melony
+Orange peel|Skórka pomarańczy
+Orange-grapefruit juice|Sok pomarańczowo-grejpfrutowy
+Papaya nectar|Nektar z papai
+Passion-fruit|Marakuja
+Passion-fruit juice|Sok z marakui
+Pitanga|Pitanga (owoc)
+Pomegranates|Granaty
+Corn with red and green peppers|Kukurydza z czerwoną i zieloną papryką
+Cornsalad|Roszponka
+Yardlong bean|Wspięga wężowata (fasolnik chiński)
+Dandelion greens|Liście mniszka
+Ginger root|Korzeń imbiru
+Jerusalem-artichokes|Topinambur
+Jew's ear|Uszak bzowy (grzyby)
+Kanpyo|Kanpyo (suszona tykwa)
+Potato salad|Sałatka ziemniaczana
+Pumpkin flowers|Kwiaty dyni
+Pumpkin pie mix|Mieszanka do ciasta dyniowego
+Purslane|Portulaka
+Salsify|Salsefia
+Sauerkraut|Kapusta kiszona
+Water convolvulus|Szpinak wodny
+Sweet potato leaves|Liście batata
+Broadbeans|Bób
+Burdock root|Korzeń łopianu
+Butterbur|Lepiężnik
+Cardoon|Kard
+Celeriac|Seler korzeniowy
+Chard|Boćwina
+Chayote|Kolczoch jadalny
+Yambean (jicama)|Jicama
+Dock|Szczaw
+Mushroom|Grzyb
+Fennel|Fenkuł
+Arugula|Rukola
+Pepper|Pieprz
+Epazote|Epazote (komosa piżmowa)
+Malabar spinach|Szpinak malabarski
+Yautia (tannier)|Yautia (bulwa)
+Gelatins|Żelatyny
+Honey|Miód
+Cornstarch|Skrobia kukurydziana
+Couscous|Kuskus
+Hominy|Kukurydza nixtamalizowana
+Oats (Includes foods for USDA's Food Distribution Program)|Owies (w tym produkty programu USDA)
+Rice bran|Otręby ryżowe
+Sorghum grain|Ziarno sorgo
+Tapioca|Tapioka
+Triticale|Pszenżyto
+Wheat bran|Otręby pszenne
+Barley flour or meal|Mąka lub śruta jęczmienna
+Barley malt flour|Mąka ze słodu jęczmiennego
+Oat flour|Mąka owsiana
+Spelt|Orkisz
+Vegetable juice|Sok warzywny
+Macaroni and cheese|Makaron z serem
+Macaroni and Cheese|Makaron z serem
+Taquitos|Taquitos (zwijane tortille)
+Potsticker or wonton|Pierogi potsticker lub wonton
+Dumpling|Pieróg
+Bear|Niedźwiedź
+Cloudberries|Malina moroszka
+Cockles|Sercówki (małże)
+Cranberries|Żurawina
+Cranberry|Żurawina
+Huckleberries|Borówki huckleberry
+Tennis Bread|Chleb Tennis Bread
+Stinging Nettles|Pokrzywa
+Pinon Nuts|Orzeszki piniowe
+Hazelnuts|Orzechy laskowe
+Peanut butter|Masło orzechowe
+Peanut Butter|Masło orzechowe
+Fluid replacement|Napój uzupełniający płyny
+Vermicelli|Cienki makaron vermicelli
+Vegetarian meatloaf or patties|Wegetariańska pieczeń lub kotlety
+Bacon bits|Kawałki bekonu
+Butter replacement|Zamiennik masła
+Whipped cream substitute|Zamiennik bitej śmietany
+Quail|Przepiórka
+Pheasant|Bażant
+Dove|Gołąb
+Loquats|Nieśplik (owoc)
+Mammy-apple|Mameja amerykańska (owoc)
+Mangos|Mango
+Melon balls|Kulki z melona
+Mulberries|Morwy
+Nectarines|Nektarynki
+Oheloberries|Jagody ohelo
+Tangerine juice|Sok mandarynkowy
+Papayas|Papaje
+Persimmons|Persymony
+Cassava|Maniok
+Celtuce|Sałata łodygowa
+Chicory greens|Liście cykorii
+Chicory roots|Korzenie cykorii
+Chives|Szczypiorek
+Coriander (cilantro) leaves|Liście kolendry
+Parsnips|Pasternak
+Peas and onions|Groszek z cebulą
+Pigeonpeas|Nikla indyjska (nasiona)
+Potato puffs|Chrupki ziemniaczane
+Tomato products|Produkty pomidorowe
+Turnips|Rzepa
+Turnip greens and turnips|Liście i korzenie rzepy
+Vegetable juice cocktail|Koktajl z soków warzywnych
+Waterchestnuts|Kasztany wodne
+Watercress|Rukiew wodna
+Waxgourd|Beninkaza (tykwa woskowa)
+Winged bean tuber|Bulwy fasoli skrzydlatej
+Yam|Pochrzyn
+Eppaw|Eppaw (tradycyjny produkt roślinny)
+Shallots|Szalotki
+Potato pancakes|Placki ziemniaczane
+Radish seeds|Nasiona rzodkiewki
+Chocolate|Czekolada
+Sweetener|Substancja słodząca
+Barley|Jęczmień
+Buckwheat|Gryka
+Corn bran|Otręby kukurydziane
+Fast food|Danie typu fast food
+Fast Food|Danie typu fast food
+Fast Foods|Dania typu fast food
+School Lunch|Obiad szkolny
+Yogurt parfait|Deser jogurtowy parfait
+Broccoli raab|Rapini (brokuł liściowy)
+Chicory|Cykoria
+Onion rings|Krążki cebulowe
+Parsley|Pietruszka
+Poi|Poi (pasta z taro)
+Pokeberry shoots|Pędy szkarłatki
+Tomato juice|Sok pomidorowy
+Tomato powder|Pomidor w proszku
+Vinespinach|Szpinak malabarski
+Winged beans|Fasola skrzydlata
+Winged bean leaves|Liście fasoli skrzydlatej
+Carrot juice|Sok marchwiowy
+Corn pudding|Pudding kukurydziany
+Spinach souffle|Suflet szpinakowy
+Carrot|Marchew
+New zealand spinach|Szpinak nowozelandzki
+Winged bean|Fasola skrzydlata
+Sugar|Cukier
+Amaranth grain|Ziarno amarantusa
+Arrowroot flour|Mąka z maranty
+Buckwheat groats|Kasza gryczana
+Buckwheat flour|Mąka gryczana
+Cheese food|Przetwór serowy
+Dessert topping|Dodatek deserowy
+Milk shakes|Koktajle mleczne
+Whey|Serwatka
+Milk dessert bar|Batonik z deseru mlecznego
+Nutritional supplement for people with diabetes|Preparat odżywczy dla osób z cukrzycą
+Toddler formula|Mleko modyfikowane dla małych dzieci
+Margarine-like spread|Smarowidło podobne do margaryny
+Margarine-like vegetable-oil spread|Smarowidło roślinne podobne do margaryny
+Dressing|Sos sałatkowy
+Squab|Młody gołąb
+Pate de foie gras|Pasztet foie gras
+Turkey sticks|Paluszki z mięsa indyka
+Poultry|Drób
+Eggnog|Napój jajeczno-mleczny eggnog
+Sour dressing|Kwaśny sos sałatkowy
+Milk substitutes|Zamienniki mleka
+Cheese product|Wyrób serowy
+Ice cream bar|Lody na patyku
+Ice cream sundae cone|Rożek lodowy z dodatkami
+Zwieback|Sucharki
+Fat|Tłuszcz
+Vegetable oil|Olej roślinny
+Turkey and gravy|Indyk z sosem pieczeniowym
+Turkey breast|Pierś z indyka
+Turkey thigh|Udo indyka
+Turkey roast|Pieczeń z indyka
+Chicken patty|Kotlet drobiowy
+Chicken breast tenders|Polędwiczki z piersi kurczaka
+Barbecue loaf|Pieczeń typu barbecue
+Fish broth|Bulion rybny
+Potato soup|Zupa ziemniaczana
+Beerwurst|Kiełbasa piwna
+Blood sausage|Kaszanka
+Bockwurst|Kiełbasa bockwurst
+Bratwurst|Kiełbasa bratwurst
+Braunschweiger (a liver sausage)|Kiełbasa wątrobiana Braunschweiger
+Cheesefurter|Parówka z serem
+Ham and cheese loaf or roll|Wyrób z szynki i sera
+Ham and cheese spread|Pasta z szynki i sera
+Headcheese|Salceson
+Acerola|Acerola
+Acerola juice|Sok z aceroli
+Apricot nectar|Nektar morelowy
+Boysenberries|Malinojeżyny boysenberry
+Breadfruit|Chlebowiec (owoc)
+Carambola|Karambola
+Crabapples|Dzikie jabłka
+Currants|Porzeczki
+Custard-apple|Flaszowiec siatkowaty (owoc)
+Elderberries|Owoce czarnego bzu
+Dip|Dip
+Alcoholic Beverage|Napój alkoholowy
+Alcoholic beverages|Napoje alkoholowe
+Cocoa mix|Mieszanka do napoju kakaowego
+Cranberry juice cocktail|Napój z sokiem żurawinowym
+Carbonated beverage|Napój gazowany
+Millet flour|Mąka z prosa
+Light Ice Cream|Lody o obniżonej zawartości tłuszczu
+Spaghetti with meat sauce|Spaghetti z sosem mięsnym
+Beef macaroni with tomato sauce|Makaron z wołowiną i sosem pomidorowym
+Pasta with Sliced Franks in Tomato Sauce|Makaron z parówkami w sosie pomidorowym
+Turkey Pot Pie|Zapiekanka z indykiem pod ciastem
+Beef Pot Pie|Zapiekanka z wołowiną pod ciastem
+Tortellini|Tortellini
+Chili con carne with beans|Chili con carne z fasolą
+Chili|Chili
+Pasta with tomato sauce|Makaron z sosem pomidorowym
+Lasagna with meat & sauce|Lasagne z mięsem i sosem
+Egg rolls|Sajgonki jajeczne
+Chili with beans|Chili z fasolą
+Ravioli|Ravioli
+Lasagna with meat sauce|Lasagne z sosem mięsnym
+Cheese substitute|Zamiennik sera
+Cheese sauce|Sos serowy
+Parmesan cheese topping|Dodatek z parmezanu
+Ice cream sandwich|Kanapka lodowa
+Ice cream cookie sandwich|Kanapka lodowa w ciastkach
+Ice cream cone|Rożek lodowy
+Basil|Bazylia
+Dill weed|Koperek
+Mustard|Musztarda
+Vanilla extract|Ekstrakt waniliowy
+Vinegar|Ocet
+Capers|Kapary
+Spearmint|Mięta zielona
+Seasoning mix|Mieszanka przypraw
+Toddler drink|Napój dla małych dzieci
+Child formula|Preparat odżywczy dla dzieci
+Fish oil|Olej rybny
+Animal fat|Tłuszcz zwierzęcy
+Margarine-like spread with yogurt|Smarowidło podobne do margaryny z jogurtem
+Guinea hen|Perliczka
+Lupins|Łubin
+Mothbeans|Fasola ćma (Vigna aconitifolia)
+Mungo beans|Fasola mungo
+Peanut flour|Mąka z orzechów ziemnych
+Pigeon peas (red gram)|Nikla indyjska (nasiona)
+Miso|Miso
+Natto|Natto
+Soy flour|Mąka sojowa
+Soy meal|Śruta sojowa
+Soymilk|Napój sojowy
+Soy protein concentrate|Koncentrat białka sojowego
+Okara|Okara
+Hummus|Hummus
+Falafel|Falafel
+Peanut spread|Krem z orzechów ziemnych
+Tempeh|Tempeh
+Peanut butter with omega-3|Masło orzechowe z omega-3
+Soy sauce made from soy and wheat (shoyu)|Sos sojowy z soi i pszenicy (shoyu)
+Soy sauce|Sos sojowy
+Puff pastry|Ciasto francuskie
+Cracker|Krakers
+Croutons|Grzanki
+Danish pastry|Ciastko duńskie
+Doughnuts|Pączki
+Pancakes plain|Placuszki bez dodatków
+Phyllo dough|Ciasto filo
+Popovers|Bułeczki popovers
+Sweet rolls|Słodkie bułeczki
+Taco shells|Muszelki taco
+Wonton wrappers (includes egg roll wrappers)|Ciasto na wonton i sajgonki
+English muffins|Bułeczki angielskie
+Ruffed Grouse|Cietrzew kanadyjski
+Emu|Emu
+Turkey from whole|Indyk (element z całego ptaka)
+Olive loaf|Wędlina z oliwkami
+Pastrami|Pastrami
+Pate|Pasztet
+Luxury loaf|Wędlina typu luxury loaf
+Mother's loaf|Wędlina typu mother's loaf
+Picnic loaf|Wędlina typu picnic loaf
+Salami|Salami
+Thuringer|Kiełbasa turyńska
+Honey roll sausage|Kiełbasa z miodem
+Yachtwurst|Kiełbasa yachtwurst
+Macaroni and cheese loaf|Wędlina z makaronem i serem
+Scrapple|Scrapple (wyrób mięsno-zbożowy)
+Rice and Wheat cereal bar|Batonik ryżowo-pszenny
+Gooseberries|Agrest
+Goji berries|Jagody goji
+Groundcherries|Miechunka
+Guavas|Gujawy
+Formulated bar|Baton odżywczy
+Formulated Bar|Baton odżywczy
+Rice crackers|Krakersy ryżowe
+Lemonade|Lemoniada
+Beef stew|Gulasz wołowy
+Chicken pot pie|Zapiekanka z kurczakiem pod ciastem
+Rice bowl with chicken|Miska ryżu z kurczakiem
+Macaroni and cheese dinner with dry sauce mix|Makaron z serem z suchą mieszanką sosu
+Potato salad with egg|Sałatka ziemniaczana z jajkiem
+Pulled pork in barbecue sauce|Szarpana wieprzowina w sosie barbecue
+Corn dogs|Parówki w cieście kukurydzianym
+Chicken tenders|Polędwiczki z kurczaka
+Butter oil|Tłuszcz mleczny
+Protein supplement|Suplement białkowy
+Dulce de Leche|Masa karmelowo-mleczna dulce de leche
+Fat free ice cream|Lody beztłuszczowe
+Salt|Sól
+Thyme|Tymianek
+Horseradish|Chrzan
+Rosemary|Rozmaryn
+Peppermint|Mięta pieprzowa
+Shortening industrial|Przemysłowy tłuszcz piekarski
+Shortening confectionery|Tłuszcz cukierniczy
+Margarine Spread|Margaryna do smarowania
+Margarine-like shortening|Tłuszcz piekarski podobny do margaryny
+Canada Goose|Bernikla kanadyjska
+Whiskey sour mix|Mieszanka do drinka whiskey sour
+Salmon nuggets|Nuggetsy z łososia
+Yokan|Yokan (deser)
+Broadbeans (fava beans)|Bób
+Carob flour|Mąka z chleba świętojańskiego
+Soymilk (All flavors)|Napój sojowy (wszystkie smaki)
+Soymilk (all flavors)|Napój sojowy (wszystkie smaki)
+Bison|Bizon
+Chicken spread|Pasta z kurczaka
+Corned beef loaf|Wyrób z peklowanej wołowiny
+Dutch brand loaf|Wędlina typu Dutch brand loaf
+Ham salad spread|Pasta sałatkowa z szynką
+Knackwurst|Kiełbasa knackwurst
+Lebanon bologna|Wędlina Lebanon bologna
+Liver cheese|Pieczeń wątrobiana
+Liver sausage|Kiełbasa wątrobiana
+Kielbasa|Kiełbasa
+Blackberry juice|Sok jeżynowy
+Carissa|Karissa (owoc)
+Cherimoya|Czerymoja
+Cranberry-orange relish|Relish żurawinowo-pomarańczowy
+Beef composite|Mieszanka elementów wołowych
+Meat extender|Dodatek zastępujący część mięsa
+Soy protein isolate|Izolat białka sojowego
+Soy sauce made from soy (tamari)|Sos sojowy z soi (tamari)
+Soy sauce made from hydrolyzed vegetable protein|Sos sojowy z hydrolizowanego białka roślinnego
+Yardlong beans|Fasolnik chiński
+Veggie burgers or soyburgers|Burgery warzywne lub sojowe
+Chickpea flour (besan)|Mąka z ciecierzycy (besan)
+Game meat |Dziczyzna
+Split pea soup|Zupa z grochu łuskanego
+Split pea with ham soup|Zupa grochowa z szynką
+Roast beef|Wołowina pieczona
+Mortadella|Mortadela
+Peppered loaf|Wędlina z pieprzem
+Pickle and pimiento loaf|Wędlina z ogórkiem i papryką pimiento
+Polish sausage|Kiełbasa polska
+Poultry salad sandwich spread|Drobiowa pasta sałatkowa do kanapek
+Luncheon sausage|Kiełbasa kanapkowa
+Liverwurst spread|Pasta z wątrobianki
+Roast beef spread|Pasta z pieczonej wołowiny
+Swisswurst|Kiełbasa Swisswurst
+Bacon and beef sticks|Paluszki wołowe z bekonem
+Milk and cereal bar|Batonik mleczno-zbożowy
+Incaparina|Incaparina (mieszanka zbożowo-sojowa)
+Guava sauce|Sos z gujawy
+Limeade|Lemoniada z limonki
+Malt beverage|Napój słodowy
+Strawberry-flavor beverage mix|Mieszanka do napoju truskawkowego
+Cream puff shell|Korpus ptysia
+Hush puppies|Smażone kulki kukurydziane
+Ice cream cones|Wafelki do lodów
+Strudel|Strudel
+Tart|Tarta
+Artificial Blueberry Muffin Mix|Mieszanka do muffinów o smaku borówkowym
+Hyacinth beans|Fasola hiacyntowa
+hand battered|w ręcznie nakładanym cieście
+chicken tenders|polędwiczki z kurczaka
+chicken tenders platter|zestaw z polędwiczkami z kurczaka
+coleslaw|surówka coleslaw
+extra heavy syrup pack|w bardzo gęstym syropie
+heavy syrup pack|w gęstym syropie
+light syrup pack|w lekkim syropie
+with shortening (Alaska Native)|z tłuszczem piekarskim (tradycyjna żywność Alaski)
+fish with shortening (Alaskan ice cream) (Alaska Native)|ryby z tłuszczem piekarskim (deser alaskański)
+fish/berry with seal oil (Alaskan ice cream) (Alaska Native)|ryby i jagody z olejem z foki (deser alaskański)
+meat-caribou (Alaskan ice cream) (Alaska Native)|mięso karibu (deser alaskański)
+(west indian cherry)|(wiśnia z Barbadosu)
+Classic Hand-Tossed Crust|tradycyjny ręcznie formowany spód
+Crunchy Thin Crust|cienki chrupiący spód
+Ultimate Deep Dish Crust|głęboki gruby spód
+Chocolate Chip Ice Box|kruche z kawałkami czekolady
+Date Filled Oatmeal|owsiane z nadzieniem daktylowym
+Coconut Macaroon|kokosanki
+Iced Molasses|z melasą i lukrem
+Gluten Free Soft Dinner Roll|miękka bułka bezglutenowa
+9 oz house sirloin steak|stek z rostbefu 255 g
+Double Crunch Shrimp|krewetki w chrupiącej panierce Double Crunch
+Ruffed Grouse|Jarząbek białoszyi

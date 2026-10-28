@@ -1,0 +1,24 @@
+<resources>
+    <color name="widget_day_bg">#17181B</color>
+    <color name="widget_day_ink">#ECF4F0</color>
+    <color name="widget_day_muted">#A3B6AD</color>
+    <color name="widget_day_inner">#2A2C30</color>
+    <color name="widget_day_accent">#46C08E</color>
+    <color name="widget_on_accent">#04140D</color>
+    <color name="widget_day_button">#123A2B</color>
+    <color name="widget_day_hot">#FF7A50</color>
+    <color name="widget_day_hot_track">#33FFFFFF</color>
+    <color name="widget_protein">#AB98F7</color>
+    <color name="widget_fat_color">#F2AB52</color>
+    <color name="widget_carbs_color">#72D48D</color>
+    <color name="widget_track">#1FFFFFFF</color>
+    <color name="widget_water_bg">#17181B</color>
+    <color name="widget_water_ink">#ECF4F0</color>
+    <color name="widget_water_muted">#A3B6AD</color>
+    <color name="widget_water_button">#2F86CF</color>
+    <color name="widget_water_secondary">#2A2C30</color>
+    <color name="widget_water_wave">#5962B2F2</color>
+    <color name="widget_water_wave2">#2E62B2F2</color>
+    <color name="widget_streak_fire">#FF8A2F</color>
+    <color name="widget_streak_off">#40FFFFFF</color>
+</resources>

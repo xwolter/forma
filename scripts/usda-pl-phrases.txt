@@ -1,0 +1,576 @@
+Milk|Mleko
+NFS|wariant ogólny
+whole|pełne
+reduced fat (2%)|2% tłuszczu
+low fat (1%)|1% tłuszczu
+fat free (skim)|odtłuszczone
+lactose free|bez laktozy
+Buttermilk|Maślanka
+Kefir|Kefir
+Goat milk|Mleko kozie
+nonfat|odtłuszczone
+Yogurt|Jogurt
+Greek|grecki
+plain|naturalne
+vanilla|waniliowe
+strawberry|truskawkowe
+chocolate|czekoladowe
+fruit|owocowe
+with fruit|z owocami
+sweetened|słodzone
+unsweetened|niesłodzone
+Soy milk|Napój sojowy
+Almond milk|Napój migdałowy
+Rice milk|Napój ryżowy
+Oat milk|Napój owsiany
+Coconut milk|Mleko kokosowe
+Cheese|Ser
+cheese|ser
+Cheddar|Cheddar
+Mozzarella|Mozzarella
+Swiss|szwajcarski
+American|amerykański
+Feta|Feta
+Parmesan|Parmezan
+Provolone|Provolone
+Gouda|Gouda
+Brie|Brie
+Cottage cheese|Serek wiejski
+Cream cheese|Serek śmietankowy
+Ricotta|Ricotta
+Butter|Masło
+Margarine|Margaryna
+Cream|Śmietanka
+Sour cream|Śmietana kwaśna
+Egg|Jajko
+Egg white|Białko jaja
+Egg yolk|Żółtko jaja
+Egg omelet or scrambled egg|Jajecznica lub omlet
+scrambled|jajecznica
+omelet|omlet
+boiled|gotowane
+hard-boiled|na twardo
+soft-boiled|na miękko
+poached|w koszulce
+fried|smażone
+raw|surowe
+cooked|po ugotowaniu
+baked|pieczone
+roasted|pieczone
+grilled|grillowane
+baked or broiled|pieczone lub opiekane
+or fried|lub smażone
+no added fat|bez dodanego tłuszczu
+fat added|z dodanym tłuszczem
+NS as to fat|rodzaj tłuszczu nieokreślony
+NS as to fat type|rodzaj tłuszczu nieokreślony
+NS as to fat content|zawartość tłuszczu nieokreślona
+NS as to form|postać nieokreślona
+NS as to part|część nieokreślona
+with cheese|z serem
+with vegetables|z warzywami
+with meat|z mięsem
+with beans|z fasolą
+cooked with oil|przygotowane na oleju
+cooked with butter or margarine|przygotowane na maśle lub margarynie
+cooked with butter|przygotowane na maśle
+cooked with margarine|przygotowane na margarynie
+skin eaten|ze skórą
+skin not eaten|bez skóry
+skin / coating eaten|ze skórą lub panierką
+skin / coating not eaten|bez skóry i panierki
+breaded|panierowane
+coated|w panierce
+fresh|świeże
+from fresh|ze świeżych składników
+from frozen|z mrożonki
+from canned|z konserwy
+from dried|z suszonych składników
+frozen|mrożone
+canned|konserwowe
+dried|suszone
+reconstituted|po przygotowaniu z wodą
+not reconstituted|przed dodaniem wody
+as ingredient|jako składnik
+home recipe|przepis domowy
+restaurant|restauracyjne
+from restaurant|z restauracji
+from fast food|z lokalu fast food
+fast food / restaurant|z restauracji lub fast food
+from fast food / restaurant|z restauracji lub fast food
+from restaurant or fast food|z restauracji lub fast food
+from school lunch|posiłek szkolny
+ready-to-eat|gotowe do jedzenia
+ready-to-heat|do podgrzania
+instant|błyskawiczne
+powder|w proszku
+light|lekkie
+reduced fat|o obniżonej zawartości tłuszczu
+reduced sodium|o obniżonej zawartości sodu
+reduced sugar|o obniżonej zawartości cukru
+sugar free|bez cukru
+fat free|beztłuszczowe
+unsalted|bez soli
+salted|solone
+pickled|marynowane
+soft|miękkie
+hard|twarde
+white|białe
+brown|brązowe
+green|zielone
+black|czarne
+whole grain|pełnoziarniste
+whole wheat|z pełnego ziarna pszenicy
+multigrain|wieloziarniste
+gluten free|bezglutenowe
+meatless|bez mięsa
+no sauce|bez sosu
+no dressing|bez dressingu
+with gravy|z sosem pieczeniowym
+with cream sauce|z sosem śmietanowym
+with tomato-based sauce|z sosem pomidorowym
+with raisins|z rodzynkami
+with non-dairy milk|z napojem roślinnym
+made with water|przygotowane na wodzie
+made with milk|przygotowane na mleku
+made with whole milk|przygotowane na mleku pełnotłustym
+made with lowfat milk|przygotowane na mleku niskotłuszczowym
+water|woda
+rice|ryż
+potatoes|ziemniaki
+broccoli|brokuły
+chicken|kurczak
+beef|wołowina
+noodles|makaron
+meat|mięso
+vegetable|warzywne
+poultry|drób
+Bread|Chleb
+Roll|Bułka
+Crackers|Krakersy
+Pretzels|Precle
+Oatmeal|Owsianka
+Pancakes|Naleśniki
+Waffle|Gofry
+Cereal|Płatki śniadaniowe
+Muffin|Muffinka
+Cookie|Ciastko
+Cake or cupcake|Ciasto lub babeczka
+Pie|Ciasto z nadzieniem
+Popcorn|Popcorn
+Potato chips|Chipsy ziemniaczane
+Candy|Cukierki
+Rice|Ryż
+Pasta|Makaron
+Pasta with tomato-based sauce|Makaron z sosem pomidorowym
+Pizza|Pizza
+thin crust|na cienkim cieście
+thick crust|na grubym cieście
+medium crust|na średnim cieście
+Soup|Zupa
+Beef|Wołowina
+Pork|Wieprzowina
+Chicken|Kurczak
+Turkey|Indyk
+Chicken or turkey|Kurczak lub indyk
+Chicken breast|Pierś kurczaka
+Chicken thigh|Udko kurczaka
+Chicken drumstick|Podudzie kurczaka
+Chicken leg|Noga kurczaka
+Fish|Ryba
+Salmon|Łosoś
+Tuna|Tuńczyk
+Shrimp|Krewetki
+steak|stek
+drumstick and thigh|podudzie i udo
+Potato|Ziemniaki
+Carrots|Marchew
+Green beans|Fasolka szparagowa
+Green peas|Groszek zielony
+Corn|Kukurydza
+Spinach|Szpinak
+Broccoli|Brokuły
+Tomato|Pomidor
+Tomatoes|Pomidory
+Lettuce|Sałata
+Cucumber|Ogórek
+Onions|Cebula
+Cabbage|Kapusta
+Cauliflower|Kalafior
+Beets|Buraki
+Peas|Groszek
+Beans|Fasola
+Lentils|Soczewica
+Chickpeas|Ciecierzyca
+Mushrooms|Grzyby
+Squash|Dynia
+Zucchini|Cukinia
+Celery|Seler naciowy
+Asparagus|Szparagi
+Eggplant|Bakłażan
+Peppers|Papryka
+Garlic|Czosnek
+Avocado|Awokado
+Olives|Oliwki
+Apple|Jabłko
+Apples|Jabłka
+Applesauce|Mus jabłkowy
+Banana|Banan
+Bananas|Banany
+Orange|Pomarańcza
+Oranges|Pomarańcze
+Pear|Gruszka
+Pears|Gruszki
+Peach|Brzoskwinia
+Peaches|Brzoskwinie
+Plum|Śliwka
+Plums|Śliwki
+Grapes|Winogrona
+Strawberries|Truskawki
+Raspberries|Maliny
+Blueberries|Borówki
+Blackberries|Jeżyny
+Cherries|Wiśnie
+Pineapple|Ananas
+Watermelon|Arbuz
+Melon|Melon
+Mango|Mango
+Kiwi fruit|Kiwi
+Grapefruit|Grejpfrut
+Lemon|Cytryna
+Raisins|Rodzynki
+Dates|Daktyle
+Apricots|Morele
+Nectarine|Nektarynka
+Fruit salad|Sałatka owocowa
+peel eaten|ze skórką
+peel not eaten|bez skórki
+mashed|rozgniecione
+steamed|na parze
+toasted|opieczone
+Coffee|Kawa
+Tea|Herbata
+Soft drink|Napój gazowany
+Hot chocolate / cocoa|Gorąca czekolada lub kakao
+decaffeinated|bezkofeinowe
+brewed|parzone
+iced|mrożone
+100%|100%
+diet|dietetyczne
+flavored|smakowe
+on white bread|na jasnym chlebie
+on wheat bread|na chlebie pszennym
+on white bun|w jasnej bułce
+on wheat bun|w bułce pszennej
+Cheese sandwich|Kanapka z serem
+Grilled cheese sandwich|Tost z serem
+Hot dog sandwich|Hot dog
+cheese-filled|z nadzieniem serowym
+Puerto Rican style|po portorykańsku
+English|angielskie
+french fries|frytki
+oatmeal|owsiane
+and added vegetables|z dodatkiem warzyw
+Classic mixed vegetables|Mieszanka warzywna
+from pre-cooked|ze wstępnie ugotowanych składników
+Chicken fillet sandwich|Kanapka z filetem kurczaka
+Latte|Kawa latte
+Iced Latte|Mrożona kawa latte
+Sweet potato|Batat
+pre-sweetened with sugar|z dodatkiem cukru
+Chocolate milk|Mleko czekoladowe
+rotisserie|z rożna
+stewed|duszone
+grilled without sauce|grillowane bez sosu
+grilled with sauce|grillowane z sosem
+sauteed|podsmażane
+NS as to type|rodzaj nieokreślony
+hash brown|placki ziemniaczane
+Collards|Kapusta liściasta
+NS as to cooking method|sposób przygotowania nieokreślony
+made with margarine|przygotowane z margaryną
+made with oil|przygotowane z olejem
+made with butter|przygotowane z masłem
+pre-sweetened with low calorie sweetener|ze słodzikiem
+bottled|butelkowane
+salmon|łosoś
+Fish sandwich|Kanapka z rybą
+Breadsticks|Paluszki chlebowe
+Pizza with pepperoni|Pizza z pepperoni
+Black beans|Fasola czarna
+Pinto beans|Fasola pinto
+Kidney beans|Fasola czerwona
+wheat or cracked wheat|pszenne lub z łamanej pszenicy
+pumpkin|dyniowe
+Grits|Kasza kukurydziana
+Peas and carrots|Groszek z marchewką
+for use on a sandwich|do kanapki
+from raw|z surowych składników
+catfish|sum
+cod|dorsz
+flounder|flądra
+haddock|plamiak
+mackerel|makrela
+perch|okoń
+pompano|pompano
+bass|okoń morski
+trout|pstrąg
+whiting|witlinek
+tilapia|tilapia
+mixed species|mieszane gatunki
+White beans|Fasola biała
+Bagel|Bajgiel
+oat bran|z otrębami owsianymi
+Empanada|Empanada
+French toast|Tost francuski
+Burrito|Burrito
+Pizza with meat other than pepperoni|Pizza z mięsem innym niż pepperoni
+Pizza with meat and vegetables|Pizza z mięsem i warzywami
+White pizza|Pizza bianca
+with corn|z kukurydzą
+with peas|z groszkiem
+with carrots|z marchewką
+with peas and carrots|z groszkiem i marchewką
+with dark green vegetables|z ciemnozielonymi warzywami
+with carrots and tomatoes and/or tomato-based sauce|z marchewką i pomidorami lub sosem pomidorowym
+with dark green vegetables and tomatoes and/or tomato-based sauce|z ciemnozielonymi warzywami i pomidorami lub sosem pomidorowym
+with carrots and dark green vegetables|z marchewką i ciemnozielonymi warzywami
+with other vegetables|z innymi warzywami
+with cheese and/or cream based sauce|z sosem serowym lub śmietanowym
+with soy-based sauce|z sosem na bazie soi
+cheese and/or cream based sauce|sos serowy lub śmietanowy
+with vegetables and gravy|z warzywami i sosem pieczeniowym
+soy-based sauce|sos na bazie soi
+scalloped|zapiekane w sosie
+Greens|Warzywa liściaste
+Kale|Jarmuż
+Mustard greens|Liście gorczycy
+Brussels sprouts|Brukselka
+Snowpeas|Groszek cukrowy
+Okra|Okra
+Frozen coffee drink|Mrożony napój kawowy
+Cafe Mocha|Kawa mocha
+Frozen mocha coffee drink|Mrożony napój kawowy mocha
+Iced Cafe Mocha|Mrożona kawa mocha
+Cappuccino|Cappuccino
+Strawberry milk|Mleko truskawkowe
+Coffee creamer|Zabielacz do kawy
+ground|mielone
+Chicken nuggets|Nuggetsy z kurczaka
+Chicken tenders or strips|Stripsy z kurczaka
+Clams|Małże
+Oysters|Ostrygi
+Stew|Gulasz
+Gravy|Sos pieczeniowy
+Egg substitute|Zamiennik jaj
+Lima beans|Fasola lima
+French or Vienna|francuskie lub wiedeńskie
+Tortilla chips|Chipsy tortilla
+Lasagna with meat|Lasagne z mięsem
+Plantain|Banan warzywny
+Seaweed|Wodorosty
+pre-lightened and pre-sweetened with sugar|z zabielaczem i cukrem
+pre-lightened and pre-sweetened with low calorie sweetener|z zabielaczem i słodzikiem
+dry|suche
+evaporated|zagęszczone
+NS as to type of milk|rodzaj mleka nieokreślony
+whole milk|mleko pełnotłuste
+low fat milk|mleko niskotłuszczowe
+nonfat milk|mleko odtłuszczone
+made with non-dairy milk|przygotowane na napoju roślinnym
+regular|standardowe
+Ice cream|Lody
+Pudding|Budyń
+nonfat or fat free|odtłuszczone lub beztłuszczowe
+American cheese|ser amerykański
+cheddar cheese|ser cheddar
+reduced fat cheese|ser o obniżonej zawartości tłuszczu
+Chicken wing|Skrzydełko kurczaka
+light meat|jasne mięso
+drumstick|podudzie
+Duck|Kaczka
+Cornish game hen|Kurczak kornwalijski
+tuna|tuńczyk
+meat and poultry|mięso i drób
+turkey|indyk
+Chili hot dog sandwich|Hot dog z chili
+yolk only|samo żółtko
+with cheese and meat|z serem i mięsem
+Blackeyed peas|Fasola czarne oczko
+bean|fasolowe
+lentil|soczewicowe
+Almonds|Migdały
+Peanuts|Orzeszki ziemne
+Sunflower seeds|Pestki słonecznika
+NS as to major flour|rodzaj mąki nieokreślony
+Cuban|kubańskie
+Croissant|Croissant
+whole grain white|jasne pełnoziarniste
+rye|żytnie
+pumpernickel|pumpernikiel
+Biscuit|Herbatnik
+chocolate chip|z kawałkami czekolady
+wheat|pszenne
+butter|masło
+saltine|solone
+microwave|do mikrofalówki
+school|szkolne
+regular or quick|zwykłe lub błyskawiczne
+O's|w kształcie kółek
+Baby Toddler cereal|Kaszka dla małych dzieci
+Burrito bowl|Miska burrito
+Nachos|Nachos
+
+with whipped cream|z bitą śmietaną
+seafood|owoce morza
+Pasta with cream sauce|Makaron z sosem śmietanowym
+flavors other than fruit|smaki inne niż owocowe
+liquid|płynne
+from dry mix|z suchej mieszanki
+Egg white omelet|Omlet z białek jaj
+Hot dog|Hot dog
+made from home recipe or purchased at a bakery|domowe lub z piekarni
+hot dog bun|bułka do hot doga
+hamburger bun|bułka do hamburgera
+Cream of wheat|Kasza manna
+no cheese|bez sera
+Potato tots|Kuleczki ziemniaczane
+Sweet potato fries|Frytki z batatów
+dry mix|sucha mieszanka
+NS as to skin eaten|nieokreślone spożycie skóry
+made with animal fat or meat drippings|przygotowane na tłuszczu zwierzęcym
+made with cooking spray|przygotowane z tłuszczem w sprayu
+with meat and vegetables|z mięsem i warzywami
+made from home recipe or purchased at bakery|domowe lub z piekarni
+reduced calorie and/or high fiber|o obniżonej kaloryczności lub z dużą ilością błonnika
+wheat bran|otręby pszenne
+barley|jęczmienne
+with beans and rice|z fasolą i ryżem
+beef or pork|wołowe lub wieprzowe
+Quesadilla|Quesadilla
+Turnover or hot pocket|Pierożek z nadzieniem
+Macaroni or noodles with cheese|Makaron z serem
+Spanish rice|Ryż po hiszpańsku
+juice pack|w soku
+in syrup|w syropie
+with chili|z chili
+home fries|domowe smażone ziemniaki
+Turnip greens|Liście rzepy
+Chinese|chińskie
+red|czerwone
+with non-dairy milk and whipped cream|z napojem roślinnym i bitą śmietaną
+cola|cola
+pepper type|typu paprykowego
+Frozen yogurt|Jogurt mrożony
+Milk shake|Koktajl mleczny
+Fruit smoothie|Koktajl owocowy
+half and half|mieszanka mleka i śmietanki
+Whipped topping|Bita polewa
+Light ice cream|Lody o obniżonej zawartości tłuszczu
+flavors other than chocolate|smaki inne niż czekoladowe
+dry grated|tarty suszony
+cottage|typu wiejskiego
+Ham|Szynka
+light or dark meat|jasne lub ciemne mięso
+Bologna|Mortadela
+Pepperoni|Pepperoni
+Pork sausage|Kiełbasa wieprzowa
+stick|w słupkach
+Scallops|Przegrzebki
+Chili with meat|Chili z mięsem
+pork|wieprzowina
+creamed|w śmietanie
+with tomatoes|z pomidorami
+with dark-green vegetables|z ciemnozielonymi warzywami
+with vegetables other than dark green and/or tomatoes|z innymi warzywami niż ciemnozielone i pomidory
+with cheese and tomatoes|z serem i pomidorami
+with cheese and dark-green vegetables|z serem i ciemnozielonymi warzywami
+with cheese and vegetables other than dark green and/or tomatoes|z serem i innymi warzywami niż ciemnozielone i pomidory
+with meat and tomatoes|z mięsem i pomidorami
+with meat and dark-green vegetables|z mięsem i ciemnozielonymi warzywami
+with meat and vegetables other than dark-green and/or tomatoes|z mięsem i innymi warzywami niż ciemnozielone i pomidory
+and tomatoes|i pomidory
+and dark-green vegetables|i ciemnozielone warzywa
+and vegetables other than dark-green and/or tomatoes|i inne warzywa niż ciemnozielone i pomidory
+with potatoes and/or onions|z ziemniakami lub cebulą
+Egg sandwich on white bread|Kanapka z jajkiem na jasnym chlebie
+Egg sandwich on wheat bread|Kanapka z jajkiem na chlebie pszennym
+Egg white sandwich|Kanapka z białkiem jaja
+Refried beans|Pasta ze smażonej fasoli
+soy|sojowe
+lightly salted|lekko solone
+Cashews|Orzechy nerkowca
+Pecans|Orzechy pekan
+Pistachio nuts|Pistacje
+Pumpkin seeds|Pestki dyni
+pita|pita
+cinnamon|cynamonowe
+Garlic bread|Pieczywo czosnkowe
+potato|ziemniaczane
+raisin|z rodzynkami
+sour dough|na zakwasie
+sweet potato|z batatów
+zucchini|z cukinii
+Cheesecake|Sernik
+peanut butter|masło orzechowe
+woven wheat|plecione pszenne
+Corn chips|Chipsy kukurydziane
+restructured|formowane
+cheese flavored|o smaku sera
+Pretzel chips|Chipsy preclowe
+cinnamon sugar coated|w cukrze cynamonowym
+coated or flavored|w panierce lub smakowe
+French toast sticks|Paluszki z tostów francuskich
+Crepe|Cienki naleśnik
+Cornmeal mush|Polenta
+fast food|fast food
+Quinoa|Komosa ryżowa
+Yellow rice|Żółty ryż
+wild|dzikie
+white and wild|białe i dzikie
+brown and wild|brązowe i dzikie
+Bulgur|Kasza bulgur
+other|inne
+with rice|z ryżem
+Enchilada|Enchilada
+Tamale|Tamale
+Gordita|Gordita
+Chimichanga|Chimichanga
+Fajita|Fajita
+Pupusa|Pupusa
+NS as to type of crust|rodzaj ciasta nieokreślony
+Pizza with cheese and extra vegetables|Pizza z serem i dodatkową porcją warzyw
+with meat other than pepperoni|z mięsem innym niż pepperoni
+Pizza with extra meat|Pizza z dodatkową porcją mięsa
+Pizza with extra meat and extra vegetables|Pizza z dodatkowym mięsem i warzywami
+Pizza with meat and fruit|Pizza z mięsem i owocami
+Pasta with tomato-based sauce and meat|Makaron z sosem pomidorowym i mięsem
+Pasta with tomato-based sauce and poultry|Makaron z sosem pomidorowym i drobiem
+Pasta with tomato-based sauce and seafood|Makaron z sosem pomidorowym i owocami morza
+Pasta with cream sauce and meat|Makaron z sosem śmietanowym i mięsem
+Pasta with cream sauce and poultry|Makaron z sosem śmietanowym i drobiem
+Pasta with cream sauce and seafood|Makaron z sosem śmietanowym i owocami morza
+with tomato-based sauce and added vegetables|z sosem pomidorowym i dodatkiem warzyw
+with tomato-based sauce and meat|z sosem pomidorowym i mięsem
+with tomato-based sauce and poultry|z sosem pomidorowym i drobiem
+with tomato-based sauce and seafood|z sosem pomidorowym i owocami morza
+with cream sauce and meat|z sosem śmietanowym i mięsem
+with cream sauce and poultry|z sosem śmietanowym i drobiem
+with cream sauce and seafood|z sosem śmietanowym i owocami morza
+with tomatoes and/or tomato-based sauce|z pomidorami lub sosem pomidorowym
+with lentils|z soczewicą
+with tomatoes and/or tomato based sauce|z pomidorami lub sosem pomidorowym
+Jelly sandwich|Kanapka z galaretką owocową
+Orange juice|Sok pomarańczowy
+Apricot|Morela
+Fig|Figa
+Papaya|Papaja
+popped|prażone
+Winter squash|Dynia zimowa
+Sweet potato tots|Kuleczki z batatów
+Spaghetti sauce|Sos do spaghetti
+Cactus|Kaktus
+hot|gorące
+tomato|pomidorowe
+chicken noodle|z kurczakiem i makaronem
+vegetable soup|zupa warzywna

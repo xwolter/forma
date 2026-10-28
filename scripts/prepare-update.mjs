@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+const root=path.resolve(import.meta.dirname,'..');
+const {version}=JSON.parse(fs.readFileSync(path.join(root,'package.json'),'utf8'));
+const gradle=fs.readFileSync(path.join(root,'android/app/build.gradle'),'utf8');
+const versionCode=Number(gradle.match(/formaVersionCode"\) \?: "(\d+)"/)?.[1]);
+if(!Number.isInteger(versionCode)||versionCode<1)throw new Error('Missing Android version code');
+const apk=path.join(root,'../wydanie',`FORMA-${version}.apk`),bytes=fs.readFileSync(apk);
+const directory=path.join(root,'updates-public/releases');fs.mkdirSync(directory,{recursive:true});
+const manifest={schema:1,packageName:'pl.forma.dziennik',version,versionCode,bytes:bytes.length,sha256:crypto.createHash('sha256').update(bytes).digest('hex'),url:`https://forma-mobi-2026-4e7c1a.web.app/releases/FORMA-${version}.apk`,releasedAt:new Date().toISOString(),notes:['Analiza zdjęcia łączy się z usługą przez adres FORMA.','Czytelniejsza informacja przy problemach z połączeniem.']};
+fs.copyFileSync(apk,path.join(directory,`FORMA-${version}.apk`));
+fs.writeFileSync(path.join(directory,'latest.json'),JSON.stringify(manifest,null,2)+'\n');
+fs.writeFileSync(path.join(root,'updates-public/index.html'),`<!doctype html><html lang="pl"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>FORMA — aplikacja Android</title><style>body{font-family:system-ui,sans-serif;max-width:640px;margin:10vh auto;padding:24px;color:#141414;background:#fff}h1{font-size:52px;letter-spacing:-3px;margin-bottom:8px}p,li{line-height:1.7;color:#50564a}a{display:inline-block;background:#145f50;color:#fff;padding:16px 24px;border-radius:12px;font-weight:700;text-decoration:none;margin:20px 0}small{display:block;word-break:break-all;color:#646960;font-size:11px}</style><h1>FORMA</h1><h2>Twój trening. Twoje jedzenie.</h2><p>Wersja ${version} na Androida · ${(bytes.length/1024/1024).toFixed(1)} MB.</p><a href="/releases/FORMA-${version}.apk">Pobierz FORMA ${version}</a><p>Zainstaluj jako aktualizację poprzedniej wersji, aby zachować dziennik. Kolejne wydania sprawdzisz w aplikacji: Profil → Aktualizacje aplikacji.</p><ul>${manifest.notes.map(n=>'<li>'+n+'</li>').join('')}</ul><p>Publiczny jest instalator. Ta strona nie udostępnia prywatnych wpisów ani kopii użytkowników.</p><small>SHA-256: ${manifest.sha256}</small></html>`);
+console.log(JSON.stringify({version,versionCode,bytes:manifest.bytes,sha256:manifest.sha256}));

@@ -1,0 +1,1020 @@
+[
+  {
+    "id": "incline-db-bench",
+    "name": "Wyciskanie hantli na skosie dodatnim",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw ławkę na niewielki skos dodatni, oprzyj plecy i stopy.",
+      "Prowadź hantle z boków górnej klatki w górę, utrzymując nadgarstki nad łokciami.",
+      "Opuść ciężar spokojnie do wygodnego zakresu."
+    ],
+    "mistakes": [
+      "Odbijanie hantli i nadmierne wyginanie pleców."
+    ],
+    "alternatives": [
+      "incline-bench",
+      "chest-machine"
+    ],
+    "searchTerms": "Incline Dumbbell Press",
+    "sourceId": "Incline_Dumbbell_Press"
+  },
+  {
+    "id": "decline-bench",
+    "name": "Wyciskanie sztangi na skosie ujemnym",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Zabezpiecz nogi w ławce ze skosem ujemnym i skorzystaj z asekuracji.",
+      "Zdejmij sztangę ze stojaków, opuść ją do dolnej części klatki bez odbijania.",
+      "Wyciśnij sztangę, zachowując ustawienie łopatek i nadgarstków."
+    ],
+    "mistakes": [
+      "Niezabezpieczona pozycja na ławce lub brak kontroli sztangi."
+    ],
+    "alternatives": [
+      "bench",
+      "db-bench"
+    ],
+    "searchTerms": "Decline Barbell Bench Press",
+    "sourceId": "Decline_Barbell_Bench_Press"
+  },
+  {
+    "id": "db-fly",
+    "name": "Rozpiętki z hantlami leżąc",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Połóż się na płaskiej ławce z hantlami nad klatką; lekko zegnij łokcie.",
+      "Otwórz ramiona na boki po łuku, bez pogłębiania zakresu kosztem barków.",
+      "Zbliż hantle nad klatką, utrzymując podobne zgięcie łokci."
+    ],
+    "mistakes": [
+      "Prostowanie łokci pod obciążeniem i opuszczanie zbyt nisko."
+    ],
+    "alternatives": [
+      "cable-fly",
+      "pec-deck"
+    ],
+    "searchTerms": "Dumbbell Flyes",
+    "sourceId": "Dumbbell_Flyes"
+  },
+  {
+    "id": "cable-fly",
+    "name": "Rozpiętki na bramie z góry",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Ustaw oba wyciągi wysoko, chwyć uchwyty i zrób stabilny krok w przód.",
+      "Przy lekko ugiętych łokciach zbliż dłonie po łuku przed dolną częścią klatki.",
+      "Powoli otwórz ramiona, nie odchylając tułowia."
+    ],
+    "mistakes": [
+      "Szarpanie całym ciałem i zmienianie ruchu w wyciskanie."
+    ],
+    "alternatives": [
+      "db-fly",
+      "pec-deck"
+    ],
+    "searchTerms": "Cable Crossover",
+    "sourceId": "Cable_Crossover"
+  },
+  {
+    "id": "pec-deck",
+    "name": "Rozpiętki na maszynie — pec deck",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Dopasuj siedzisko tak, aby uchwyty lub poduszki były na wysokości klatki.",
+      "Oprzyj plecy i zbliż ramiona przed sobą bez unoszenia barków.",
+      "Wróć powoli do wygodnego otwarcia ramion."
+    ],
+    "mistakes": [
+      "Odrywanie pleców od oparcia i gwałtowne rozciąganie barków."
+    ],
+    "alternatives": [
+      "db-fly",
+      "cable-fly"
+    ],
+    "searchTerms": "Butterfly",
+    "sourceId": "Butterfly"
+  },
+  {
+    "id": "dips",
+    "name": "Pompki na poręczach — dips",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Podeprzyj się na stabilnych poręczach; lekko pochyl tułów.",
+      "Zegnij łokcie i opuść ciało w kontrolowanym, wygodnym zakresie.",
+      "Odepchnij poręcze, wracając do stabilnego podporu."
+    ],
+    "mistakes": [
+      "Zbyt głębokie opuszczanie i kołysanie ciałem."
+    ],
+    "alternatives": [
+      "pushup",
+      "close-grip-bench"
+    ],
+    "searchTerms": "Dips - Chest Version",
+    "sourceId": "Dips_-_Chest_Version"
+  },
+  {
+    "id": "close-grip-bench",
+    "name": "Wyciskanie sztangi wąskim chwytem",
+    "muscle": "Triceps",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Połóż się stabilnie na ławce i chwyć sztangę mniej więcej na szerokość barków.",
+      "Opuść sztangę do dolnej części klatki, prowadząc łokcie blisko tułowia.",
+      "Wyciśnij w górę, utrzymując nadgarstki nad przedramionami."
+    ],
+    "mistakes": [
+      "Zbyt wąski chwyt wyginający nadgarstki i odbijanie od klatki."
+    ],
+    "alternatives": [
+      "triceps-pushdown",
+      "rope-pushdown"
+    ],
+    "searchTerms": "Close-Grip Barbell Bench Press",
+    "sourceId": "Close-Grip_Barbell_Bench_Press"
+  },
+  {
+    "id": "db-pullover",
+    "name": "Przenoszenie hantla za głowę leżąc",
+    "muscle": "Klatka piersiowa",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Klatka piersiowa",
+    "instructions": [
+      "Oprzyj górną część pleców na stabilnej ławce i trzymaj jeden hantel obiema dłońmi nad klatką.",
+      "Przy lekko ugiętych łokciach przenieś ciężar za głowę tylko do wygodnego zakresu.",
+      "Wróć nad klatkę bez wypychania żeber i wyginania lędźwi."
+    ],
+    "mistakes": [
+      "Zbyt głęboki ruch i utrata stabilnej pozycji tułowia."
+    ],
+    "alternatives": [
+      "straight-arm-pulldown"
+    ],
+    "searchTerms": "Bent-Arm Dumbbell Pullover",
+    "sourceId": "Bent-Arm_Dumbbell_Pullover",
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "chin-up",
+    "name": "Podciąganie podchwytem",
+    "muscle": "Plecy",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Plecy",
+    "instructions": [
+      "Chwyć drążek podchwytem mniej więcej na szerokość barków.",
+      "Zacznij od aktywnych barków i przyciągnij tułów w stronę drążka bez zamachu.",
+      "Opuść się powoli do kontrolowanej pozycji początkowej."
+    ],
+    "mistakes": [
+      "Zarzucanie nóg i wyciąganie szyi zamiast podciągania tułowia."
+    ],
+    "alternatives": [
+      "pullup",
+      "assisted-pullup",
+      "pulldown"
+    ],
+    "searchTerms": "Chin-Up",
+    "sourceId": "Chin-Up"
+  },
+  {
+    "id": "single-db-row",
+    "name": "Wiosłowanie hantlem jednorącz z podparciem",
+    "muscle": "Plecy",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Oprzyj jedną dłoń i kolano o ławkę, drugą stopę postaw stabilnie na podłodze.",
+      "Przyciągnij hantel w stronę biodra, prowadząc łokieć blisko tułowia.",
+      "Opuść ramię bez obracania tułowia; wykonaj obie strony."
+    ],
+    "mistakes": [
+      "Skręcanie tułowia i szarpanie ciężarem."
+    ],
+    "alternatives": [
+      "row",
+      "machine-row",
+      "db-row"
+    ],
+    "searchTerms": "One-Arm Dumbbell Row",
+    "sourceId": "One-Arm_Dumbbell_Row"
+  },
+  {
+    "id": "t-bar-row",
+    "name": "Wiosłowanie końcem sztangi — T-bar",
+    "muscle": "Plecy",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Plecy",
+    "instructions": [
+      "Zabezpiecz koniec sztangi w przeznaczonym uchwycie i chwyć rączkę oburącz.",
+      "W pochyleniu tułowia przyciągnij obciążony koniec sztangi w stronę brzucha.",
+      "Opuść ciężar, zachowując stabilne plecy i kolana."
+    ],
+    "mistakes": [
+      "Prostowanie tułowia przy każdym powtórzeniu i brak zabezpieczenia sztangi."
+    ],
+    "alternatives": [
+      "barbell-row",
+      "machine-row"
+    ],
+    "searchTerms": "T-Bar Row with Handle",
+    "sourceId": "T-Bar_Row_with_Handle"
+  },
+  {
+    "id": "straight-arm-pulldown",
+    "name": "Ściąganie drążka prostymi ramionami",
+    "muscle": "Plecy",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Plecy",
+    "instructions": [
+      "Chwyć drążek górnego wyciągu, zrób krok w tył i lekko pochyl tułów.",
+      "Zachowując niewielkie zgięcie łokci, sprowadź drążek po łuku w stronę ud.",
+      "Powoli unieś ramiona, nie wyginając dolnej części pleców."
+    ],
+    "mistakes": [
+      "Zginanie łokci jak w prostowaniu na triceps i kołysanie tułowiem."
+    ],
+    "alternatives": [
+      "db-pullover",
+      "pulldown"
+    ],
+    "searchTerms": "Straight-Arm Pulldown",
+    "sourceId": "Straight-Arm_Pulldown"
+  },
+  {
+    "id": "reverse-fly",
+    "name": "Odwrotne rozpiętki z hantlami w opadzie",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Pochyl tułów z bioder, lekko zegnij kolana i ustaw stabilne plecy.",
+      "Przy miękkich łokciach unieś ramiona na boki, bez unoszenia barków do uszu.",
+      "Opuść hantle powoli, zachowując pozycję tułowia."
+    ],
+    "mistakes": [
+      "Rozpędzanie ciężaru nogami i nadmierne prostowanie tułowia."
+    ],
+    "alternatives": [
+      "rear-delt-machine",
+      "face-pull"
+    ],
+    "searchTerms": "Reverse Flyes",
+    "sourceId": "Reverse_Flyes"
+  },
+  {
+    "id": "face-pull",
+    "name": "Przyciąganie liny do twarzy — face pull",
+    "muscle": "Barki",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Ustaw wyciąg na wysokości górnej klatki lub twarzy i chwyć linę oburącz.",
+      "Przyciągnij końce liny w stronę boków twarzy, kierując łokcie na zewnątrz.",
+      "Wróć spokojnie, utrzymując żebra i tułów stabilnie."
+    ],
+    "mistakes": [
+      "Zadzieranie barków i przechylanie tułowia w tył."
+    ],
+    "alternatives": [
+      "reverse-fly",
+      "rear-delt-machine"
+    ],
+    "searchTerms": "Face Pull",
+    "sourceId": "Face_Pull"
+  },
+  {
+    "id": "db-shrug",
+    "name": "Unoszenie barków z hantlami — szrugsy",
+    "muscle": "Górna część pleców",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Górna część pleców",
+    "instructions": [
+      "Stań prosto z hantlami przy bokach i głową w naturalnym ustawieniu.",
+      "Unieś barki w górę bez zginania łokci i kręcenia ramionami.",
+      "Opuść barki powoli, zachowując stabilny tułów."
+    ],
+    "mistakes": [
+      "Krążenie barkami i szarpanie ciężaru."
+    ],
+    "alternatives": [
+      "face-pull"
+    ],
+    "searchTerms": "Dumbbell Shrug",
+    "sourceId": "Dumbbell_Shrug"
+  },
+  {
+    "id": "back-extension",
+    "name": "Wyprosty tułowia na ławce rzymskiej",
+    "muscle": "Prostowniki grzbietu",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Prostowniki grzbietu",
+    "instructions": [
+      "Ustaw poduszkę poniżej zgięcia bioder i stabilnie oprzyj stopy.",
+      "Pochyl tułów ruchem w biodrach, utrzymując plecy w wygodnej pozycji.",
+      "Wróć do linii nóg i tułowia; nie wyginaj pleców powyżej tej linii."
+    ],
+    "mistakes": [
+      "Zadzieranie głowy i przeprost w górnej pozycji."
+    ],
+    "alternatives": [
+      "rdl",
+      "glute-bridge"
+    ],
+    "searchTerms": "Hyperextensions (Back Extensions)",
+    "sourceId": "Hyperextensions_Back_Extensions"
+  },
+  {
+    "id": "front-squat",
+    "name": "Przysiad ze sztangą z przodu",
+    "muscle": "Przód uda",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Oprzyj sztangę na przedniej części barków, unieś łokcie i ustaw stopy stabilnie.",
+      "Zegnij biodra i kolana, utrzymując ciężar nad środkiem stopy.",
+      "Wstań, prowadząc kolana zgodnie z kierunkiem stóp i nie opuszczając łokci."
+    ],
+    "mistakes": [
+      "Opuszczanie łokci i utrata podparcia sztangi."
+    ],
+    "alternatives": [
+      "goblet",
+      "squat",
+      "hack-squat"
+    ],
+    "searchTerms": "Front Squat (Clean Grip)",
+    "sourceId": "Front_Squat_Clean_Grip"
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "name": "Przysiad bułgarski z hantlami",
+    "muscle": "Przód uda",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Przód uda",
+    "instructions": [
+      "Oprzyj tylną stopę na stabilnej ławce, przednią ustaw na wygodną odległość.",
+      "Z hantlami przy bokach opuść biodra, zginając przednie kolano w linii stopy.",
+      "Wstań przez nacisk przedniej stopy; wykonaj obie strony."
+    ],
+    "mistakes": [
+      "Zbyt wąskie ustawienie stóp i utrata równowagi."
+    ],
+    "alternatives": [
+      "reverse-lunge-db",
+      "lunge"
+    ],
+    "searchTerms": "Split Squat with Dumbbells",
+    "sourceId": "Split_Squat_with_Dumbbells"
+  },
+  {
+    "id": "reverse-lunge-db",
+    "name": "Zakroki z hantlami",
+    "muscle": "Nogi i pośladki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Nogi i pośladki",
+    "instructions": [
+      "Stań stabilnie z hantlami przy bokach.",
+      "Zrób krok w tył i opuść biodra, utrzymując przednią stopę w całości na podłodze.",
+      "Odepchnij się przednią nogą i wróć do stania; zmieniaj strony."
+    ],
+    "mistakes": [
+      "Zbyt wąski krok i zapadanie przedniego kolana do środka."
+    ],
+    "alternatives": [
+      "lunge",
+      "bulgarian-split-squat"
+    ],
+    "searchTerms": "Dumbbell Rear Lunge",
+    "sourceId": "Dumbbell_Rear_Lunge"
+  },
+  {
+    "id": "walking-lunge",
+    "name": "Wykroki chodzone bez obciążenia",
+    "muscle": "Nogi i pośladki",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Nogi i pośladki",
+    "instructions": [
+      "Wybierz wolny od przeszkód odcinek i stań prosto.",
+      "Zrób krok w przód, ugnij obie nogi i utrzymuj równowagę.",
+      "Przenieś ciężar na przednią nogę i wykonaj następny krok drugą nogą."
+    ],
+    "mistakes": [
+      "Pośpiech i skręcanie kolana na postawionej stopie."
+    ],
+    "alternatives": [
+      "reverse-lunge-db",
+      "lunge"
+    ],
+    "searchTerms": "Bodyweight Walking Lunge",
+    "sourceId": "Bodyweight_Walking_Lunge"
+  },
+  {
+    "id": "step-up-db",
+    "name": "Wejścia na podest z hantlami",
+    "muscle": "Nogi i pośladki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Nogi i pośladki",
+    "instructions": [
+      "Wybierz stabilny podest i postaw na nim całą stopę jednej nogi.",
+      "Wejdź na podest, naciskając nogą stojącą wyżej; ogranicz odbijanie z podłogi.",
+      "Zejdź powoli w kontrolowany sposób i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Za wysoki lub niestabilny podest i odpychanie głównie dolną nogą."
+    ],
+    "alternatives": [
+      "bulgarian-split-squat",
+      "lunge"
+    ],
+    "searchTerms": "Dumbbell Step Ups",
+    "sourceId": "Dumbbell_Step_Ups"
+  },
+  {
+    "id": "hip-thrust",
+    "name": "Hip thrust ze sztangą",
+    "muscle": "Pośladki",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Oprzyj górną część pleców o zabezpieczoną ławkę, sztangę z podkładką ułóż nad biodrami.",
+      "Wciśnij stopy w podłogę i unieś biodra, utrzymując żebra opuszczone.",
+      "Zatrzymaj tułów w linii ud, następnie spokojnie opuść biodra."
+    ],
+    "mistakes": [
+      "Zastępowanie wyprostu bioder przeprostem lędźwi."
+    ],
+    "alternatives": [
+      "glute-bridge",
+      "rdl"
+    ],
+    "searchTerms": "Barbell Hip Thrust",
+    "sourceId": "Barbell_Hip_Thrust"
+  },
+  {
+    "id": "hip-abduction",
+    "name": "Odwodzenie nóg na maszynie",
+    "muscle": "Pośladki",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Pośladki",
+    "instructions": [
+      "Usiądź i dopasuj poduszki do zewnętrznych stron kolan według konstrukcji maszyny.",
+      "Rozsuń uda w wygodnym zakresie bez kołysania tułowiem.",
+      "Powoli wróć, nie pozwalając opaść stosowi ciężarów."
+    ],
+    "mistakes": [
+      "Gwałtowne ruchy i odrywanie bioder od siedziska."
+    ],
+    "alternatives": [
+      "glute-bridge"
+    ],
+    "searchTerms": "Thigh Abductor",
+    "sourceId": "Thigh_Abductor"
+  },
+  {
+    "id": "hip-adduction",
+    "name": "Przywodzenie nóg na maszynie",
+    "muscle": "Przywodziciele uda",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Przywodziciele uda",
+    "instructions": [
+      "Usiądź, oprzyj plecy i ustaw poduszki po wewnętrznej stronie ud.",
+      "Zbliż uda do siebie w kontrolowanym tempie.",
+      "Powoli wróć do wygodnego rozstawu, bez wymuszania rozciągnięcia."
+    ],
+    "mistakes": [
+      "Zbyt szeroka pozycja startowa i szarpanie ciężarem."
+    ],
+    "alternatives": [
+      "sumo-deadlift"
+    ],
+    "searchTerms": "Thigh Adductor",
+    "sourceId": "Thigh_Adductor"
+  },
+  {
+    "id": "sumo-deadlift",
+    "name": "Martwy ciąg sumo",
+    "muscle": "Nogi i plecy",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Nogi i plecy",
+    "instructions": [
+      "Ustaw stopy szerzej niż barki, skieruj palce na zewnątrz i chwyć sztangę między kolanami.",
+      "Napnij tułów i wyprostuj biodra oraz kolana, prowadząc sztangę blisko nóg.",
+      "Opuść sztangę z kontrolą przez zgięcie bioder i kolan."
+    ],
+    "mistakes": [
+      "Odrywanie sztangi szarpnięciem i zapadanie kolan do środka."
+    ],
+    "alternatives": [
+      "deadlift",
+      "trap-deadlift"
+    ],
+    "searchTerms": "Sumo Deadlift",
+    "sourceId": "Sumo_Deadlift"
+  },
+  {
+    "id": "single-leg-kb-rdl",
+    "name": "Martwy ciąg na jednej nodze z kettlebellem",
+    "muscle": "Tył uda i pośladki",
+    "equipment": "Kettlebell",
+    "loadType": "dumbbell",
+    "pattern": "Tył uda i pośladki",
+    "instructions": [
+      "Trzymaj kettlebell w jednej dłoni i oprzyj ciężar na nodze po tej samej stronie.",
+      "Przy lekko ugiętym kolanie cofnij biodro, pochyl tułów i wysuń wolną nogę w tył.",
+      "Wróć do stania, utrzymując biodra w podobnym ustawieniu; wykonaj obie strony."
+    ],
+    "mistakes": [
+      "Skręcanie bioder i zaokrąglanie pleców dla większego zasięgu."
+    ],
+    "alternatives": [
+      "rdl",
+      "db-rdl"
+    ],
+    "searchTerms": "Kettlebell One-Legged Deadlift",
+    "sourceId": "Kettlebell_One-Legged_Deadlift",
+    "loadMultiplier": 1,
+    "loadHint": "jeden kettlebell · kg"
+  },
+  {
+    "id": "calf-press",
+    "name": "Wspięcia na palce na suwnicy",
+    "muscle": "Łydki",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Łydki",
+    "instructions": [
+      "Usiądź na suwnicy z przednią częścią stóp pewnie opartą o dolną krawędź platformy.",
+      "Przy stabilnych kolanach wyprostuj stawy skokowe, naciskając palcami na platformę.",
+      "Opuść pięty powoli w wygodnym zakresie; zachowaj pewne oparcie stóp."
+    ],
+    "mistakes": [
+      "Ześlizgiwanie stóp i sprężynowanie ciężarem."
+    ],
+    "alternatives": [
+      "calf",
+      "seated-calf"
+    ],
+    "searchTerms": "Calf Press On The Leg Press Machine",
+    "sourceId": "Calf_Press_On_The_Leg_Press_Machine"
+  },
+  {
+    "id": "arnold-press",
+    "name": "Wyciskanie Arnolda",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź stabilnie z hantlami przed barkami i wnętrzem dłoni w stronę twarzy.",
+      "Wyciskaj hantle w górę, stopniowo obracając ramiona do chwytu skierowanego w przód.",
+      "Opuść je po odwrotnym torze, bez wymuszania rotacji barków."
+    ],
+    "mistakes": [
+      "Zbyt duży ciężar i odchylanie tułowia."
+    ],
+    "alternatives": [
+      "shoulder",
+      "shoulder-machine"
+    ],
+    "searchTerms": "Arnold Dumbbell Press",
+    "sourceId": "Arnold_Dumbbell_Press"
+  },
+  {
+    "id": "front-raise",
+    "name": "Unoszenie hantli w przód naprzemiennie",
+    "muscle": "Barki",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Barki",
+    "instructions": [
+      "Stań z hantlami przed udami, łokcie pozostaw lekko ugięte.",
+      "Unieś jedno ramię w przód do okolic wysokości barku bez zamachu.",
+      "Opuść hantel z kontrolą, a następnie wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Kołysanie tułowiem i unoszenie barku do ucha."
+    ],
+    "alternatives": [
+      "lateral",
+      "shoulder"
+    ],
+    "searchTerms": "Front Dumbbell Raise",
+    "sourceId": "Front_Dumbbell_Raise"
+  },
+  {
+    "id": "rear-delt-machine",
+    "name": "Odwrotne rozpiętki na maszynie",
+    "muscle": "Barki",
+    "equipment": "Maszyna",
+    "loadType": "machine",
+    "pattern": "Barki",
+    "instructions": [
+      "Usiądź przodem do oparcia i ustaw uchwyty na wysokości barków.",
+      "Odwiedź ramiona do tyłu, zachowując lekkie zgięcie łokci.",
+      "Wróć powoli, nie odrywając klatki od oparcia."
+    ],
+    "mistakes": [
+      "Unoszenie barków i wymuszanie zbyt dużego zakresu."
+    ],
+    "alternatives": [
+      "reverse-fly",
+      "face-pull"
+    ],
+    "searchTerms": "Reverse Machine Flyes",
+    "sourceId": "Reverse_Machine_Flyes"
+  },
+  {
+    "id": "incline-curl",
+    "name": "Uginanie ramion z hantlami na ławce skośnej",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Oprzyj plecy o skośną ławkę i pozwól ramionom swobodnie zwisać przy tułowiu.",
+      "Zegnij łokcie, unosząc hantle bez przesuwania ramion w przód.",
+      "Opuść je spokojnie, zachowując wygodne ustawienie barków."
+    ],
+    "mistakes": [
+      "Odrywanie pleców i zarzucanie ciężaru."
+    ],
+    "alternatives": [
+      "curl",
+      "concentration-curl"
+    ],
+    "searchTerms": "Incline Dumbbell Curl",
+    "sourceId": "Incline_Dumbbell_Curl"
+  },
+  {
+    "id": "preacher-curl",
+    "name": "Uginanie ramion ze sztangą na modlitewniku",
+    "muscle": "Biceps",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Dopasuj siedzisko i oprzyj górną część ramion o poduszkę modlitewnika.",
+      "Unieś sztangę przez zgięcie łokci, bez unoszenia ramion z podparcia.",
+      "Opuść powoli; nie doprowadzaj do gwałtownego przeprostu łokci."
+    ],
+    "mistakes": [
+      "Odbijanie ciężaru od dolnej pozycji i odrywanie ramion od poduszki."
+    ],
+    "alternatives": [
+      "barbell-curl",
+      "concentration-curl"
+    ],
+    "searchTerms": "Preacher Curl",
+    "sourceId": "Preacher_Curl"
+  },
+  {
+    "id": "concentration-curl",
+    "name": "Uginanie ramienia w podparciu o udo",
+    "muscle": "Biceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Usiądź z rozstawionymi stopami i oprzyj tylną część ramienia o wewnętrzną stronę uda.",
+      "Zegnij łokieć, unosząc hantel bez obracania tułowia.",
+      "Opuść ciężar powoli i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Podrzucanie hantla tułowiem i odrywanie ramienia od uda."
+    ],
+    "alternatives": [
+      "curl",
+      "preacher-curl"
+    ],
+    "searchTerms": "Concentration Curls",
+    "sourceId": "Concentration_Curls"
+  },
+  {
+    "id": "reverse-curl",
+    "name": "Uginanie ramion ze sztangą nachwytem",
+    "muscle": "Przedramiona",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Przedramiona",
+    "instructions": [
+      "Stań stabilnie i chwyć sztangę nachwytem na wygodną szerokość.",
+      "Zegnij łokcie, utrzymując nadgarstki w przedłużeniu przedramion.",
+      "Opuść sztangę bez kołysania i bez zginania nadgarstków."
+    ],
+    "mistakes": [
+      "Za duży ciężar, zadzieranie nadgarstków i zamach tułowiem."
+    ],
+    "alternatives": [
+      "hammer-curl",
+      "barbell-curl"
+    ],
+    "searchTerms": "Reverse Barbell Curl",
+    "sourceId": "Reverse_Barbell_Curl"
+  },
+  {
+    "id": "ez-curl",
+    "name": "Uginanie ramion ze sztangą łamaną",
+    "muscle": "Biceps",
+    "equipment": "Sztanga",
+    "loadType": "barbell",
+    "pattern": "Biceps",
+    "instructions": [
+      "Chwyć sztangę łamaną w wygodnych miejscach i ustaw łokcie przy tułowiu.",
+      "Unieś sztangę przez zgięcie łokci, zachowując stabilny tułów.",
+      "Powoli wróć do pozycji początkowej."
+    ],
+    "mistakes": [
+      "Przenoszenie łokci w przód i kołysanie tułowiem."
+    ],
+    "alternatives": [
+      "barbell-curl",
+      "curl"
+    ],
+    "searchTerms": "EZ-Bar Curl",
+    "sourceId": "EZ-Bar_Curl"
+  },
+  {
+    "id": "overhead-cable-triceps",
+    "name": "Prostowanie ramion z liną nad głową",
+    "muscle": "Triceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Chwyć linę dolnego wyciągu, ustaw ją za głową i stań stabilnie tyłem do stosu.",
+      "Wyprostuj łokcie nad głową, utrzymując ramiona blisko uszu w wygodnym ustawieniu.",
+      "Zegnij łokcie i powoli opuść linę za głowę bez zmiany pozycji tułowia."
+    ],
+    "mistakes": [
+      "Rozchylanie łokci i wyginanie dolnej części pleców."
+    ],
+    "alternatives": [
+      "db-overhead-triceps",
+      "rope-pushdown"
+    ],
+    "searchTerms": "Cable Rope Overhead Triceps Extension",
+    "sourceId": "Cable_Rope_Overhead_Triceps_Extension"
+  },
+  {
+    "id": "rope-pushdown",
+    "name": "Prostowanie ramion z liną na wyciągu",
+    "muscle": "Triceps",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Triceps",
+    "instructions": [
+      "Chwyć linę górnego wyciągu i ustaw łokcie blisko tułowia.",
+      "Wyprostuj łokcie, sprowadzając końce liny po bokach bioder.",
+      "Powoli ugnij łokcie, zachowując pozycję ramion."
+    ],
+    "mistakes": [
+      "Szarpanie barkami i dociskanie liny ciężarem tułowia."
+    ],
+    "alternatives": [
+      "triceps-pushdown",
+      "single-triceps-pushdown"
+    ],
+    "searchTerms": "Triceps Pushdown - Rope Attachment",
+    "sourceId": "Triceps_Pushdown_-_Rope_Attachment"
+  },
+  {
+    "id": "db-overhead-triceps",
+    "name": "Prostowanie ramion z jednym hantlem nad głową",
+    "muscle": "Triceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Usiądź stabilnie i trzymaj jeden hantel obiema dłońmi nad głową.",
+      "Przy ramionach w wygodnej pozycji zegnij łokcie, opuszczając hantel za głowę.",
+      "Wyprostuj łokcie bez odchylania tułowia."
+    ],
+    "mistakes": [
+      "Wymuszanie ustawienia barków i przeprost lędźwi."
+    ],
+    "alternatives": [
+      "overhead-cable-triceps",
+      "rope-pushdown"
+    ],
+    "searchTerms": "Seated Triceps Press",
+    "sourceId": "Seated_Triceps_Press",
+    "loadMultiplier": 1,
+    "loadHint": "jeden hantel · kg"
+  },
+  {
+    "id": "triceps-kickback",
+    "name": "Prostowanie ramienia z hantlem w opadzie",
+    "muscle": "Triceps",
+    "equipment": "Hantle",
+    "loadType": "dumbbell",
+    "pattern": "Triceps",
+    "instructions": [
+      "Podeprzyj się stabilnie, pochyl tułów i ustaw ramię przy jego boku.",
+      "Wyprostuj łokieć, przenosząc hantel do tyłu bez opuszczania ramienia.",
+      "Powoli ugnij łokieć i wykonaj drugą stronę."
+    ],
+    "mistakes": [
+      "Wymachiwanie całym ramieniem i obracanie tułowia."
+    ],
+    "alternatives": [
+      "single-triceps-pushdown",
+      "rope-pushdown"
+    ],
+    "searchTerms": "Tricep Dumbbell Kickback",
+    "sourceId": "Tricep_Dumbbell_Kickback"
+  },
+  {
+    "id": "hanging-leg-raise",
+    "name": "Unoszenie nóg w zwisie",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Zawiśnij na stabilnym drążku, utrzymując aktywne barki i spokojną pozycję.",
+      "Unieś nogi w przód przez zgięcie bioder i lekkie podwinięcie miednicy.",
+      "Opuść je wolno, zatrzymując kołysanie przed następnym powtórzeniem."
+    ],
+    "mistakes": [
+      "Rozpędzanie nóg zamachem i szarpanie barków."
+    ],
+    "alternatives": [
+      "reverse-crunch",
+      "crunch"
+    ],
+    "searchTerms": "Hanging Leg Raise",
+    "sourceId": "Hanging_Leg_Raise"
+  },
+  {
+    "id": "cable-crunch",
+    "name": "Spięcia brzucha klęcząc na wyciągu",
+    "muscle": "Brzuch",
+    "equipment": "Wyciąg",
+    "loadType": "machine",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Uklęknij przed górnym wyciągiem, trzymając linę obok głowy.",
+      "Zbliż żebra do miednicy przez kontrolowane zgięcie tułowia, bez ciągnięcia rękami.",
+      "Powoli wróć, zachowując podobne ustawienie bioder."
+    ],
+    "mistakes": [
+      "Siadanie biodrami do tyłu zamiast zgięcia tułowia i szarpanie szyją."
+    ],
+    "alternatives": [
+      "machine-crunch",
+      "crunch"
+    ],
+    "searchTerms": "Cable Crunch",
+    "sourceId": "Cable_Crunch"
+  },
+  {
+    "id": "reverse-crunch",
+    "name": "Odwrotne spięcia brzucha",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach, ugnij kolana i unieś stopy.",
+      "Podwiń miednicę, delikatnie odrywając biodra od podłogi bez rozpędu.",
+      "Powoli opuść biodra i zachowaj kontrolę lędźwi."
+    ],
+    "mistakes": [
+      "Wymachiwanie nogami i rzucanie bioder na podłogę."
+    ],
+    "alternatives": [
+      "crunch",
+      "hanging-leg-raise"
+    ],
+    "searchTerms": "Reverse Crunch",
+    "sourceId": "Reverse_Crunch"
+  },
+  {
+    "id": "ab-wheel",
+    "name": "Wyjazdy z kółkiem z klęku",
+    "muscle": "Brzuch",
+    "equipment": "Kółko",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Uklęknij na miękkim podłożu i chwyć kółko pod barkami.",
+      "Tocząc kółko w przód, wydłuż tułów tylko do zakresu pozwalającego kontrolować lędźwie.",
+      "Wróć do klęku bez gwałtownego zginania bioder."
+    ],
+    "mistakes": [
+      "Opadanie brzucha i wyjeżdżanie dalej niż pozwala stabilizacja tułowia."
+    ],
+    "alternatives": [
+      "plank",
+      "reverse-crunch"
+    ],
+    "searchTerms": "Ab Roller",
+    "sourceId": "Ab_Roller"
+  },
+  {
+    "id": "side-plank",
+    "name": "Plank bokiem — podpór na przedramieniu",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na boku, ustaw łokieć pod barkiem i oprzyj przedramię.",
+      "Unieś biodra, ustawiając głowę, tułów i nogi w jednej linii.",
+      "Utrzymuj pozycję przez zaplanowany czas, potem spokojnie opuść biodra i zmień stronę."
+    ],
+    "mistakes": [
+      "Opadanie bioder i obracanie tułowia ku podłodze."
+    ],
+    "alternatives": [
+      "plank"
+    ],
+    "searchTerms": "Side Bridge",
+    "sourceId": "Side_Bridge",
+    "metric": "seconds"
+  },
+  {
+    "id": "bicycle-crunch",
+    "name": "Spięcia brzucha naprzemienne — rowerek",
+    "muscle": "Brzuch",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Brzuch",
+    "instructions": [
+      "Połóż się na plecach, unieś ugięte nogi i lekko podeprzyj głowę dłońmi.",
+      "Zbliż jeden bark do przeciwnego kolana, prostując drugą nogę w wygodnym zakresie.",
+      "Zmieniaj strony powoli, bez ciągnięcia za szyję."
+    ],
+    "mistakes": [
+      "Szybkie machanie nogami i szarpanie głowy rękami."
+    ],
+    "alternatives": [
+      "crunch",
+      "reverse-crunch"
+    ],
+    "searchTerms": "Air Bike",
+    "sourceId": "Air_Bike"
+  },
+  {
+    "id": "mountain-climber",
+    "name": "Naprzemienne przyciąganie kolan w podporze",
+    "muscle": "Całe ciało",
+    "equipment": "Masa ciała",
+    "loadType": "bodyweight",
+    "pattern": "Całe ciało",
+    "instructions": [
+      "Ustaw podpór na dłoniach pod barkami, utrzymując tułów w stabilnej linii.",
+      "Przyciągnij jedno kolano pod biodro, a następnie zmień nogi.",
+      "Utrzymuj kontrolowane tempo przez zaplanowany czas, bez unoszenia bioder."
+    ],
+    "mistakes": [
+      "Opadanie lędźwi i zbyt szybkie ruchy kosztem stabilności."
+    ],
+    "alternatives": [
+      "plank",
+      "step-back-burpee"
+    ],
+    "searchTerms": "Mountain Climbers",
+    "sourceId": "Mountain_Climbers",
+    "metric": "seconds"
+  }
+]

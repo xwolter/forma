@@ -1,0 +1,52 @@
+rules_version = '2';
+// Private immutable backups. No public profiles, roles, or shared documents.
+// Manifest: version:int=1, createdAt:server timestamp (immutable),
+// count:int 1..20000 (immutable), complete:bool false -> true only.
+// Record: table:known enum; payload:JSON string, 2..100000 characters.
+// Payload data grant no privileges; the app validates their domain schema on restore.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function owner(uid) {
+      return request.auth != null && request.auth.uid == uid
+        && request.auth.token.email_verified == true;
+    }
+    function validId(id) { return id.matches('^[a-zA-Z0-9_-]{1,80}$'); }
+    function withinLimit(maximum) {
+      return request.query.limit != null && request.query.limit > 0 && request.query.limit <= maximum;
+    }
+    function validManifest(r) {
+      let keys = ['version','createdAt','count','complete'];
+      return r.keys().hasAll(keys) && r.keys().hasOnly(keys)
+        && r.version == 1 && r.createdAt is timestamp
+        && r.count is int && r.count >= 1 && r.count <= 20000 && r.complete is bool;
+    }
+    function validRecord(r) {
+      return r.keys().hasAll(['table','payload']) && r.keys().hasOnly(['table','payload'])
+        && r.table in ['profiles','goals','equipment','plans','sessions','sets','products','food','recipes','measurements','daily','activities']
+        && r.payload is string && r.payload.size() >= 2 && r.payload.size() <= 100000;
+    }
+    match /users/{uid}/backups/{backupId} {
+      allow get: if owner(uid);
+      allow list: if owner(uid) && withinLimit(10);
+      allow create: if owner(uid) && validId(backupId) && validManifest(request.resource.data)
+        && request.resource.data.complete == false && request.resource.data.createdAt == request.time;
+      allow update: if owner(uid) && validManifest(request.resource.data)
+        && resource.data.complete == false && request.resource.data.complete == true
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['complete']);
+      // Removing a backup is explicit owner action. Records can be cleaned only afterwards.
+      allow delete: if owner(uid);
+      match /records/{recordId} {
+        function parentExists() { return exists(/databases/$(database)/documents/users/$(uid)/backups/$(backupId)); }
+        function parent() { return get(/databases/$(database)/documents/users/$(uid)/backups/$(backupId)).data; }
+        allow get: if owner(uid) && parentExists();
+        allow list: if owner(uid) && parentExists() && withinLimit(400);
+        allow create: if owner(uid) && parentExists() && parent().complete == false
+          && recordId.matches('^(0|[1-9][0-9]{0,4})$') && int(recordId) < parent().count
+          && validRecord(request.resource.data);
+        allow update: if false;
+        allow delete: if owner(uid) && !parentExists();
+      }
+    }
+    match /{document=**} { allow read, write: if false; }
+  }
+}
