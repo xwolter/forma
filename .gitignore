@@ -25,3 +25,5 @@ docs/firebase-security-audit.json
 docs/ekran-glowny-*.png
 docs/zakres.md
 .firebase/
+docs/design-*
+docs/firebase-setup.md
